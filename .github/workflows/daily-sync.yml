@@ -43,6 +43,9 @@ jobs:
           python scripts/create_index.py
           python scripts/build_index.py
 
+      - name: Update README stats
+        run: python scripts/update_readme.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
