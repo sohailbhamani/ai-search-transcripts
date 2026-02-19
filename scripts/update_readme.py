@@ -11,10 +11,14 @@ EPISODES_DIR = BASE_DIR / "episodes"
 
 
 def main():
+    import re as _re
+
     episodes = sorted(
         d.name
         for d in EPISODES_DIR.iterdir()
-        if d.is_dir() and not d.name.startswith(".")
+        if d.is_dir()
+        and not d.name.startswith(".")
+        and _re.match(r"^\d{4}-\d{2}-\d{2}", d.name)
     )
 
     if not episodes:
