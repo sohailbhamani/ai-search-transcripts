@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (27 episodes):
+Episodes discussing **Leadership** (28 episodes):
 
+- [Unknown](../episodes/unknown-xetgmeapbag/transcript.md) (unknown)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
 - [Using Claude Code to build startups LIVE!!!](../episodes/2026-01-10-using-claude-code-to-build-startups-live/transcript.md) (2026-01-10)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)

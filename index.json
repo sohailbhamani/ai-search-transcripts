@@ -1,5 +1,5 @@
 {
-  "total_videos": 206,
+  "total_videos": 207,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -67,6 +67,46 @@
       ],
       "transcript_chars": 644,
       "folder": "unknown-p4jryx4ek0c"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "XeTgMEapbag",
+      "youtube_url": "https://www.youtube.com/watch?v=XeTgMEapbag",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "LinkedIn",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "For me, it's pinging me right before the meeting, too, so i don't forget about it"
+      ],
+      "summary": [
+        "# Unknown\nOpenClaw is the most powerful AI tool I've ever used"
+      ],
+      "transcript_chars": 16437,
+      "folder": "unknown-xetgmeapbag"
     },
     {
       "itle": "Unknown",
