@@ -1,8 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (105 episodes):
+Episodes discussing **Product Management** (106 episodes):
 
 - [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-l36apv6g2ii/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xetgmeapbag/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [LIVE: My OpenClaw setup is incredible](../episodes/2026-02-13-live-my-openclaw-setup-is-incredible/transcript.md) (2026-02-13)

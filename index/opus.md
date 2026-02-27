@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (76 episodes):
+Episodes discussing **Opus** (77 episodes):
 
+- [Unknown](../episodes/unknown-l36apv6g2ii/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)

@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (35 episodes):
+Episodes discussing **Projects** (36 episodes):
 
+- [Unknown](../episodes/unknown-l36apv6g2ii/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)](../episodes/2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide/transcript.md) (2026-02-05)

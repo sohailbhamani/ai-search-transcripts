@@ -1,5 +1,5 @@
 {
-  "total_videos": 209,
+  "total_videos": 210,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -67,6 +67,45 @@
       ],
       "transcript_chars": 1062,
       "folder": "unknown-bi4aavmoogm"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "L36aPV6g2II",
+      "youtube_url": "https://www.youtube.com/watch?v=L36aPV6g2II",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nYou're about to become five times more productive"
+      ],
+      "transcript_chars": 9967,
+      "folder": "unknown-l36apv6g2ii"
     },
     {
       "title": "Unknown",
