@@ -2,7 +2,7 @@
 
 Episodes discussing **Openai** (85 episodes):
 
-- [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
+- [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)

@@ -2,9 +2,9 @@
 
 Episodes discussing **Prompting** (101 episodes):
 
-- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-l36apv6g2ii/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xetgmeapbag/transcript.md) (unknown)
+- [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
+- [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
+- [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
 - [Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)](../episodes/2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide/transcript.md) (2026-02-05)
 - [How to make ClawdBot 10x better (5 easy steps)](../episodes/2026-01-31-how-to-make-clawdbot-10x-better-5-easy-steps/transcript.md) (2026-01-31)

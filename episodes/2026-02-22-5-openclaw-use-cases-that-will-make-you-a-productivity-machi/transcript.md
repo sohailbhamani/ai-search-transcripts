@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "5 OpenClaw use cases that will make you a productivity MACHINE"
 video_id: "XeTgMEapbag"
 youtube_url: "https://www.youtube.com/watch?v=XeTgMEapbag"
-publish_date: "unknown"
+publish_date: "2026-02-22"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

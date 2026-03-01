@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)"
 video_id: "L36aPV6g2II"
 youtube_url: "https://www.youtube.com/watch?v=L36aPV6g2II"
-publish_date: "unknown"
+publish_date: "2026-02-27"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

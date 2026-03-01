@@ -2,7 +2,7 @@
 
 Episodes discussing **Framework** (9 episodes):
 
-- [Unknown](../episodes/unknown-5zbsr03agae/transcript.md) (unknown)
+- [LIVE: I built an army of OpenClaw agents. I have lost control.](../episodes/2026-02-27-live-i-built-an-army-of-openclaw-agents-i-have-lost-control/transcript.md) (2026-02-27)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE](../episodes/2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live/transcript.md) (2026-01-14)
 - [CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!](../episodes/2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live/transcript.md) (2025-11-24)

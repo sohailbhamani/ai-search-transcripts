@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "You're Using OpenClaw Wrong If You Don't Use Discord"
 video_id: "vxpuLIA17q4"
 youtube_url: "https://www.youtube.com/watch?v=vxpuLIA17q4"
-publish_date: "unknown"
+publish_date: "2026-02-24"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

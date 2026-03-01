@@ -2,8 +2,8 @@
 
 Episodes discussing **Ai Agents** (86 episodes):
 
-- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
+- [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
+- [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [I just spent $20,000 on OpenClaw. Here's why...](../episodes/2026-02-09-i-just-spent-20000-on-openclaw-heres-why/transcript.md) (2026-02-09)

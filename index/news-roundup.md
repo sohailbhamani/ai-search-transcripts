@@ -2,7 +2,7 @@
 
 Episodes discussing **News Roundup** (21 episodes):
 
-- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
+- [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [5 insane ClawdBot uses cases you need to do immediately](../episodes/2026-01-28-5-insane-clawdbot-uses-cases-you-need-to-do-immediately/transcript.md) (2026-01-28)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)

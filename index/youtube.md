@@ -2,9 +2,9 @@
 
 Episodes discussing **Youtube** (86 episodes):
 
-- [Unknown](../episodes/unknown-aj6hoc9jali/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-vxpulia17q4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xetgmeapbag/transcript.md) (unknown)
+- [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
+- [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
+- [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)

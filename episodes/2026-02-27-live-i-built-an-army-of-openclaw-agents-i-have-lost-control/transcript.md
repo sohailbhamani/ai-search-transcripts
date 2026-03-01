@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "LIVE: I built an army of OpenClaw agents. I have lost control."
 video_id: "5zbsR03aGAE"
 youtube_url: "https://www.youtube.com/watch?v=5zbsR03aGAE"
-publish_date: "unknown"
+publish_date: "2026-02-27"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

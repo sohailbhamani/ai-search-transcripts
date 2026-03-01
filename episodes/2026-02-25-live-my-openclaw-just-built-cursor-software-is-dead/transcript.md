@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "LIVE: My OpenClaw just built Cursor. Software is dead."
 video_id: "bi4aavMOoGM"
 youtube_url: "https://www.youtube.com/watch?v=bi4aavMOoGM"
-publish_date: "unknown"
+publish_date: "2026-02-25"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

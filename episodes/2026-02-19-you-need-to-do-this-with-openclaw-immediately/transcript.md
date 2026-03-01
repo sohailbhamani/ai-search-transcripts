@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "You NEED to do this with OpenClaw immediately!"
 video_id: "Aj6hoC9JaLI"
 youtube_url: "https://www.youtube.com/watch?v=Aj6hoC9JaLI"
-publish_date: "unknown"
+publish_date: "2026-02-19"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
