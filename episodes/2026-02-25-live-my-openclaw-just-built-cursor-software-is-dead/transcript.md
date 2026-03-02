@@ -15,17 +15,17 @@ yt_tags:
 
 # AI-enriched metadata
 content_type: "Tutorial"
-primary_topic: "AI Strategy"
+primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
   - "General"
 entities:
   companies:
-    []
+    - "Cursor"
   people:
     []
   products:
-    []
+    - "Cursor"
   models:
     []
 concepts:
@@ -36,6 +36,8 @@ summary:
 Hello, my name is Ian and I'm a researcher at the Georgia Tech Research Institute here in Atlanta"
 keywords:
   - "ai-tools"
+  - "coding"
+  - "cursor"
   - "frameworks"
 ---
 
