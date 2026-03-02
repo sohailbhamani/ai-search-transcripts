@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Create index.json from all downloaded transcripts."""
 
-import os
 import json
 import yaml
 from pathlib import Path
