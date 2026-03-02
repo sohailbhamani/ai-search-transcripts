@@ -12,9 +12,10 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
-primary_topic: "AI Strategy"
+primary_topic: "AI Agents"
 difficulty: "Intermediate"
 audience:
   - "General"
@@ -34,6 +35,7 @@ summary:
 
 Hello, this is a test of the video transcription system"
 keywords:
+  - "ai-agents"
   - "frameworks"
 ---
 
