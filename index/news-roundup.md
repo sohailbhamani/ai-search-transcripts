@@ -1,25 +1,10 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (21 episodes):
+Episodes discussing **News Roundup** (6 episodes):
 
-- [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
-- [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
-- [5 insane ClawdBot uses cases you need to do immediately](../episodes/2026-01-28-5-insane-clawdbot-uses-cases-you-need-to-do-immediately/transcript.md) (2026-01-28)
-- [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
-- [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
-- [USING CLAUDE CODE TO LAUNCH A STARTUP LIVE!!!](../episodes/2026-01-01-using-claude-code-to-launch-a-startup-live/transcript.md) (2026-01-01)
-- [Building startups LIVE with Claude Code (Claude Opus 4.5)](../episodes/2025-12-10-building-startups-live-with-claude-code-claude-opus-45/transcript.md) (2025-12-10)
-- [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)
-- [Google Antigravity: From Beginner to Expert in 14 Minutes](../episodes/2025-12-02-google-antigravity-from-beginner-to-expert-in-14-minutes/transcript.md) (2025-12-02)
-- [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
-- [Cursor 2.0 is INSANE, but only if you use it like this...](../episodes/2025-11-06-cursor-20-is-insane-but-only-if-you-use-it-like-this/transcript.md) (2025-11-06)
-- [The greatest Claude Code workflow you’ll ever see...](../episodes/2025-11-04-the-greatest-claude-code-workflow-youll-ever-see/transcript.md) (2025-11-04)
-- [I let Anthropic’s new AI agents control my computer. What happened next is INSANE- Claude for Chrome](../episodes/2025-08-28-i-let-anthropics-new-ai-agents-control-my-computer-what-happened-next-is-insane/transcript.md) (2025-08-28)
-- [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)
-- [AI NEWS: ChatGPT 5 Massive disappointment?  Grok Imagine Slop?](../episodes/2025-08-12-ai-news-chatgpt-5-massive-disappointment-grok-imagine-slop/transcript.md) (2025-08-12)
-- [5 secret Claude Code features you need to know about](../episodes/2025-07-26-5-secret-claude-code-features-you-need-to-know-about/transcript.md) (2025-07-26)
-- [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
-- [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
-- [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
-- [Why You NEED a Newsletter #shorts](../episodes/2024-09-13-why-you-need-a-newsletter-shorts/transcript.md) (2024-09-13)
-- [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
+- [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
+- [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
+- [AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](../episodes/2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new/transcript.md) (2026-02-22)
+- [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](../episodes/2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a/transcript.md) (2026-02-15)
+- [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
+- [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)

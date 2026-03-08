@@ -1,17 +1,11 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (13 episodes):
+Episodes discussing **Nano Banana** (7 episodes):
 
-- [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
-- [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
-- [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
-- [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
-- [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)
-- [I was using Google AI Studio wrong. It’s actually incredible](../episodes/2025-12-17-i-was-using-google-ai-studio-wrong-its-actually-incredible/transcript.md) (2025-12-17)
-- [The EASIEST way to build iOS apps with Claude Code (Opus 4.5)](../episodes/2025-12-05-the-easiest-way-to-build-ios-apps-with-claude-code-opus-45/transcript.md) (2025-12-05)
-- [Claude Code for Desktop is the BEST way to build apps with AI EVER](../episodes/2025-11-26-claude-code-for-desktop-is-the-best-way-to-build-apps-with-ai-ever/transcript.md) (2025-11-26)
-- [Everything you need to know about Grok 4.1 in 11 minutes](../episodes/2025-11-18-everything-you-need-to-know-about-grok-41-in-11-minutes/transcript.md) (2025-11-18)
-- [This Google AI Studio workflow is INSANE](../episodes/2025-10-28-this-google-ai-studio-workflow-is-insane/transcript.md) (2025-10-28)
-- [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
-- [Building an entire app LIVE with Claude Code (Haiku 4.5)](../episodes/2025-10-15-building-an-entire-app-live-with-claude-code-haiku-45/transcript.md) (2025-10-15)
-- [Watch me build a startup live with Claude Code and Codex GPT 5](../episodes/2025-10-11-watch-me-build-a-startup-live-with-claude-code-and-codex-gpt-5/transcript.md) (2025-10-11)
+- [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
+- [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
+- [Nanobanana 2 is here!](../episodes/2026-02-27-nanobanana-2-is-here/transcript.md) (2026-02-27)
+- [AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](../episodes/2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new/transcript.md) (2026-02-22)
+- [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
+- [KLING 3.0 is crazy...](../episodes/2026-02-06-kling-30-is-crazy/transcript.md) (2026-02-06)
+- [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
