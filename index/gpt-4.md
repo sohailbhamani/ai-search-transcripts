@@ -2,4 +2,4 @@
 
 Episodes discussing **Gpt 4** (1 episodes):
 
-- [LIVE: Building INCREDIBLE apps with my ClawdBot (Sonnet 5???)](../episodes/2026-02-04-live-building-incredible-apps-with-my-clawdbot-sonnet-5/transcript.md) (2026-02-04)
+- [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)

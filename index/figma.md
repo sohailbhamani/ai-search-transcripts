@@ -2,4 +2,4 @@
 
 Episodes discussing **Figma** (1 episodes):
 
-- [Claude Code just had a MAJOR update. Here's how to use it.](../episodes/2025-12-22-claude-code-just-had-a-major-update-heres-how-to-use-it/transcript.md) (2025-12-22)
+- [New #1 open-source AI model is WILD](../episodes/2026-01-30-new-1-open-source-ai-model-is-wild/transcript.md) (2026-01-30)
