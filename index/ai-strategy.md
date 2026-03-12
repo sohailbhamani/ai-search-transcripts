@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (8 episodes):
+Episodes discussing **Ai Strategy** (9 episodes):
 
+- [Unknown](../episodes/unknown-fdrq2tn0bjm/transcript.md) (unknown)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)
 - [Nanobanana 2 is here!](../episodes/2026-02-27-nanobanana-2-is-here/transcript.md) (2026-02-27)
