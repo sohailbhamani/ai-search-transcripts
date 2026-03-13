@@ -1,8 +1,9 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (8 episodes):
+Episodes discussing **Ai Tools** (9 episodes):
 
 - [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
 - [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)
 - [AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](../episodes/2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new/transcript.md) (2026-02-22)
