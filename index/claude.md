@@ -1,8 +1,9 @@
 # Claude
 
-Episodes discussing **Claude** (10 episodes):
+Episodes discussing **Claude** (11 episodes):
 
 - [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
 - [AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](../episodes/2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new/transcript.md) (2026-02-22)
