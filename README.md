@@ -1,6 +1,6 @@
 # AI Search Transcripts
 
-YouTube channel: UCIgnGlGkVRhd4qNFcEwLL4A (https://www.youtube.com/@AISearch)
+YouTube channel: UCIgnGlGkVRhd4qNFcEwLL4A (https://www.youtube.com/@theAIsearch)
 
 AI Search - Exploring the frontiers of artificial intelligence, search technology, and machine learning.
 
@@ -8,7 +8,7 @@ AI Search - Exploring the frontiers of artificial intelligence, search technolog
 
 - **15 videos** (Jan 30, 2026 - Mar 8, 2026)
 - **53 topics**
-- Synced daily at 12:00 UTC
+- Synced twice daily at midnight and noon CST
 
 ## Structure
 
@@ -19,7 +19,7 @@ AI Search - Exploring the frontiers of artificial intelligence, search technolog
 
 ## Sync Schedule
 
-GitHub Actions runs daily at 12:00 UTC to sync latest transcripts.
+GitHub Actions runs twice daily at midnight and noon CST to sync latest transcripts.
 
 ## Usage
 
