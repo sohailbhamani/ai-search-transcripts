@@ -7,6 +7,62 @@ duration: "40:53"
 duration_seconds: 2453
 view_count: 83174
 author: "AI Search"
+description: |
+  HUGE AI NEWS: OpenClaw, Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more 
+  #ai #ainews #aitools #aivideo
+  
+  Thanks to our sponsor SJinn. Try it for free: https://sjinn.ai/?via=ai-search
+  
+  Sources in order of mention:
+  https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/
+  https://mosi.cn/models/mova
+  https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/
+  https://huggingface.co/tencent/HunyuanImage-3.0-Instruct
+  Clawdbot review: https://youtu.be/c2nAKH8BIdo
+  https://www.moltbook.com/
+  https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
+  https://sjinn.ai/?via=ai-search
+  https://technology.robbyant.com/lingbot-world
+  https://decart.ai/publications/lucy-2-introducing-sota-video-generation-in-realtime
+  https://tele-ai.github.io/TeleStyle/
+  https://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-Steps
+  Kimi K2.5 review: https://youtu.be/F-ANHe_hr9w
+  https://qwen.ai/blog?id=qwen3-max-thinking
+  https://huggingface.co/Qwen/Qwen3-ASR-1.7B/tree/main
+  https://lumalabs.ai/
+  https://www.minimax.io/audio/introducing/music-2-5/
+  
+  0:00 AI news intro
+  0:45 Nvidia Earth 2
+  2:10 MOVA
+  4:03 Gemini Agentic Vision
+  6:15 Hunyuan Image 3.0 Instruct
+  8:50 Clawdbot or Moltbot
+  9:41 Moltbook
+  13:00 Google Project Genie
+  15:56 SJinn
+  18:00 Lingbot World
+  19:53 Lucy 2
+  21:27 Telestyle
+  22:53 Qwen Image 2 step lora
+  24:44 Kimi K2.5
+  25:20 Qwen 3 Max Thinking
+  29:31 Qwen 3 ASR
+  32:26 Ray 3.14
+  34:10 Minimax Music 2.5
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

@@ -7,6 +7,55 @@ duration: "34:13"
 duration_seconds: 2053
 view_count: 171879
 author: "AI Search"
+description: |
+  Seedance 2.0 review. Seedance 2.0 initial tests & features. Best AI video generator. #seedance #seedance2 #ai #aivideo #aitools 
+  
+  Thanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch 
+  
+  Seedance 2.0 will be released in Capcut Dreamina soon. Stay tuned: https://dreamina.capcut.com/
+  
+  Meanwhile, you can try KLING 3.0. It's also great https://youtu.be/_ey0HNGdMBk
+  
+  0:00 Seedance 2.0 intro
+  0:55 How to use Seedance 2.0
+  1:50 First last frame kungfu test
+  3:26 Anime fight test
+  4:58 Character consistency and bg test
+  6:08 3D reference to video
+  7:54 Video ref camera control 
+  9:05 Video expression transfer
+  9:45 Manga to anime
+  10:52 Storyboard to video
+  12:15 3D pixar test
+  14:01 Commercial test
+  15:06 Product commercial
+  17:21 Higgsfield
+  18:46 2D cartoon test
+  20:10 UI motion graphics
+  20:48 UGC with product
+  21:52 Language test
+  22:41 UGC day in life test
+  23:10 Song to MV
+  24:44 Multi-sequence tests
+  26:52 Emotion and dialogue tests
+  28:42 Gymnastics test
+  29:42 Physics test
+  30:10 Pythagoream theorem
+  30:55 Drum playing test
+  31:47 Other Seedance features
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

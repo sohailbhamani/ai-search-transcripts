@@ -7,6 +7,64 @@ duration: "46:49"
 duration_seconds: 2809
 view_count: 74209
 author: "AI Search"
+description: |
+  HUGE AI NEWS: StepFun 3.5, Qwen3 Coder Opus 4.6, GPT 5.3 Codex, StepFun, GLM OCR #ai #ainews #aitools #aivideo #agi
+  
+  Thanks to our sponsor Artlist. Try it today: https://artlist.io/artlist-70446?artlist_aid=AIsearch_3782&utm_source=affiliate_p&utm_medium=AIsearch_3782&utm_campaign=AIsearch_3782
+  
+  Sources in order of mention:
+  https://docs.z.ai/guides/vlm/glm-ocr
+  https://interactavatar.github.io/
+  https://www.anthropic.com/news/claude-opus-4-6
+  https://openai.com/index/introducing-gpt-5-3-codex/
+  https://static.stepfun.com/blog/step-3.5-flash/
+  https://huggingface.co/openbmb/MiniCPM-o-4_5
+  https://zjp-shadow.github.io/works/SkinTokens/
+  https://huggingface.co/internlm/Intern-S1-Pro
+  https://qwen.ai/blog?id=qwen3-coder-next
+  https://husky-humanoid.github.io/
+  https://chenshuo20.github.io/Context_Forcing/
+  https://dwzhu-pku.github.io/PaperBanana/
+  https://kingofprank.github.io/fsvideo/
+  https://dvirsamuel.github.io/omnimattezero.github.io/
+  https://hjrphoebus.github.io/3DiMo/
+  https://sirui-xu.github.io/InterPrior/
+  https://edit-yourself.github.io/
+  
+  0:00 AI news intro
+  1:17 GLM OCR
+  3:30 Interactavatar
+  6:13 Claude Opus 4.6
+  9:34 GPT 5.3 Codex
+  12:39 StepFun 3.5 Flash
+  16:18 MiniCPM o4.5
+  20:00 Artlist
+  21:13 SkinTokens
+  22:25 Intern S1 Pro
+  24:20 Qwen3 Coder Next
+  27:59 Husky
+  29:38 Unitree winter challenge
+  30:27 Context Forcing
+  32:05 PaperBanana
+  34:34 FSVideo
+  35:51 Omnimatte Zero
+  38:00 3DiMo
+  39:56 InterPrior
+  41:35 FastsVMT
+  43:04 EditYourself
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

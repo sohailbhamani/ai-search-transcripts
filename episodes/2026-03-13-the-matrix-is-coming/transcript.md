@@ -7,6 +7,33 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "AI Search"
+description: |
+  CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi 
+  
+  Thanks to our sponsor Manus. Use my link to get 1000 free credits: https://manus.im/redeem?c=A1SG12D5
+  
+  0:00 The state of current AI 
+  1:17 Why brain chips?
+  2:31 DishBrain
+  3:45 CL1 
+  6:53 Harvesting brain cells
+  8:16 CL1 chip design
+  9:33 Manus
+  11:21 How does it play DOOM
+  14:24 How does it learn
+  16:56 Benefits of living neurons
+  19:28 Is it ethical?
+  
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

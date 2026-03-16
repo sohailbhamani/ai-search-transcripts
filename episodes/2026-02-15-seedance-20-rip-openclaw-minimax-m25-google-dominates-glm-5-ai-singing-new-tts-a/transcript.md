@@ -7,6 +7,66 @@ duration: "48:16"
 duration_seconds: 2896
 view_count: 133673
 author: "AI Search"
+description: |
+  HUGE AI NEWS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singer #ai #ainews #aitools #aivideo #agi #singularity
+  
+  Thanks to our sponsor Mureka. Try Mureka V8 for free https://bit.ly/4r8gYwF
+  
+  Sources in order of mention:
+  https://soul-ailab.github.io/soulx-singer/
+  https://justdubit.github.io/
+  https://qwen.ai/blog?id=qwen-image-2.0
+  GLM 5 review: https://youtu.be/x9e4D-t_Dfo
+  https://www.minimax.io/news/minimax-m25
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+  https://huggingface.co/Nanbeige/Nanbeige4.1-3B
+  Seedance 2.0 review https://youtu.be/WW_odt7uZTs
+  https://foundationvision.github.io/Alive/
+  https://github.com/sipeed/picoclaw
+  https://openai.com/index/introducing-gpt-5-3-codex-spark/
+  https://huggingface.co/deepgenteam/DeepGen-1.0
+  https://github.com/OpenMOSS/MOSS-TTS
+  https://huggingface.co/Aratako/MioTTS-2.6B
+  https://research.nvidia.com/labs/dir/duogen/
+  https://dongchaoyang.top/UniAudio2Demo/
+  
+  0:00 AI news intro
+  0:55 SoulX Singer
+  5:52 Just Dub It
+  8:01 Qwen Image 2.0
+  11:10 GLM-5
+  11:50 Minimax M2.5 
+  16:08 Gemini Deep Think
+  19:30 FreeFuse
+  22:04 Nanbeige 4.1
+  23:45 Mureka
+  25:45 Titan o1
+  26:52 Robotera L7
+  27:35 AGIBOT 
+  28:25 Unitree factory assembly
+  29:06 Tiangong breakdancing
+  29:24 Seedance 2.0
+  30:05 Alive
+  32:27 PicoClaw
+  34:00 GPT 5.3 Codex Spark
+  35:26 DeepGen 1.0
+  37:07 MOSS TTS
+  40:24 MioTTS
+  42:50 DuoGen
+  44:45 UniAudio 2.0
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

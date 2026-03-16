@@ -7,6 +7,47 @@ duration: "23:05"
 duration_seconds: 1385
 view_count: 59435
 author: "AI Search"
+description: |
+  KLING 3.0 review. Best AI video generator. Multishot and continuous video. #ai #aivideo #kling #veo #sora #aitools
+  
+  Thanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch #Higgsfield #Kling3.0 #AIVideo #FreeKling #KlingUnlimited
+  
+  Kling: https://klingai.com/
+  
+  0:00 Kling 3.0 intro
+  0:24 How to use Kling 3.0
+  1:10 Multishot on vs off
+  2:37 Multishot with custom prompts
+  4:34 Anime multishot
+  6:10 Multilingual examples
+  6:57 T2V multishot
+  8:12 Kling 3 Omni consistency test
+  10:34 Video editing test
+  11:11 Omni with multishot
+  11:48 Continuous 15s video
+  12:14 Higgsfield
+  13:48 Physics and anatomy tests
+  15:20 Will Smith spaghetti
+  15:55 Expressions and emotions
+  16:39 Fights and high action tests
+  18:33 Squid game
+  19:02 3D Pixar style
+  19:28 Physics test
+  19:53 Other hard tests
+  21:14 Kling 3 specs
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

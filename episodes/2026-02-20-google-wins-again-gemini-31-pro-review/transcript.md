@@ -7,6 +7,42 @@ duration: "21:43"
 duration_seconds: 1303
 view_count: 120973
 author: "AI Search"
+description: |
+  Gemini 3.1 Pro review. New best AI model. #ai #ainews #agi #aimodel #llm 
+  
+  Thanks to our sponsor Hubspot. Access the free guide: Marketer’s Guide to Google Gemini & NotebookLM https://clickhubspot.com/b79471
+  
+  Gemini 3.1 Pro: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+  
+  0:00 Gemini 3.1 Pro
+  0:22 Design a new OS
+  2:23 Image to 3D
+  3:16 SVG animations
+  3:31 Music composition
+  5:50 3D light physics
+  7:31 OCR to spreadsheet
+  8:03 Wheres Waldo
+  8:26 Video to app
+  10:23 Free Gemini guide
+  11:54 Educational content
+  13:11 Video game 
+  13:52 Medical research
+  15:10 Gemini 3.1 Pro specs
+  16:18 Benchmarks vs other models
+  20:09 Hallucination rate 
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

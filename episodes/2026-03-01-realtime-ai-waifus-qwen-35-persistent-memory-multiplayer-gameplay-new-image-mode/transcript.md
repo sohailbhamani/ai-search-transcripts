@@ -7,6 +7,65 @@ duration: "45:11"
 duration_seconds: 2711
 view_count: 104284
 author: "AI Search"
+description: |
+  HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #ai #ainews #aitools #aivideo #agi
+  
+  Thanks to our sponsor Gamma. Try it for free: https://gamma.app/?utm_source=youtube&utm_medium=influencer&utm_campaign=claude&utm_content=akg_theAIsearch
+  
+  Sources in order of mention:
+  https://video-reason.com/
+  https://cwchenwang.github.io/tttLRM
+  https://guoxu1233.github.io/DreamID-Omni/
+  https://quiver.ai/
+  https://solaris-wm.github.io/
+  https://www.tue-mps.org/videomt/
+  https://xk-huang.github.io/VecGlypher/
+  https://github.com/ysharma3501/LavaSR
+  https://huggingface.co/collections/Qwen/qwen35
+  https://research.nvidia.com/labs/gear/egoscale/
+  https://pub.sakana.ai/doc-to-lora/
+  https://liangbingzhao.github.io/statics2dynamics/
+  https://codeysun.github.io/generated-reality/
+  https://echoesovertime.github.io/
+  https://research.nvidia.com/labs/par/lorweb/
+  
+  
+  0:00 AI news intro
+  1:03 VBVR
+  4:09 tttLRM
+  6:37 DreamID Omni
+  9:40 Quiver Arrow
+  12:22 Solaris
+  15:25 VideoMT
+  17:11 VecGlypher
+  19:26 Unitree Go2
+  20:39 Agibot G2
+  21:53 Gamma
+  23:59 LavaSR
+  26:05 Qwen 3.5
+  27:40 EgoScale
+  29:46 Doc to Lora
+  33:06 PhysicEdit
+  35:21 Generated Reality
+  36:24 MMHNet
+  39:17 Sarah
+  42:03 LorWeb
+  44:20 Nvidia GPU giveaway
+  
+  RTX 5090 giveaway: https://ai-search.io/giveaway
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

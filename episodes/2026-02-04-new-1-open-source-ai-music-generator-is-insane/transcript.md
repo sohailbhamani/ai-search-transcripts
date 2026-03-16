@@ -7,6 +7,55 @@ duration: "35:38"
 duration_seconds: 2138
 view_count: 147724
 author: "AI Search"
+description: |
+  Ace-Step 1.5 tutorial. How to install Ace Step 1.5. Best free AI music generator. #ai #aimusic #aitools
+  
+  Thanks to our sponsor LumaLabs. Visit https://lumalabs.ai/aisearch10 or scan the QR code on screen to try The Dream Machine for free
+  
+  Ace Step 1.5 github: https://github.com/ace-step/ACE-Step-1.5
+  Git https://git-scm.com/install/windows
+  ComfyUI workflow: https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui
+  
+  ALSO SEE HeartMula tutorial: https://youtu.be/54YB-hjZDR4
+  
+  0:00 Ace Step 1.5 intro
+  1:35 Rock demo
+  2:29 Indian fusion
+  3:18 Country folk
+  3:50 Kpop
+  5:33 Spanish reggaeton
+  6:56 Jazz lofi
+  7:38 Jpop EDM
+  8:21 Chiptune instrumental
+  9:10 Vocal chops
+  9:37 Epic orchestra
+  10:18 Salsa
+  11:00 Ace Step 1.5 specs
+  11:49 How to install Ace Step 1.5 
+  13:02 Git
+  13:49 Installation continued
+  15:45 How to run Ace Step 1.5 
+  16:47 Ray 3.14
+  18:44 Downloading AceStep models
+  22:16 How to initialize
+  24:33 Text to song
+  29:07 How to repaint with Ace Step 1.5
+  31:19 How to cover songs
+  33:35 Lora training
+  34:15 ComfyUI workflow
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

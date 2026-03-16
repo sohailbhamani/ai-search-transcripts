@@ -7,6 +7,43 @@ duration: "29:54"
 duration_seconds: 1794
 view_count: 87660
 author: "AI Search"
+description: |
+  OpenAI GPT-5.4 review. Best AI model. GPT 5.4 vs Opus 4.6 vs Gemini 3.1. #ai #aitools #ainews #llm #agi
+  
+  Thanks to our sponsor Hubspot. Access “Claude Cowork Stack” for free https://clickhubspot.com/2eaa69
+  
+  GPT 5.4 https://openai.com/index/introducing-gpt-5-4/
+  
+  0:00 GPT 5.4 intro
+  0:22 Codex
+  1:06 Digital Earth
+  3:30 Music composition
+  6:12 Image to 3D
+  7:42 Ray tracing 
+  11:27 Claude Cowork Stack by Hubspot
+  12:45 Identifying cancer
+  14:18 Financial report
+  15:28 Docs to slideshow
+  16:30 Video game
+  17:57 Park builder game
+  18:32 Deep medical research
+  19:31 Hallucination tests
+  20:30 Where and how to use GPT 5.4
+  21:03 GPT 5.4 specs
+  24:53 Benchmarks vs other models
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

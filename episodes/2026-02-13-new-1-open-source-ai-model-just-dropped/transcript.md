@@ -7,6 +7,45 @@ duration: "33:45"
 duration_seconds: 2025
 view_count: 94960
 author: "AI Search"
+description: |
+  GLM-5 review. Best open source AI model. GLM5 by Z AI. #ai #aitools #llm #vibecoding #ainews 
+  
+  Thanks to our sponsor Hubspot. Download their free playbook: https://clickhubspot.com/76a6db
+  
+  GLM 5 official page: https://z.ai/blog/glm-5
+  
+  Also see my Kimi K2.5 review https://youtu.be/F-ANHe_hr9w
+  
+  0:00 GLM-5 intro
+  0:47 Educational course
+  5:16 New mobile OS
+  8:44 Light physics
+  11:30 Reports to spreadsheet
+  13:17 Stock visualizer
+  14:40 AI Agents Unleashed playbook
+  16:34 Image to 3D model
+  17:54 Composing music
+  20:35 Infinite terrain map
+  21:41 Video game test
+  23:25 Medical research
+  24:50 Trick logic
+  25:45 GLM-5 specs and design
+  27:26 Performance benchmarks
+  30:19 Hallucination rate
+  31:13 How to use GLM 5
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

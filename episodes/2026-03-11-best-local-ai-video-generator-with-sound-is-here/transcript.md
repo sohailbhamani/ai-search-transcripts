@@ -7,6 +7,50 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "AI Search"
+description: |
+  LTX-2.3 installation tutorial and review. LTX 2.3 vs LTX 2 #ai #aivideo #aitools
+  
+  LTX 2.3 https://ltx.io/model/ltx-2-3
+  Wan2GP https://github.com/deepbeepmeep/Wan2GP
+  
+  Git: https://git-scm.com/install/windows
+  Miniconda: https://www.anaconda.com/download
+  
+  0:00 LTX 2.3 intro
+  1:06 Fight scene
+  2:16 Samurai sword fight
+  3:19 Will Smith test
+  4:24 Anime test
+  5:17 Singing and dancing
+  6:31 Opera and orchestra
+  7:19 Anatomy test
+  8:11 Figure skating
+  8:51 3D pixar test
+  9:38 Camera movement and text
+  10:53 First frame last frame
+  12:09 Vertical format
+  13:15 How to install LTX 2.3
+  15:08 Git
+  16:10 Installation continued
+  17:08 Conda
+  19:48 Installation continued
+  22:00 How to use LTX 2.3 in Wan2GP
+  27:10 Image to video
+  28:00 First frame last frame
+  28:57 Controlnet
+  
+  
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

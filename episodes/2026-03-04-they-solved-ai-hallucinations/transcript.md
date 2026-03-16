@@ -7,6 +7,39 @@ duration: "27:16"
 duration_seconds: 1636
 view_count: 205746
 author: "AI Search"
+description: |
+  Why do LLMs hallucinate. H-Neurons review #ai #ainews #agi #llm
+  
+  Thanks to our sponsor Luma AI. Try it today! https://lumalabs.ai/aisearch20
+  
+  Original paper https://arxiv.org/abs/2512.01797
+  
+  0:00 Intro
+  0:39 Why finding hallucinations are challenging
+  1:05 AI hallucinations are everywhere
+  2:46 Why do hallucinations happen
+  3:50 Issues from training
+  5:10 How AI works
+  6:22 Finding H-Neurons
+  12:52 Luma AI
+  14:28 Shocking findings
+  17:06 Proving causation
+  17:52  More crazy findings
+  24:55 How to solve hallucinations
+  26:20 GPU giveaway
+  
+  RTX 5090 giveaway: https://ai-search.io/giveaway
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []
