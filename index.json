@@ -1,5 +1,5 @@
 {
-  "total_videos": 19,
+  "total_videos": 22,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -33,6 +33,95 @@
       ],
       "transcript_chars": 314,
       "folder": "unknown-fdrq2tn0bjm"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "KaQbt6NYrzY",
+      "youtube_url": "https://www.youtube.com/watch?v=KaQbt6NYrzY",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThis is now the best open-source video generator with audio built-in"
+      ],
+      "transcript_chars": 30409,
+      "folder": "unknown-kaqbt6nyrzy"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "qWzo3ws0uWU",
+      "youtube_url": "https://www.youtube.com/watch?v=qWzo3ws0uWU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "DeepMind",
+          "Hugging Face"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Gemini",
+          "Sora",
+          "Hugging Face",
+          "Jan",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Google added some really cool AI features to Google Maps"
+      ],
+      "transcript_chars": 46106,
+      "folder": "unknown-qwzo3ws0uwu"
     },
     {
       "title": "Unknown",
@@ -174,6 +263,50 @@
       ],
       "transcript_chars": 91877,
       "folder": "unknown-swumepes3so"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "ZqRtR6Z2U6U",
+      "youtube_url": "https://www.youtube.com/watch?v=ZqRtR6Z2U6U",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Gemini",
+          "Make",
+          "Operator",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe AI that you and I use every day, including ChatGpt and Gemini, they live in code like this"
+      ],
+      "transcript_chars": 21503,
+      "folder": "unknown-zqrtr6z2u6u"
     },
     {
       "title": "LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS",
