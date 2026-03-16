@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Best local AI video generator with sound is here!"
 video_id: "KaQbt6NYrzY"
 youtube_url: "https://www.youtube.com/watch?v=KaQbt6NYrzY"
-publish_date: "unknown"
+publish_date: "2026-03-11"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

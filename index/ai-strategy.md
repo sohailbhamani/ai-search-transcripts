@@ -2,9 +2,9 @@
 
 Episodes discussing **Ai Strategy** (11 episodes):
 
-- [Unknown](../episodes/unknown-kaqbt6nyrzy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qwzo3ws0uwu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zqrtr6z2u6u/transcript.md) (unknown)
+- [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
+- [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
+- [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)
 - [Nanobanana 2 is here!](../episodes/2026-02-27-nanobanana-2-is-here/transcript.md) (2026-02-27)
