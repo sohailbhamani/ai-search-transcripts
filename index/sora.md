@@ -1,7 +1,8 @@
 # Sora
 
-Episodes discussing **Sora** (5 episodes):
+Episodes discussing **Sora** (6 episodes):
 
+- [Unknown](../episodes/unknown-qwzo3ws0uwu/transcript.md) (unknown)
 - [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
 - [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](../episodes/2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a/transcript.md) (2026-02-15)
 - [Seedance 2.0 crushes everything](../episodes/2026-02-10-seedance-20-crushes-everything/transcript.md) (2026-02-10)

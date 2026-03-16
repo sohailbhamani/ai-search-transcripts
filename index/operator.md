@@ -1,5 +1,5 @@
-# Slack
+# Operator
 
-Episodes discussing **Slack** (1 episodes):
+Episodes discussing **Operator** (1 episodes):
 
 - [Unknown](../episodes/unknown-zqrtr6z2u6u/transcript.md) (unknown)

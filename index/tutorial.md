@@ -1,7 +1,9 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (11 episodes):
+Episodes discussing **Tutorial** (13 episodes):
 
+- [Unknown](../episodes/unknown-kaqbt6nyrzy/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-qwzo3ws0uwu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
