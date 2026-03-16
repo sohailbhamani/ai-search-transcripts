@@ -1,8 +1,7 @@
 # Opus
 
-Episodes discussing **Opus** (8 episodes):
+Episodes discussing **Opus** (7 episodes):
 
-- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)
