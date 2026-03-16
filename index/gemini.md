@@ -1,9 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (15 episodes):
+Episodes discussing **Gemini** (14 episodes):
 
 - [Unknown](../episodes/unknown-qwzo3ws0uwu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zqrtr6z2u6u/transcript.md) (unknown)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)

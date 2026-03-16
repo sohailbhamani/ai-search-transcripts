@@ -1,9 +1,8 @@
 # Google
 
-Episodes discussing **Google** (13 episodes):
+Episodes discussing **Google** (12 episodes):
 
 - [Unknown](../episodes/unknown-qwzo3ws0uwu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zqrtr6z2u6u/transcript.md) (unknown)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
