@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Enrichment script for Alex Finn transcripts.
+AI Enrichment script for AI Search transcripts.
 Extracts entities, classifies content, and generates summaries.
 """
 
