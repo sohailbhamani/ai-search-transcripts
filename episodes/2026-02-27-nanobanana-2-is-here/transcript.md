@@ -7,6 +7,50 @@ duration: "27:27"
 duration_seconds: 1647
 view_count: 73935
 author: "AI Search"
+description: |
+  Nanobanana 2 review. Nanobanana2 vs nanobanana pro. #ai #aiart #imagegenerator #ainews
+  
+  Thanks to our sponsor Higgsfield. Try it here: https://higgsfield.ai/nano-banana-2?utm_source=youtube_s&utm_medium=theaisearch&utm_campaign=nano_banana_2&utm_content=in_8fab7 #higgsfield
+  
+  Resources:
+  https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+  https://gemini.google.com/
+  https://aistudio.google.com/
+  
+  0:00 Nanobanana 2 intro
+  0:59 Existing people
+  2:11 Anime and cartoon characters
+  3:19 Expressions test
+  5:04 Pokemon ID test
+  7:00 Where’s Waldo meme knowledge
+  8:04 Endangered species knowledge
+  11:23 Doing biology homework
+  12:40 Math homework
+  13:28 Higgsfield
+  15:16 Different image maps
+  16:53 Clock and wine glass
+  17:35 Colorize and translate manga
+  18:15 Spatial understanding
+  19:36 Photo to floor plan
+  20:07 Data to chart
+  21:40 Additional demos
+  22:00 Nanobanana 2 specs
+  23:31 Where to use Nanobanana 2
+  25:22 Performance benchmarks
+  26:34 Nvidia GPU giveaway
+  
+  RTX 5090 giveaway: https://ai-search.io/giveaway
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

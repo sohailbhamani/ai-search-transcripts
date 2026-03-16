@@ -7,6 +7,67 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "AI Search"
+description: |
+  HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more 
+  #ai #ainews #aitools #aivideo Thanks to our sponsor Higgsfield. Try Cinema Studio today! https://higgsfield.ai/s/cinema-studio-2-0-theaisearch-INifxi
+  
+  Sources in order of mention:
+  https://pq-yang.github.io/projects/MatAnyone2/
+  https://github.com/AMAP-ML/RL3DEdit
+  https://inspatio.github.io/worldfm/
+  https://wildactor.github.io/
+  https://blog.comfy.org/p/from-workflow-to-app-introducing
+  https://huggingface.co/circlestone-labs/Anima
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/
+  https://visionary-laboratory.github.io/holi-spatial/
+  https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv
+  https://shotverse.github.io/
+  https://spherelab.ai/diagdistill/
+  https://xiaobiaodu.github.io/mobile-gs-project/
+  https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/
+  https://effectmaker.github.io/
+  https://www.hume.ai/blog/opensource-tada
+  https://fish.audio/blog/fish-audio-open-sources-s2/
+  https://loger-project.github.io/
+  https://zihao-ai.github.io/brandfusion/
+  
+  0:00 AI news intro
+  0:50 MatAnyone 2
+  3:43 RL3Dedit
+  5:11 Inspatial WorldFM
+  7:43 WildActor
+  8:47 ComfyUI app mode
+  11:01 Anima V2
+  12:43 Gemini Embedding 2 
+  14:43 Holi Spatial
+  16:40 AMI labs
+  17:33 Ask Maps
+  20:17 Higgsfield Cinema Studio
+  22:00 DeepRobotics horse
+  22:44 Reflex Robotics 
+  24:40 Flux 2 Klein KV
+  26:22 ShotVerse
+  28:11 DiagDistill
+  30:34 MobileGS
+  31:51 Nemotron 3 Super
+  33:48 EffectMaker
+  35:07 TADA
+  38:18 FishAudio S2
+  40:13 Loger
+  41:57 BrandFusion
+  44:48 Nvidia giveaway
+  
+  GPU giveaway https://ai-search.io/giveaway
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

@@ -7,6 +7,68 @@ duration: "39:12"
 duration_seconds: 2352
 view_count: 9627
 author: "AI Search"
+description: |
+  HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi 
+  
+  Thanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/soul-cinema?utm_source=youtube_s&utm_medium=theaisearch&utm_campaign=soul_cinema&utm_content=in_a73af
+  
+  Sources in order of mention:
+  https://showlab.github.io/Kiwi-Edit/
+  https://tencent-hy-wu.github.io/
+  https://lg-li.github.io/project/cubecomposer/
+  https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1
+  https://pku-yuangroup.github.io/Helios-Page/
+  https://dagroup-pku.github.io/SpatialT2I/
+  https://hanjq17.github.io/Spectrum/
+  https://cuda-agent.github.io/
+  https://pointcept.github.io/Utonia/
+  https://free-edit.github.io/page/
+  https://liuwei283.github.io/RealWonder/
+  https://correr-zhou.github.io/HiFi-Inpaint/
+  https://huggingface.co/collections/Qwen/qwen35
+  https://ltx.io/model/ltx-2-3
+  GPT 5.4 review https://youtu.be/YRyjkmmW5Ek
+  https://artifixer2026.github.io/
+  https://research.nvidia.com/labs/sil/projects/diffusion-harmonizer/
+  https://extreme-humanoid.github.io/
+  https://jiah-cloud.github.io/Track4World.github.io/
+  
+  
+  0:00 AI news intro
+  0:47 Kiwi Edit
+  2:45 HY WU
+  5:02 CubeComposer
+  7:13 FireRed 1.1
+  9:42 Helios
+  11:57 Spatial T2I
+  15:22 Spectrum
+  17:49 Higgsfield Soul Cinema
+  18:50 Cuda Agent
+  20:29 Utonia
+  21:46 Free Edit
+  23:09 RealWonder
+  24:31 Hifi Inpaint
+  26:11 Qwen 3.5 small
+  28:08 LTX 2.3
+  29:55 GPT 5.4
+  30:30 Artifixer
+  32:34 Diffusion Harmonizer 
+  34:02 OmniXtreme
+  36:31 Track4world
+  38:17 GPU giveaway
+  
+  RTX 5090 giveaway: https://ai-search.io/giveaway
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []

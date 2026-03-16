@@ -7,6 +7,59 @@ duration: "39:36"
 duration_seconds: 2376
 view_count: 90313
 author: "AI Search"
+description: |
+  HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more 
+  #ai #ainews #aitools 
+  
+  Thanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch #Higgsfield #Seedance2 #aivideo 
+  
+  Sources in order of mention:
+  https://huggingface.co/Qwen/Qwen3.5-397B-A17B
+  https://zunwang1.github.io/AnchorWeave
+  https://cohere.com/blog/cohere-labs-tiny-aya
+  https://github.com/KittenML/KittenTTS
+  https://taalas.com/the-path-to-ubiquitous-ai/
+  https://unicornanrocinu.github.io/LUVE_web/
+  https://www.zyphra.com/post/zuna
+  https://zeyuet.github.io/AudioX/
+  https://guolanqing.github.io/Vec2Pix/
+  https://aigeeksgroup.github.io/Code2Worlds/
+  https://infini-ai-lab.github.io/MonarchRT
+  Gemini 3.1 Pro https://youtu.be/hSQciQsxV2w
+  https://gemini.google/overview/music-generation/
+  https://seed.bytedance.com/en/seed2
+  
+  0:00 AI news intro
+  0:55 Qwen 3.5
+  4:10 AnchorWeave
+  6:24 Tiny Aya
+  8:20 Kitten TTS
+  10:36 Taalas chip
+  12:54 Unitree performance
+  15:26 Luve
+  17:03 Higgsfield
+  18:20 Zuna 
+  20:31 AudioX
+  26:02 Vec2Pix
+  28:00 Code2Worlds
+  29:43 Monarch RT
+  31:13 Gemini 3.1 Pro
+  31:47 Lyria 3
+  36:28 Seed 2.0 
+  38:29 Nvidia giveaway
+  
+  RTX 5090 giveaway: https://ai-search.io/giveaway
+  Learn AI: https://ai-search.io/courses
+  Newsletter: https://aisearch.substack.com/
+  Find AI tools & jobs: https://ai-search.io/
+  Support: https://ko-fi.com/aisearch
+  
+  Here's my equipment, in case you're wondering:
+  Lenovo Thinkbook: https://amzn.to/4jWeKwH
+  Dell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 
+  GPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS
+  Mic: Shure SM7B https://amzn.to/3DErjt1
+  Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
 yt_tags:
   []
