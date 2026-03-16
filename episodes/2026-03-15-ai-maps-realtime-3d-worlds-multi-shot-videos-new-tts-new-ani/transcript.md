@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS"
 video_id: "qWzo3ws0uWU"
 youtube_url: "https://www.youtube.com/watch?v=qWzo3ws0uWU"
-publish_date: "unknown"
+publish_date: "2026-03-15"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

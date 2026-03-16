@@ -2,8 +2,8 @@
 
 Episodes discussing **Youtube** (12 episodes):
 
-- [Unknown](../episodes/unknown-kaqbt6nyrzy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zqrtr6z2u6u/transcript.md) (unknown)
+- [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
+- [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)
 - [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](../episodes/2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a/transcript.md) (2026-02-15)
