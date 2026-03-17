@@ -14,9 +14,10 @@
       "duration_seconds": 0,
       "view_count": 0,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools #aivideo Thanks to our sponsor Higgsfield. Try Cinema Studio today! https://higgsfield.ai/s/cinema-studio-2-0-theaisearch-INifxi\n\nSources in order of mention:\nhttps://pq-yang.github.io/projects/MatAnyone2/\nhttps://github.com/AMAP-ML/RL3DEdit\nhttps://inspatio.github.io/worldfm/\nhttps://wildactor.github.io/\nhttps://blog.comfy.org/p/from-workflow-to-app-introducing\nhttps://huggingface.co/circlestone-labs/Anima\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\nhttps://visionary-laboratory.github.io/holi-spatial/\nhttps://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv\nhttps://shotverse.github.io/\nhttps://spherelab.ai/diagdistill/\nhttps://xiaobiaodu.github.io/mobile-gs-project/\nhttps://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/\nhttps://effectmaker.github.io/\nhttps://www.hume.ai/blog/opensource-tada\nhttps://fish.audio/blog/fish-audio-open-sources-s2/\nhttps://loger-project.github.io/\nhttps://zihao-ai.github.io/brandfusion/\n\n0:00 AI news intro\n0:50 MatAnyone 2\n3:43 RL3Dedit\n5:11 Inspatial WorldFM\n7:43 WildActor\n8:47 ComfyUI app mode\n11:01 Anima V2\n12:43 Gemini Embedding 2 \n14:43 Holi Spatial\n16:40 AMI labs\n17:33 Ask Maps\n20:17 Higgsfield Cinema Studio\n22:00 DeepRobotics horse\n22:44 Reflex Robotics \n24:40 Flux 2 Klein KV\n26:22 ShotVerse\n28:11 DiagDistill\n30:34 MobileGS\n31:51 Nemotron 3 Super\n33:48 EffectMaker\n35:07 TADA\n38:18 FishAudio S2\n40:13 Loger\n41:57 BrandFusion\n44:48 Nvidia giveaway\n\nGPU giveaway https://ai-search.io/giveaway\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -56,29 +57,6 @@
       "summary": [
         "Google added some really cool AI features to Google Maps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "apple",
-        "box",
-        "coding",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "jan",
-        "make",
-        "meta",
-        "microsoft",
-        "nvidia",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials"
-      ],
       "transcript_chars": 46106,
       "folder": "2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani"
     },
@@ -91,6 +69,7 @@
       "duration_seconds": 0,
       "view_count": 0,
       "author": "AI Search",
+      "description": "CL1 brain chip. Growing human neurons to play video games. #ai #ainews #agi \n\nThanks to our sponsor Manus. Use my link to get 1000 free credits: https://manus.im/redeem?c=A1SG12D5\n\n0:00 The state of current AI \n1:17 Why brain chips?\n2:31 DishBrain\n3:45 CL1 \n6:53 Harvesting brain cells\n8:16 CL1 chip design\n9:33 Manus\n11:21 How does it play DOOM\n14:24 How does it learn\n16:56 Benefits of living neurons\n19:28 Is it ethical?\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Framework",
       "primary_topic": "AI Strategy",
@@ -123,24 +102,6 @@
       "summary": [
         "# Unknown\nThe AI that you and I use every day, including ChatGpt and Gemini, they live in code like this"
       ],
-      "keywords": [
-        "ai-tools",
-        "chatgpt",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "make",
-        "microsoft",
-        "notion",
-        "openai",
-        "operator",
-        "projects",
-        "slack",
-        "workflows",
-        "youtube"
-      ],
       "transcript_chars": 21503,
       "folder": "2026-03-13-the-matrix-is-coming"
     },
@@ -153,6 +114,7 @@
       "duration_seconds": 0,
       "view_count": 0,
       "author": "AI Search",
+      "description": "LTX-2.3 installation tutorial and review. LTX 2.3 vs LTX 2 #ai #aivideo #aitools\n\nLTX 2.3 https://ltx.io/model/ltx-2-3\nWan2GP https://github.com/deepbeepmeep/Wan2GP\n\nGit: https://git-scm.com/install/windows\nMiniconda: https://www.anaconda.com/download\n\n0:00 LTX 2.3 intro\n1:06 Fight scene\n2:16 Samurai sword fight\n3:19 Will Smith test\n4:24 Anime test\n5:17 Singing and dancing\n6:31 Opera and orchestra\n7:19 Anatomy test\n8:11 Figure skating\n8:51 3D pixar test\n9:38 Camera movement and text\n10:53 First frame last frame\n12:09 Vertical format\n13:15 How to install LTX 2.3\n15:08 Git\n16:10 Installation continued\n17:08 Conda\n19:48 Installation continued\n22:00 How to use LTX 2.3 in Wan2GP\n27:10 Image to video\n28:00 First frame last frame\n28:57 Controlnet\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -176,15 +138,6 @@
       "summary": [
         "# Unknown\nThis is now the best open-source video generator with audio built-in"
       ],
-      "keywords": [
-        "ai-news",
-        "frameworks",
-        "github",
-        "make",
-        "prompting",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 30409,
       "folder": "2026-03-11-best-local-ai-video-generator-with-sound-is-here"
     },
@@ -197,6 +150,7 @@
       "duration_seconds": 2352,
       "view_count": 9627,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen 3.5, LTX 2.3, Kiwi Edit, HY WU, FireRed 1.1, CUDA agent & more #ai #ainews #aitools #aivideo #agi \n\nThanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/soul-cinema?utm_source=youtube_s&utm_medium=theaisearch&utm_campaign=soul_cinema&utm_content=in_a73af\n\nSources in order of mention:\nhttps://showlab.github.io/Kiwi-Edit/\nhttps://tencent-hy-wu.github.io/\nhttps://lg-li.github.io/project/cubecomposer/\nhttps://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1\nhttps://pku-yuangroup.github.io/Helios-Page/\nhttps://dagroup-pku.github.io/SpatialT2I/\nhttps://hanjq17.github.io/Spectrum/\nhttps://cuda-agent.github.io/\nhttps://pointcept.github.io/Utonia/\nhttps://free-edit.github.io/page/\nhttps://liuwei283.github.io/RealWonder/\nhttps://correr-zhou.github.io/HiFi-Inpaint/\nhttps://huggingface.co/collections/Qwen/qwen35\nhttps://ltx.io/model/ltx-2-3\nGPT 5.4 review https://youtu.be/YRyjkmmW5Ek\nhttps://artifixer2026.github.io/\nhttps://research.nvidia.com/labs/sil/projects/diffusion-harmonizer/\nhttps://extreme-humanoid.github.io/\nhttps://jiah-cloud.github.io/Track4World.github.io/\n\n\n0:00 AI news intro\n0:47 Kiwi Edit\n2:45 HY WU\n5:02 CubeComposer\n7:13 FireRed 1.1\n9:42 Helios\n11:57 Spatial T2I\n15:22 Spectrum\n17:49 Higgsfield Soul Cinema\n18:50 Cuda Agent\n20:29 Utonia\n21:46 Free Edit\n23:09 RealWonder\n24:31 Hifi Inpaint\n26:11 Qwen 3.5 small\n28:08 LTX 2.3\n29:55 GPT 5.4\n30:30 Artifixer\n32:34 Diffusion Harmonizer \n34:02 OmniXtreme\n36:31 Track4world\n38:17 GPU giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI Agents",
@@ -240,27 +194,6 @@
       "summary": [
         "4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "artifacts",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "gpt-5",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "prompting",
-        "stable-diffusion",
-        "tutorials"
-      ],
       "transcript_chars": 39391,
       "folder": "2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news"
     },
@@ -273,6 +206,7 @@
       "duration_seconds": 1794,
       "view_count": 87660,
       "author": "AI Search",
+      "description": "OpenAI GPT-5.4 review. Best AI model. GPT 5.4 vs Opus 4.6 vs Gemini 3.1. #ai #aitools #ainews #llm #agi\n\nThanks to our sponsor Hubspot. Access \u201cClaude Cowork Stack\u201d for free https://clickhubspot.com/2eaa69\n\nGPT 5.4 https://openai.com/index/introducing-gpt-5-4/\n\n0:00 GPT 5.4 intro\n0:22 Codex\n1:06 Digital Earth\n3:30 Music composition\n6:12 Image to 3D\n7:42 Ray tracing \n11:27 Claude Cowork Stack by Hubspot\n12:45 Identifying cancer\n14:18 Financial report\n15:28 Docs to slideshow\n16:30 Video game\n17:57 Park builder game\n18:32 Deep medical research\n19:31 Hallucination tests\n20:30 Where and how to use GPT 5.4\n21:03 GPT 5.4 specs\n24:53 Benchmarks vs other models\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -314,28 +248,6 @@
       "summary": [
         "4 is so cracked\nOpenAI just released their latest model, GPT 5"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "amazon",
-        "anthropic",
-        "arc",
-        "canvas",
-        "claude",
-        "coding",
-        "computer-use",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "nvidia",
-        "openai",
-        "opus",
-        "projects",
-        "prompting",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 28687,
       "folder": "2026-03-07-gpt-54-is-so-cracked"
     },
@@ -348,6 +260,7 @@
       "duration_seconds": 1636,
       "view_count": 205746,
       "author": "AI Search",
+      "description": "Why do LLMs hallucinate. H-Neurons review #ai #ainews #agi #llm\n\nThanks to our sponsor Luma AI. Try it today! https://lumalabs.ai/aisearch20\n\nOriginal paper https://arxiv.org/abs/2512.01797\n\n0:00 Intro\n0:39 Why finding hallucinations are challenging\n1:05 AI hallucinations are everywhere\n2:46 Why do hallucinations happen\n3:50 Issues from training\n5:10 How AI works\n6:22 Finding H-Neurons\n12:52 Luma AI\n14:28 Shocking findings\n17:06 Proving causation\n17:52  More crazy findings\n24:55 How to solve hallucinations\n26:20 GPU giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -379,21 +292,6 @@
       "summary": [
         "We ask an AI a question, and it confidently gives us the wrong answer"
       ],
-      "keywords": [
-        "ai-tools",
-        "career",
-        "coding",
-        "frameworks",
-        "gemini",
-        "gpt-4",
-        "make",
-        "mistral",
-        "nvidia",
-        "openai",
-        "prompting",
-        "tutorials",
-        "workflows"
-      ],
       "transcript_chars": 27559,
       "folder": "2026-03-04-they-solved-ai-hallucinations"
     },
@@ -406,6 +304,7 @@
       "duration_seconds": 2711,
       "view_count": 104284,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Gamma. Try it for free: https://gamma.app/?utm_source=youtube&utm_medium=influencer&utm_campaign=claude&utm_content=akg_theAIsearch\n\nSources in order of mention:\nhttps://video-reason.com/\nhttps://cwchenwang.github.io/tttLRM\nhttps://guoxu1233.github.io/DreamID-Omni/\nhttps://quiver.ai/\nhttps://solaris-wm.github.io/\nhttps://www.tue-mps.org/videomt/\nhttps://xk-huang.github.io/VecGlypher/\nhttps://github.com/ysharma3501/LavaSR\nhttps://huggingface.co/collections/Qwen/qwen35\nhttps://research.nvidia.com/labs/gear/egoscale/\nhttps://pub.sakana.ai/doc-to-lora/\nhttps://liangbingzhao.github.io/statics2dynamics/\nhttps://codeysun.github.io/generated-reality/\nhttps://echoesovertime.github.io/\nhttps://research.nvidia.com/labs/par/lorweb/\n\n\n0:00 AI news intro\n1:03 VBVR\n4:09 tttLRM\n6:37 DreamID Omni\n9:40 Quiver Arrow\n12:22 Solaris\n15:25 VideoMT\n17:11 VecGlypher\n19:26 Unitree Go2\n20:39 Agibot G2\n21:53 Gamma\n23:59 LavaSR\n26:05 Qwen 3.5\n27:40 EgoScale\n29:46 Doc to Lora\n33:06 PhysicEdit\n35:21 Generated Reality\n36:24 MMHNet\n39:17 Sarah\n42:03 LorWeb\n44:20 Nvidia GPU giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI News",
@@ -448,26 +347,6 @@
       "summary": [
         "5, persistent memory, multiplayer gameplay, new image models: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "artifacts",
-        "claude",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "gpt-5",
-        "hugging-face",
-        "leadership",
-        "make",
-        "nano-banana",
-        "notion",
-        "nvidia",
-        "sonnet",
-        "sora",
-        "tutorials"
-      ],
       "transcript_chars": 45993,
       "folder": "2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode"
     },
@@ -480,6 +359,7 @@
       "duration_seconds": 1647,
       "view_count": 73935,
       "author": "AI Search",
+      "description": "Nanobanana 2 review. Nanobanana2 vs nanobanana pro. #ai #aiart #imagegenerator #ainews\n\nThanks to our sponsor Higgsfield. Try it here: https://higgsfield.ai/nano-banana-2?utm_source=youtube_s&utm_medium=theaisearch&utm_campaign=nano_banana_2&utm_content=in_8fab7 #higgsfield\n\nResources:\nhttps://blog.google/innovation-and-ai/technology/ai/nano-banana-2/\nhttps://gemini.google.com/\nhttps://aistudio.google.com/\n\n0:00 Nanobanana 2 intro\n0:59 Existing people\n2:11 Anime and cartoon characters\n3:19 Expressions test\n5:04 Pokemon ID test\n7:00 Where\u2019s Waldo meme knowledge\n8:04 Endangered species knowledge\n11:23 Doing biology homework\n12:40 Math homework\n13:28 Higgsfield\n15:16 Different image maps\n16:53 Clock and wine glass\n17:35 Colorize and translate manga\n18:15 Spatial understanding\n19:36 Photo to floor plan\n20:07 Data to chart\n21:40 Additional demos\n22:00 Nanobanana 2 specs\n23:31 Where to use Nanobanana 2\n25:22 Performance benchmarks\n26:34 Nvidia GPU giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -510,16 +390,6 @@
       "summary": [
         "This is by far the best image generator and editor we have right now"
       ],
-      "keywords": [
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "prompting",
-        "tutorials"
-      ],
       "transcript_chars": 29009,
       "folder": "2026-02-27-nanobanana-2-is-here"
     },
@@ -532,6 +402,7 @@
       "duration_seconds": 2376,
       "view_count": 90313,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools \n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch #Higgsfield #Seedance2 #aivideo \n\nSources in order of mention:\nhttps://huggingface.co/Qwen/Qwen3.5-397B-A17B\nhttps://zunwang1.github.io/AnchorWeave\nhttps://cohere.com/blog/cohere-labs-tiny-aya\nhttps://github.com/KittenML/KittenTTS\nhttps://taalas.com/the-path-to-ubiquitous-ai/\nhttps://unicornanrocinu.github.io/LUVE_web/\nhttps://www.zyphra.com/post/zuna\nhttps://zeyuet.github.io/AudioX/\nhttps://guolanqing.github.io/Vec2Pix/\nhttps://aigeeksgroup.github.io/Code2Worlds/\nhttps://infini-ai-lab.github.io/MonarchRT\nGemini 3.1 Pro https://youtu.be/hSQciQsxV2w\nhttps://gemini.google/overview/music-generation/\nhttps://seed.bytedance.com/en/seed2\n\n0:00 AI news intro\n0:55 Qwen 3.5\n4:10 AnchorWeave\n6:24 Tiny Aya\n8:20 Kitten TTS\n10:36 Taalas chip\n12:54 Unitree performance\n15:26 Luve\n17:03 Higgsfield\n18:20 Zuna \n20:31 AudioX\n26:02 Vec2Pix\n28:00 Code2Worlds\n29:43 Monarch RT\n31:13 Gemini 3.1 Pro\n31:47 Lyria 3\n36:28 Seed 2.0 \n38:29 Nvidia giveaway\n\nRTX 5090 giveaway: https://ai-search.io/giveaway\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI News",
@@ -577,27 +448,6 @@
       "summary": [
         "5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "box",
-        "claude",
-        "coding",
-        "cohere",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "product-management",
-        "prompting",
-        "tutorials"
-      ],
       "transcript_chars": 35126,
       "folder": "2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new"
     },
@@ -610,6 +460,7 @@
       "duration_seconds": 1303,
       "view_count": 120973,
       "author": "AI Search",
+      "description": "Gemini 3.1 Pro review. New best AI model. #ai #ainews #agi #aimodel #llm \n\nThanks to our sponsor Hubspot. Access the free guide: Marketer\u2019s Guide to Google Gemini & NotebookLM https://clickhubspot.com/b79471\n\nGemini 3.1 Pro: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/\n\n0:00 Gemini 3.1 Pro\n0:22 Design a new OS\n2:23 Image to 3D\n3:16 SVG animations\n3:31 Music composition\n5:50 3D light physics\n7:31 OCR to spreadsheet\n8:03 Wheres Waldo\n8:26 Video to app\n10:23 Free Gemini guide\n11:54 Educational content\n13:11 Video game \n13:52 Medical research\n15:10 Gemini 3.1 Pro specs\n16:18 Benchmarks vs other models\n20:09 Hallucination rate \n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Framework",
       "primary_topic": "AI Strategy",
@@ -645,25 +496,6 @@
       "summary": [
         "1 Pro review\nGoogle just released their best and most performant AI model, Gemini 3"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "arc",
-        "canvas",
-        "claude",
-        "coding",
-        "cursor",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "meta",
-        "opus",
-        "prompting",
-        "youtube"
-      ],
       "transcript_chars": 20999,
       "folder": "2026-02-20-google-wins-again-gemini-31-pro-review"
     },
@@ -676,6 +508,7 @@
       "duration_seconds": 2896,
       "view_count": 133673,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singer #ai #ainews #aitools #aivideo #agi #singularity\n\nThanks to our sponsor Mureka. Try Mureka V8 for free https://bit.ly/4r8gYwF\n\nSources in order of mention:\nhttps://soul-ailab.github.io/soulx-singer/\nhttps://justdubit.github.io/\nhttps://qwen.ai/blog?id=qwen-image-2.0\nGLM 5 review: https://youtu.be/x9e4D-t_Dfo\nhttps://www.minimax.io/news/minimax-m25\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/\nhttps://huggingface.co/Nanbeige/Nanbeige4.1-3B\nSeedance 2.0 review https://youtu.be/WW_odt7uZTs\nhttps://foundationvision.github.io/Alive/\nhttps://github.com/sipeed/picoclaw\nhttps://openai.com/index/introducing-gpt-5-3-codex-spark/\nhttps://huggingface.co/deepgenteam/DeepGen-1.0\nhttps://github.com/OpenMOSS/MOSS-TTS\nhttps://huggingface.co/Aratako/MioTTS-2.6B\nhttps://research.nvidia.com/labs/dir/duogen/\nhttps://dongchaoyang.top/UniAudio2Demo/\n\n0:00 AI news intro\n0:55 SoulX Singer\n5:52 Just Dub It\n8:01 Qwen Image 2.0\n11:10 GLM-5\n11:50 Minimax M2.5 \n16:08 Gemini Deep Think\n19:30 FreeFuse\n22:04 Nanbeige 4.1\n23:45 Mureka\n25:45 Titan o1\n26:52 Robotera L7\n27:35 AGIBOT \n28:25 Unitree factory assembly\n29:06 Tiangong breakdancing\n29:24 Seedance 2.0\n30:05 Alive\n32:27 PicoClaw\n34:00 GPT 5.3 Codex Spark\n35:26 DeepGen 1.0\n37:07 MOSS TTS\n40:24 MioTTS\n42:50 DuoGen\n44:45 UniAudio 2.0\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI News",
@@ -727,34 +560,6 @@
       "summary": [
         "5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "arc",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "meta",
-        "nvidia",
-        "openai",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials",
-        "whisper",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 44000,
       "folder": "2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a"
     },
@@ -767,6 +572,7 @@
       "duration_seconds": 2025,
       "view_count": 94960,
       "author": "AI Search",
+      "description": "GLM-5 review. Best open source AI model. GLM5 by Z AI. #ai #aitools #llm #vibecoding #ainews \n\nThanks to our sponsor Hubspot. Download their free playbook: https://clickhubspot.com/76a6db\n\nGLM 5 official page: https://z.ai/blog/glm-5\n\nAlso see my Kimi K2.5 review https://youtu.be/F-ANHe_hr9w\n\n0:00 GLM-5 intro\n0:47 Educational course\n5:16 New mobile OS\n8:44 Light physics\n11:30 Reports to spreadsheet\n13:17 Stock visualizer\n14:40 AI Agents Unleashed playbook\n16:34 Image to 3D model\n17:54 Composing music\n20:35 Infinite terrain map\n21:41 Video game test\n23:25 Medical research\n24:50 Trick logic\n25:45 GLM-5 specs and design\n27:26 Performance benchmarks\n30:19 Hallucination rate\n31:13 How to use GLM 5\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Agents",
@@ -810,30 +616,6 @@
       "summary": [
         "# New #1 open source AI model just dropped\nWe have a new number one open-source model"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-tools",
-        "amazon",
-        "apple",
-        "canvas",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "prompting",
-        "tutorials",
-        "workflows",
-        "youtube"
-      ],
       "transcript_chars": 33457,
       "folder": "2026-02-13-new-1-open-source-ai-model-just-dropped"
     },
@@ -846,6 +628,7 @@
       "duration_seconds": 2053,
       "view_count": 171879,
       "author": "AI Search",
+      "description": "Seedance 2.0 review. Seedance 2.0 initial tests & features. Best AI video generator. #seedance #seedance2 #ai #aivideo #aitools \n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch \n\nSeedance 2.0 will be released in Capcut Dreamina soon. Stay tuned: https://dreamina.capcut.com/\n\nMeanwhile, you can try KLING 3.0. It's also great https://youtu.be/_ey0HNGdMBk\n\n0:00 Seedance 2.0 intro\n0:55 How to use Seedance 2.0\n1:50 First last frame kungfu test\n3:26 Anime fight test\n4:58 Character consistency and bg test\n6:08 3D reference to video\n7:54 Video ref camera control \n9:05 Video expression transfer\n9:45 Manga to anime\n10:52 Storyboard to video\n12:15 3D pixar test\n14:01 Commercial test\n15:06 Product commercial\n17:21 Higgsfield\n18:46 2D cartoon test\n20:10 UI motion graphics\n20:48 UGC with product\n21:52 Language test\n22:41 UGC day in life test\n23:10 Song to MV\n24:44 Multi-sequence tests\n26:52 Emotion and dialogue tests\n28:42 Gymnastics test\n29:42 Physics test\n30:10 Pythagoream theorem\n30:55 Drum playing test\n31:47 Other Seedance features\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -874,17 +657,6 @@
       "summary": [
         "0 crushes everything\nThe following is completely made with AI"
       ],
-      "keywords": [
-        "ai-news",
-        "box",
-        "frameworks",
-        "make",
-        "product-management",
-        "prompting",
-        "sora",
-        "whisper",
-        "youtube"
-      ],
       "transcript_chars": 30902,
       "folder": "2026-02-10-seedance-20-crushes-everything"
     },
@@ -897,6 +669,7 @@
       "duration_seconds": 2809,
       "view_count": 74209,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: StepFun 3.5, Qwen3 Coder Opus 4.6, GPT 5.3 Codex, StepFun, GLM OCR #ai #ainews #aitools #aivideo #agi\n\nThanks to our sponsor Artlist. Try it today: https://artlist.io/artlist-70446?artlist_aid=AIsearch_3782&utm_source=affiliate_p&utm_medium=AIsearch_3782&utm_campaign=AIsearch_3782\n\nSources in order of mention:\nhttps://docs.z.ai/guides/vlm/glm-ocr\nhttps://interactavatar.github.io/\nhttps://www.anthropic.com/news/claude-opus-4-6\nhttps://openai.com/index/introducing-gpt-5-3-codex/\nhttps://static.stepfun.com/blog/step-3.5-flash/\nhttps://huggingface.co/openbmb/MiniCPM-o-4_5\nhttps://zjp-shadow.github.io/works/SkinTokens/\nhttps://huggingface.co/internlm/Intern-S1-Pro\nhttps://qwen.ai/blog?id=qwen3-coder-next\nhttps://husky-humanoid.github.io/\nhttps://chenshuo20.github.io/Context_Forcing/\nhttps://dwzhu-pku.github.io/PaperBanana/\nhttps://kingofprank.github.io/fsvideo/\nhttps://dvirsamuel.github.io/omnimattezero.github.io/\nhttps://hjrphoebus.github.io/3DiMo/\nhttps://sirui-xu.github.io/InterPrior/\nhttps://edit-yourself.github.io/\n\n0:00 AI news intro\n1:17 GLM OCR\n3:30 Interactavatar\n6:13 Claude Opus 4.6\n9:34 GPT 5.3 Codex\n12:39 StepFun 3.5 Flash\n16:18 MiniCPM o4.5\n20:00 Artlist\n21:13 SkinTokens\n22:25 Intern S1 Pro\n24:20 Qwen3 Coder Next\n27:59 Husky\n29:38 Unitree winter challenge\n30:27 Context Forcing\n32:05 PaperBanana\n34:34 FSVideo\n35:51 Omnimatte Zero\n38:00 3DiMo\n39:56 InterPrior\n41:35 FastsVMT\n43:04 EditYourself\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI Tools",
@@ -947,33 +720,6 @@
       "summary": [
         "3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "amazon",
-        "anthropic",
-        "apple",
-        "arc",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "microsoft",
-        "nano-banana",
-        "openai",
-        "opus",
-        "prompting",
-        "tutorials",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 48695,
       "folder": "2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new"
     },
@@ -986,6 +732,7 @@
       "duration_seconds": 1385,
       "view_count": 59435,
       "author": "AI Search",
+      "description": "KLING 3.0 review. Best AI video generator. Multishot and continuous video. #ai #aivideo #kling #veo #sora #aitools\n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch #Higgsfield #Kling3.0 #AIVideo #FreeKling #KlingUnlimited\n\nKling: https://klingai.com/\n\n0:00 Kling 3.0 intro\n0:24 How to use Kling 3.0\n1:10 Multishot on vs off\n2:37 Multishot with custom prompts\n4:34 Anime multishot\n6:10 Multilingual examples\n6:57 T2V multishot\n8:12 Kling 3 Omni consistency test\n10:34 Video editing test\n11:11 Omni with multishot\n11:48 Continuous 15s video\n12:14 Higgsfield\n13:48 Physics and anatomy tests\n15:20 Will Smith spaghetti\n15:55 Expressions and emotions\n16:39 Fights and high action tests\n18:33 Squid game\n19:02 3D Pixar style\n19:28 Physics test\n19:53 Other hard tests\n21:14 Kling 3 specs\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -1012,17 +759,6 @@
       "summary": [
         "0 is currently being rolled out and it's really good"
       ],
-      "keywords": [
-        "ai-news",
-        "box",
-        "make",
-        "nano-banana",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 21587,
       "folder": "2026-02-06-kling-30-is-crazy"
     },
@@ -1035,6 +771,7 @@
       "duration_seconds": 2138,
       "view_count": 147724,
       "author": "AI Search",
+      "description": "Ace-Step 1.5 tutorial. How to install Ace Step 1.5. Best free AI music generator. #ai #aimusic #aitools\n\nThanks to our sponsor LumaLabs. Visit https://lumalabs.ai/aisearch10 or scan the QR code on screen to try The Dream Machine for free\n\nAce Step 1.5 github: https://github.com/ace-step/ACE-Step-1.5\nGit https://git-scm.com/install/windows\nComfyUI workflow: https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui\n\nALSO SEE HeartMula tutorial: https://youtu.be/54YB-hjZDR4\n\n0:00 Ace Step 1.5 intro\n1:35 Rock demo\n2:29 Indian fusion\n3:18 Country folk\n3:50 Kpop\n5:33 Spanish reggaeton\n6:56 Jazz lofi\n7:38 Jpop EDM\n8:21 Chiptune instrumental\n9:10 Vocal chops\n9:37 Epic orchestra\n10:18 Salsa\n11:00 Ace Step 1.5 specs\n11:49 How to install Ace Step 1.5 \n13:02 Git\n13:49 Installation continued\n15:45 How to run Ace Step 1.5 \n16:47 Ray 3.14\n18:44 Downloading AceStep models\n22:16 How to initialize\n24:33 Text to song\n29:07 How to repaint with Ace Step 1.5\n31:19 How to cover songs\n33:35 Lora training\n34:15 ComfyUI workflow\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -1062,17 +799,6 @@
       "summary": [
         "Desert echo, they call my name Drums of the earth, they beat the same Step to the rhythm, one to blame Desert echo, has done what you thought of The best open source AI music generator is here"
       ],
-      "keywords": [
-        "box",
-        "frameworks",
-        "github",
-        "make",
-        "meta",
-        "product-management",
-        "prompting",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 28191,
       "folder": "2026-02-04-new-1-open-source-ai-music-generator-is-insane"
     },
@@ -1085,6 +811,7 @@
       "duration_seconds": 2453,
       "view_count": 83174,
       "author": "AI Search",
+      "description": "HUGE AI NEWS: OpenClaw, Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor SJinn. Try it for free: https://sjinn.ai/?via=ai-search\n\nSources in order of mention:\nhttps://blogs.nvidia.com/blog/nvidia-earth-2-open-models/\nhttps://mosi.cn/models/mova\nhttps://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/\nhttps://huggingface.co/tencent/HunyuanImage-3.0-Instruct\nClawdbot review: https://youtu.be/c2nAKH8BIdo\nhttps://www.moltbook.com/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\nhttps://sjinn.ai/?via=ai-search\nhttps://technology.robbyant.com/lingbot-world\nhttps://decart.ai/publications/lucy-2-introducing-sota-video-generation-in-realtime\nhttps://tele-ai.github.io/TeleStyle/\nhttps://huggingface.co/Wuli-art/Qwen-Image-2512-Turbo-LoRA-2-Steps\nKimi K2.5 review: https://youtu.be/F-ANHe_hr9w\nhttps://qwen.ai/blog?id=qwen3-max-thinking\nhttps://huggingface.co/Qwen/Qwen3-ASR-1.7B/tree/main\nhttps://lumalabs.ai/\nhttps://www.minimax.io/audio/introducing/music-2-5/\n\n0:00 AI news intro\n0:45 Nvidia Earth 2\n2:10 MOVA\n4:03 Gemini Agentic Vision\n6:15 Hunyuan Image 3.0 Instruct\n8:50 Clawdbot or Moltbot\n9:41 Moltbook\n13:00 Google Project Genie\n15:56 SJinn\n18:00 Lingbot World\n19:53 Lucy 2\n21:27 Telestyle\n22:53 Qwen Image 2 step lora\n24:44 Kimi K2.5\n25:20 Qwen 3 Max Thinking\n29:31 Qwen 3 ASR\n32:26 Ray 3.14\n34:10 Minimax Music 2.5\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI Agents",
@@ -1126,29 +853,6 @@
       "summary": [
         "# OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "coding",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "sora",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 37581,
       "folder": "2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne"
     },
@@ -1161,6 +865,7 @@
       "duration_seconds": 1642,
       "view_count": 97475,
       "author": "AI Search",
+      "description": "Kimi K2.5 review. Best open source AI model. #ai #aitools #ainews #llm #aiagent\n\nThanks to our sponsor Hubspot. Access the Master AI Agents Playbook for free: https://clickhubspot.com/f427cf\n\nhttps://www.kimi.com/\nGet free agent swarm: https://www.kimi.com/?invite=okc&code=yY02bnYJ\n\n0:00 Kimi K2.5 intro\n0:30  Kimi K2.5 specs\n1:21 Eye puzzle test\n3:18 Insane maze test\n4:08 Android os\n6:51 Hand tracking game\n8:20 Agent swarm tests\n11:01 Slides, sheet, doc agent test\n13:48 Master AI agents playbook\n14:48 Figma clone\n16:09 Video to website\n16:55 Trello clone\n17:45 Finding Waldo\n18:07 Deep medical research\n21:06 Kimi K2.5 specs\n21:55 Benchmarks and cost\n24:11 How to use Kimi K2.5\n25:18 The value of open source\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -1194,21 +899,6 @@
       "concepts": [],
       "summary": [
         "# New #1 open-source AI model is WILD\nOpensource has caught up again"
-      ],
-      "keywords": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "coding",
-        "figma",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "opus",
-        "prompting",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 28189,
       "folder": "2026-01-30-new-1-open-source-ai-model-is-wild"

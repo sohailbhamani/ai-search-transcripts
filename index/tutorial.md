@@ -1,8 +1,7 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (10 episodes):
+Episodes discussing **Tutorial** (9 episodes):
 
-- [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)
