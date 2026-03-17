@@ -75,8 +75,8 @@ yt_tags:
 
 
 # AI-enriched metadata
-content_type: "Tutorial"
-primary_topic: "AI Strategy"
+content_type: "News Roundup"
+primary_topic: "AI News"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
