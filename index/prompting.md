@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (16 episodes):
+Episodes discussing **Prompting** (17 episodes):
 
+- [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
