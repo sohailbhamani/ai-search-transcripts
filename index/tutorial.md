@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (9 episodes):
+Episodes discussing **Tutorial** (10 episodes):
 
+- [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [They solved AI hallucinations!](../episodes/2026-03-04-they-solved-ai-hallucinations/transcript.md) (2026-03-04)

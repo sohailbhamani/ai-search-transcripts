@@ -1,10 +1,50 @@
 {
-  "total_videos": 19,
+  "total_videos": 20,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "CMuwP0u-Sjg",
+      "youtube_url": "https://www.youtube.com/watch?v=CMuwP0u-Sjg",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Artifacts"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nFinally, we have a free and open source AI that's pretty good for music production"
+      ],
+      "transcript_chars": 29137,
+      "folder": "unknown-cmuwp0u-sjg"
+    },
     {
       "title": "Unknown",
       "video_id": "NAq1O-tEVsE",
