@@ -1,5 +1,5 @@
 {
-  "total_videos": 20,
+  "total_videos": 21,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -44,6 +44,62 @@
       ],
       "transcript_chars": 29137,
       "folder": "unknown-cmuwp0u-sjg"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "HCVkBC1Vhcw",
+      "youtube_url": "https://www.youtube.com/watch?v=HCVkBC1Vhcw",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "YouTube",
+          "Figma"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Operator",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps, and this week has been absolutely insane"
+      ],
+      "transcript_chars": 49990,
+      "folder": "unknown-hcvkbc1vhcw"
     },
     {
       "title": "Unknown",

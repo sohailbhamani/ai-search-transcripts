@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (12 episodes):
+Episodes discussing **Ai Strategy** (13 episodes):
 
 - [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
