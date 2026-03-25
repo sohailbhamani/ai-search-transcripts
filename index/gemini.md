@@ -1,9 +1,10 @@
 # Gemini
 
-Episodes discussing **Gemini** (16 episodes):
+Episodes discussing **Gemini** (17 episodes):
 
 - [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)

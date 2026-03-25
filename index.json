@@ -1,5 +1,5 @@
 {
-  "total_videos": 21,
+  "total_videos": 22,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -146,6 +146,56 @@
       ],
       "transcript_chars": 28011,
       "folder": "unknown-naq1o-tevse"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "U2hZFMVNSE0",
+      "youtube_url": "https://www.youtube.com/watch?v=U2hZFMVNSE0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Salesforce",
+          "Notion",
+          "Slack",
+          "DeepMind",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Gemini",
+          "Make",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "Conceptually in a second, but first let's go through the entire formula"
+      ],
+      "summary": [
+        "# Unknown\nToday, AI can answer almost any question you throw at it"
+      ],
+      "transcript_chars": 33414,
+      "folder": "unknown-u2hzfmvnse0"
     },
     {
       "title": "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS",
