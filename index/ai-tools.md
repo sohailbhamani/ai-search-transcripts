@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (10 episodes):
+Episodes discussing **Ai Tools** (11 episodes):
 
+- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)

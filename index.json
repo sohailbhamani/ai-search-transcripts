@@ -1,10 +1,72 @@
 {
-  "total_videos": 22,
+  "total_videos": 23,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "6Il0CJx9yU8",
+      "youtube_url": "https://www.youtube.com/watch?v=6Il0CJx9yU8",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "Cursor",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Gemini",
+          "Cursor",
+          "Sora",
+          "Whisper",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "CLIP",
+          "Whisper",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "The models use far less memory and they can run faster"
+      ],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 45958,
+      "folder": "unknown-6il0cjx9yu8"
+    },
     {
       "title": "Unknown",
       "video_id": "CMuwP0u-Sjg",

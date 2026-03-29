@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (5 episodes):
+Episodes discussing **Chatgpt** (6 episodes):
 
+- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](../episodes/2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a/transcript.md) (2026-02-15)

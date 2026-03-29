@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (6 episodes):
+Episodes discussing **Box** (7 episodes):
 
+- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](../episodes/2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new/transcript.md) (2026-02-22)

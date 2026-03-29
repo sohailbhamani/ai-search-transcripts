@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (5 episodes):
+Episodes discussing **Meta** (6 episodes):
 
+- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)
