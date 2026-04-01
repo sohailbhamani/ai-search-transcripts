@@ -1,10 +1,51 @@
 {
-  "total_videos": 23,
+  "total_videos": 24,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "2IfAVV7ewO0",
+      "youtube_url": "https://www.youtube.com/watch?v=2IfAVV7ewO0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "DeepSeek",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "This recent breakthrough by the team behind Kimmy, which is like another DeepSeek, completely shatters our limitation of building better AI models"
+      ],
+      "transcript_chars": 26171,
+      "folder": "unknown-2ifavv7ewo0"
+    },
     {
       "title": "Unknown",
       "video_id": "6Il0CJx9yU8",

@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (11 episodes):
+Episodes discussing **Tutorial** (12 episodes):
 
+- [Unknown](../episodes/unknown-2ifavv7ewo0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
