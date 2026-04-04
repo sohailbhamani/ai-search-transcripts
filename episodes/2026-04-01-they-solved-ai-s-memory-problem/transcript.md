@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "They solved AI’s memory problem!"
 video_id: "2IfAVV7ewO0"
 youtube_url: "https://www.youtube.com/watch?v=2IfAVV7ewO0"
-publish_date: "unknown"
+publish_date: "2026-04-01"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

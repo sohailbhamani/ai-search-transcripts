@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "How does AI actually work? Transformers explained"
 video_id: "U2hZFMVNSE0"
 youtube_url: "https://www.youtube.com/watch?v=U2hZFMVNSE0"
-publish_date: "unknown"
+publish_date: "2026-03-25"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

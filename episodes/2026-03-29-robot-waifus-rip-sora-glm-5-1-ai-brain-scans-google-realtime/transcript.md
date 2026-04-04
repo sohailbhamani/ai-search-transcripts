@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS"
 video_id: "6Il0CJx9yU8"
 youtube_url: "https://www.youtube.com/watch?v=6Il0CJx9yU8"
-publish_date: "unknown"
+publish_date: "2026-03-29"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
