@@ -6,7 +6,7 @@ AI Search - Exploring the frontiers of artificial intelligence, search technolog
 
 ## Stats
 
-- **15 videos** (Jan 30, 2026 - Mar 8, 2026)
+- **27 videos** (Jan 30, 2026 - Mar 22, 2026)
 - **53 topics**
 - Synced twice daily at midnight and noon CST
 
