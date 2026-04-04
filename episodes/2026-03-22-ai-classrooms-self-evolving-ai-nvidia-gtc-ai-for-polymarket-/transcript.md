@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS"
 video_id: "HCVkBC1Vhcw"
 youtube_url: "https://www.youtube.com/watch?v=HCVkBC1Vhcw"
-publish_date: "unknown"
+publish_date: "2026-03-22"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
