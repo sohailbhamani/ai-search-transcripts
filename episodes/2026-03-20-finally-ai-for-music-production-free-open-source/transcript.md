@@ -57,6 +57,7 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
@@ -82,6 +83,17 @@ summary:
   - "Free & open source
 
 Finally, we have a free and open source AI that's pretty good for music production"
+keywords:
+  - "artifacts"
+  - "box"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 ---
 
 # Finally, AI for music production! Free & open source

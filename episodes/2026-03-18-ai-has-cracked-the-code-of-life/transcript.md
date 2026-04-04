@@ -46,6 +46,7 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
@@ -77,6 +78,20 @@ summary:
   - "# AI has cracked the code of life
 
 This is one of the most underrated AI breakthroughs so far"
+keywords:
+  - "coding"
+  - "deepmind"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "hugging-face"
+  - "make"
+  - "meta"
+  - "perplexity"
+  - "prompting"
+  - "workflows"
+  - "youtube"
 ---
 
 # AI has cracked the code of life

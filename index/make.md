@@ -1,13 +1,14 @@
 # Make
 
-Episodes discussing **Make** (24 episodes):
+Episodes discussing **Make** (25 episodes):
 
-- [Unknown](../episodes/unknown-2ifavv7ewo0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
+- [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
+- [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
+- [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)
+- [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
+- [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)

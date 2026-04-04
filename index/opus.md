@@ -1,10 +1,11 @@
 # Opus
 
-Episodes discussing **Opus** (10 episodes):
+Episodes discussing **Opus** (11 episodes):
 
-- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
+- [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
+- [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)
