@@ -1,13 +1,10 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (16 episodes):
+Episodes discussing **Ai Strategy** (13 episodes):
 
-- [Unknown](../episodes/unknown-2ifavv7ewo0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-6il0cjx9yu8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-cmuwp0u-sjg/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-naq1o-tevse/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
+- [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
+- [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
+- [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [Best local AI video generator with sound is here!](../episodes/2026-03-11-best-local-ai-video-generator-with-sound-is-here/transcript.md) (2026-03-11)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)

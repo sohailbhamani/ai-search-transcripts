@@ -75,6 +75,7 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
@@ -114,6 +115,31 @@ summary:
   - "# AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS
 
 AI never sleeps, and this week has been absolutely insane"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "deep-dives"
+  - "figma"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "hugging-face"
+  - "leadership"
+  - "make"
+  - "nano-banana"
+  - "nvidia"
+  - "operator"
+  - "opus"
+  - "projects"
+  - "tutorials"
+  - "youtube"
 ---
 
 # AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS

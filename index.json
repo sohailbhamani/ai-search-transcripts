@@ -1,15 +1,15 @@
 {
-  "total_videos": 24,
+  "total_videos": 25,
   "date_range": {
-    "newest": "unknown",
+    "newest": "2026-04-01",
     "oldest": "2026-01-30"
   },
   "videos": [
     {
-      "title": "Unknown",
+      "title": "They solved AI\u2019s memory problem!",
       "video_id": "2IfAVV7ewO0",
       "youtube_url": "https://www.youtube.com/watch?v=2IfAVV7ewO0",
-      "publish_date": "unknown",
+      "publish_date": "2026-04-01",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -44,13 +44,13 @@
         "This recent breakthrough by the team behind Kimmy, which is like another DeepSeek, completely shatters our limitation of building better AI models"
       ],
       "transcript_chars": 26171,
-      "folder": "unknown-2ifavv7ewo0"
+      "folder": "2026-04-01-they-solved-ai-s-memory-problem"
     },
     {
-      "title": "Unknown",
+      "title": "Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS",
       "video_id": "6Il0CJx9yU8",
       "youtube_url": "https://www.youtube.com/watch?v=6Il0CJx9yU8",
-      "publish_date": "unknown",
+      "publish_date": "2026-03-29",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -58,7 +58,7 @@
       "description": "",
       "yt_tags": [],
       "content_type": "News Roundup",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI News",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -106,53 +106,63 @@
         "# Unknown\nAI never sleeps and this week has been absolutely insane"
       ],
       "transcript_chars": 45958,
-      "folder": "unknown-6il0cjx9yu8"
+      "folder": "2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime"
     },
     {
-      "title": "Unknown",
-      "video_id": "CMuwP0u-Sjg",
-      "youtube_url": "https://www.youtube.com/watch?v=CMuwP0u-Sjg",
-      "publish_date": "unknown",
+      "title": "How does AI actually work? Transformers explained",
+      "video_id": "U2hZFMVNSE0",
+      "youtube_url": "https://www.youtube.com/watch?v=U2hZFMVNSE0",
+      "publish_date": "2026-03-25",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
       "author": "AI Search",
       "description": "",
       "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
       "difficulty": "Advanced",
       "audience": [
+        "Engineers",
         "Executives",
         "Product Managers"
       ],
       "entities": {
         "companies": [
-          "GitHub",
-          "Box",
+          "Google",
+          "Salesforce",
+          "Notion",
+          "Slack",
+          "DeepMind",
           "YouTube"
         ],
         "people": [],
         "products": [
+          "ChatGPT",
+          "Gemini",
           "Make",
-          "Artifacts"
+          "Opus",
+          "Nano Banana"
         ],
         "models": [
-          "CLIP"
+          "Gemini",
+          "Gemini 3"
         ]
       },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nFinally, we have a free and open source AI that's pretty good for music production"
+      "concepts": [
+        "Conceptually in a second, but first let's go through the entire formula"
       ],
-      "transcript_chars": 29137,
-      "folder": "unknown-cmuwp0u-sjg"
+      "summary": [
+        "# Unknown\nToday, AI can answer almost any question you throw at it"
+      ],
+      "transcript_chars": 33414,
+      "folder": "2026-03-25-how-does-ai-actually-work-transformers-explained"
     },
     {
-      "title": "Unknown",
+      "title": "AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS",
       "video_id": "HCVkBC1Vhcw",
       "youtube_url": "https://www.youtube.com/watch?v=HCVkBC1Vhcw",
-      "publish_date": "unknown",
+      "publish_date": "2026-03-22",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -160,7 +170,7 @@
       "description": "",
       "yt_tags": [],
       "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -202,18 +212,114 @@
         "# Unknown\nAI never sleeps, and this week has been absolutely insane"
       ],
       "transcript_chars": 49990,
-      "folder": "unknown-hcvkbc1vhcw"
+      "folder": "2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-"
     },
     {
-      "title": "Unknown",
+      "title": "AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS",
+      "video_id": "HCVkBC1Vhcw",
+      "youtube_url": "https://www.youtube.com/watch?v=HCVkBC1Vhcw",
+      "publish_date": "2026-03-22",
+      "duration": "48:33",
+      "duration_seconds": 2913,
+      "view_count": 71674,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: MiniMax M2.7, MiMo V2 Pro, MiroThinker, NemoClaw, Google Stitch, & more #ai #ainews #aitools #aivideo #agi #singularity\n\nThanks to our sponsor Hubspot. Access \u201cClaude Code for Marketing\u201d for free https://clickhubspot.com/ee809a\n\nSources in order of mention:\nhttps://sparkvsr.github.io/\nhttps://www.minimax.io/news/minimax-m27-en\nhttps://mimo.xiaomi.com/mimo-v2-pro\nhttps://mimo.xiaomi.com/mimo-v2-omni\nhttps://github.com/THU-MAIC/OpenMAIC\nhttps://github.com/aiming-lab/MetaClaw\nhttps://haoailab.com/blogs/dreamverse/\nhttps://henghuiding.com/GlyphPrinter/\nhttps://seoul-world-model.github.io/\nhttps://terminator-llm.github.io/\nhttps://zzk273.github.io/LATENT/\nhttps://www.miromind.ai/blog/mirothinker-1.7-h1-towards-heavy-duty-research-agents-via-verification\nhttps://fenghora.github.io/SegviGen-Page/\nhttps://sk-adapter.github.io/\nhttps://stitch.withgoogle.com/\nhttps://aistudio.google.com/\nhttps://id-lora.github.io/\n\n0:00 AI news intro\n1:10 SparkVSR\n2:42 MiniMax M2.7\n5:49 MiMo V2 Pro\n7:52 MiMo V2 Omni\n9:01 OpenMAIC\n10:58 MetaClaw\n12:28 Dreamverse\n14:46 Claude Code for Marketing\n16:00 GlyphPrinter\n18:32 Seoul World Model\n20:56 Terminator\n22:58 Nvidia Vera Rubin\n24:52 Groq 3 LPX\n25:48 NemoClaw\n27:00 Nvidia open models\n28:40 DLSS 5\n29:55 Humanoid marathon\n30:20 Hand swarms\n30:54 Orcahand \n32:25 Latent\n33:56 MiroThinker\n38:14 SegviGen\n39:52 SK Adapter\n41:00 Google Stitch\n42:20 Google AI studio\n44:18 ID Lora\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "YouTube",
+          "Figma"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Operator",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
+      ],
+      "transcript_chars": 49990,
+      "folder": "2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a"
+    },
+    {
+      "title": "Finally, AI for music production! Free & open source",
+      "video_id": "CMuwP0u-Sjg",
+      "youtube_url": "https://www.youtube.com/watch?v=CMuwP0u-Sjg",
+      "publish_date": "2026-03-20",
+      "duration": "32:54",
+      "duration_seconds": 1974,
+      "view_count": 39037,
+      "author": "AI Search",
+      "description": "Foundation-1 installation tutorial. AI for music samples, stems, loops. Follows key, bar count, and BPM #ai #aimusic #aisong #suno\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nFoundation 1: https://huggingface.co/RoyalCities/Foundation-1\nRC Stable Audio Tools https://github.com/RoyalCities/RC-stable-audio-tools\nFoundation 1 for ComfyUI https://github.com/Saganaki22/ComfyUI-Foundation-1\n\nGit https://git-scm.com/install/windows\nConda https://www.anaconda.com/docs/getting-started/miniconda/install/overview#anaconda-website\n\nOther open source AI music models:\nHeartmula https://youtu.be/54YB-hjZDR4\nACE Step 1.5 https://youtu.be/QzddQoCKKss\n\n0:00 Foundation 1 intro\n0:32 Foundation-1 demos\n4:58 Full music production example\n8:20 Generating MIDI files\n9:30  Production continued \n12:12 ChatLLM\n13:19 Additional specs and guidelines\n15:33 How to install Foundation-1\n16:32 Git\n17:30 Installation continued\n18:38 Conda\n21:24 Installation continued\n24:08 How to use Foundation-1\n28:12 Sample to MIDI\n28:58 Style transfer\n31:19 ComfyUI workflow\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Artifacts"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Free & open source\nFinally, we have a free and open source AI that's pretty good for music production"
+      ],
+      "transcript_chars": 29137,
+      "folder": "2026-03-20-finally-ai-for-music-production-free-open-source"
+    },
+    {
+      "title": "AI has cracked the code of life",
       "video_id": "NAq1O-tEVsE",
       "youtube_url": "https://www.youtube.com/watch?v=NAq1O-tEVsE",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
+      "publish_date": "2026-03-18",
+      "duration": "28:31",
+      "duration_seconds": 1711,
+      "view_count": 129286,
       "author": "AI Search",
-      "description": "",
+      "description": "Evo2 biological foundation model. AI for DNA #ainews #ai #agi #singularity Thanks to our sponsor Higgsfield. Try Cinema Studio https://higgsfield.ai/s/cinema-studio-2-0-theaisearch-yHsEWI\n\nEvo2 paper: https://www.nature.com/articles/s41586-026-10176-5\nEvo2 download https://github.com/ArcInstitute/evo2\n\n0:00 Evo2 intro\n0:51 LLMs vs DNA\n1:50 What is DNA\n2:53 Creating Evo2\n5:01 Needle in haystack test\n6:02 Does it understand DNA\n8:28 Shocking findings\n11:38 More challenging tests\n13:05 Higgsfield Cinema Studio\n14:50 Analyzing human DNA\n16:57 Creating new DNA\n20:50 Creating DNA of other organisms\n22:23 Making new species\n22:48 Making viruses\n24:49 Open source\n25:33 Future implications\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
       "yt_tags": [],
       "content_type": "Framework",
       "primary_topic": "AI Strategy",
@@ -245,60 +351,10 @@
       },
       "concepts": [],
       "summary": [
-        "# Unknown\nThis is one of the most underrated AI breakthroughs so far"
+        "# AI has cracked the code of life\nThis is one of the most underrated AI breakthroughs so far"
       ],
       "transcript_chars": 28011,
-      "folder": "unknown-naq1o-tevse"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "U2hZFMVNSE0",
-      "youtube_url": "https://www.youtube.com/watch?v=U2hZFMVNSE0",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Advanced",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Google",
-          "Salesforce",
-          "Notion",
-          "Slack",
-          "DeepMind",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "ChatGPT",
-          "Gemini",
-          "Make",
-          "Opus",
-          "Nano Banana"
-        ],
-        "models": [
-          "Gemini",
-          "Gemini 3"
-        ]
-      },
-      "concepts": [
-        "Conceptually in a second, but first let's go through the entire formula"
-      ],
-      "summary": [
-        "# Unknown\nToday, AI can answer almost any question you throw at it"
-      ],
-      "transcript_chars": 33414,
-      "folder": "unknown-u2hzfmvnse0"
+      "folder": "2026-03-18-ai-has-cracked-the-code-of-life"
     },
     {
       "title": "AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS",

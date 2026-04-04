@@ -15,8 +15,8 @@ yt_tags:
 
 
 # AI-enriched metadata
-content_type: "Framework"
-primary_topic: "AI Strategy"
+content_type: "Deep Dive"
+primary_topic: "Career"
 difficulty: "Advanced"
 audience:
   - "Engineers"
@@ -50,6 +50,7 @@ Today, AI can answer almost any question you throw at it"
 keywords:
   - "chatgpt"
   - "coding"
+  - "deep-dives"
   - "deepmind"
   - "frameworks"
   - "gemini"

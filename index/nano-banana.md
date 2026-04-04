@@ -1,9 +1,10 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (9 episodes):
+Episodes discussing **Nano Banana** (10 episodes):
 
-- [Unknown](../episodes/unknown-hcvkbc1vhcw/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-u2hzfmvnse0/transcript.md) (unknown)
+- [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
+- [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
 - [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
 - [Nanobanana 2 is here!](../episodes/2026-02-27-nanobanana-2-is-here/transcript.md) (2026-02-27)
