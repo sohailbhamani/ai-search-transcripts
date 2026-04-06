@@ -1,7 +1,8 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (12 episodes):
+Episodes discussing **Hugging Face** (13 episodes):
 
+- [Unknown](../episodes/unknown-o5rguknrw2a/transcript.md) (unknown)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)

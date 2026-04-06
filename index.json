@@ -1,10 +1,66 @@
 {
-  "total_videos": 25,
+  "total_videos": 26,
   "date_range": {
-    "newest": "2026-04-01",
+    "newest": "unknown",
     "oldest": "2026-01-30"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "o5rGuknRw2A",
+      "youtube_url": "https://www.youtube.com/watch?v=o5rGuknRw2A",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "PaLM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps, and this week has been absolutely insane"
+      ],
+      "transcript_chars": 49090,
+      "folder": "unknown-o5rguknrw2a"
+    },
     {
       "title": "They solved AI\u2019s memory problem!",
       "video_id": "2IfAVV7ewO0",
