@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (12 episodes):
+Episodes discussing **Claude** (13 episodes):
 
+- [Unknown](../episodes/unknown-j9loyiulv9i/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-o5rguknrw2a/transcript.md) (unknown)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)

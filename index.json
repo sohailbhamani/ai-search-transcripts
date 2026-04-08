@@ -1,10 +1,63 @@
 {
-  "total_videos": 26,
+  "total_videos": 27,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "j9LoyiUlv9I",
+      "youtube_url": "https://www.youtube.com/watch?v=j9LoyiUlv9I",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Box",
+          "Perplexity",
+          "X",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Runway",
+          "Perplexity",
+          "Make",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": [
+          "Claude Sonnet",
+          "Sonnet 4",
+          "Gemini",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nImagine just for a second that you are an AI assistant and you have exactly 7 minutes until your system administrator permanently shuts you down"
+      ],
+      "transcript_chars": 28253,
+      "folder": "unknown-j9loyiulv9i"
+    },
     {
       "title": "Unknown",
       "video_id": "o5rGuknRw2A",
