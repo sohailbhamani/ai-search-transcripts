@@ -16,7 +16,7 @@ yt_tags:
 
 # AI-enriched metadata
 content_type: "News Roundup"
-primary_topic: "AI Strategy"
+primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
@@ -49,6 +49,7 @@ entities:
     - "Gemini"
     - "Gemini 3"
     - "PaLM"
+    - "Qwen"
 concepts:
   []
 summary:

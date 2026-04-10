@@ -43,20 +43,6 @@
       "summary": [
         "This is now the best open- source music generator you can use right now"
       ],
-      "keywords": [
-        "ai-tools",
-        "amd",
-        "apple",
-        "frameworks",
-        "github",
-        "make",
-        "nvidia",
-        "prompting",
-        "tutorials",
-        "whisper",
-        "workflows",
-        "youtube"
-      ],
       "transcript_chars": 19645,
       "folder": "2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno"
     },
@@ -110,26 +96,6 @@
       "summary": [
         "# Unknown\nImagine just for a second that you are an AI assistant and you have exactly 7 minutes until your system administrator permanently shuts you down"
       ],
-      "keywords": [
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "box",
-        "career",
-        "claude",
-        "coding",
-        "frameworks",
-        "gemini",
-        "leadership",
-        "make",
-        "perplexity",
-        "projects",
-        "prompting",
-        "runway",
-        "sonnet",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 28253,
       "folder": "2026-04-08-they-just-found-emotions-inside-ai"
     },
@@ -145,7 +111,7 @@
       "description": "",
       "yt_tags": [],
       "content_type": "News Roundup",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -179,35 +145,13 @@
           "Claude Opus",
           "Gemini",
           "Gemini 3",
-          "PaLM"
+          "PaLM",
+          "Qwen"
         ]
       },
       "concepts": [],
       "summary": [
         "# Unknown\nAI never sleeps, and this week has been absolutely insane"
-      ],
-      "keywords": [
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "apple",
-        "box",
-        "claude",
-        "claude-code",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "opus",
-        "prompting",
-        "slack",
-        "x",
-        "youtube"
       ],
       "transcript_chars": 49090,
       "folder": "2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-"
@@ -249,15 +193,6 @@
       "concepts": [],
       "summary": [
         "This recent breakthrough by the team behind Kimmy, which is like another DeepSeek, completely shatters our limitation of building better AI models"
-      ],
-      "keywords": [
-        "amazon",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 26171,
       "folder": "2026-04-01-they-solved-ai-s-memory-problem"
@@ -321,34 +256,6 @@
       "summary": [
         "# Unknown\nAI never sleeps and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "arc",
-        "box",
-        "chatgpt",
-        "coding",
-        "computer-use",
-        "cursor",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "meta",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials",
-        "whisper",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 45958,
       "folder": "2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime"
     },
@@ -398,24 +305,6 @@
       ],
       "summary": [
         "# Unknown\nToday, AI can answer almost any question you throw at it"
-      ],
-      "keywords": [
-        "chatgpt",
-        "coding",
-        "deep-dives",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "nano-banana",
-        "notion",
-        "opus",
-        "product-management",
-        "salesforce",
-        "slack",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 33414,
       "folder": "2026-03-25-how-does-ai-actually-work-transformers-explained"
@@ -473,32 +362,6 @@
       "summary": [
         "# Unknown\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "career",
-        "claude",
-        "claude-code",
-        "coding",
-        "deep-dives",
-        "figma",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "leadership",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "operator",
-        "opus",
-        "projects",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 49990,
       "folder": "2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-"
     },
@@ -555,32 +418,6 @@
       "summary": [
         "# AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "career",
-        "claude",
-        "claude-code",
-        "coding",
-        "deep-dives",
-        "figma",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "leadership",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "operator",
-        "opus",
-        "projects",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 49990,
       "folder": "2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a"
     },
@@ -620,18 +457,6 @@
       "concepts": [],
       "summary": [
         "Free & open source\nFinally, we have a free and open source AI that's pretty good for music production"
-      ],
-      "keywords": [
-        "artifacts",
-        "box",
-        "frameworks",
-        "github",
-        "make",
-        "product-management",
-        "prompting",
-        "tutorials",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 29137,
       "folder": "2026-03-20-finally-ai-for-music-production-free-open-source"
@@ -678,21 +503,6 @@
       "concepts": [],
       "summary": [
         "# AI has cracked the code of life\nThis is one of the most underrated AI breakthroughs so far"
-      ],
-      "keywords": [
-        "coding",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "meta",
-        "perplexity",
-        "prompting",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 28011,
       "folder": "2026-03-18-ai-has-cracked-the-code-of-life"
@@ -749,29 +559,6 @@
       "summary": [
         "Google added some really cool AI features to Google Maps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "apple",
-        "box",
-        "coding",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "jan",
-        "make",
-        "meta",
-        "microsoft",
-        "nvidia",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials"
-      ],
       "transcript_chars": 46106,
       "folder": "2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani"
     },
@@ -817,24 +604,6 @@
       "summary": [
         "# Unknown\nThe AI that you and I use every day, including ChatGpt and Gemini, they live in code like this"
       ],
-      "keywords": [
-        "ai-tools",
-        "chatgpt",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "make",
-        "microsoft",
-        "notion",
-        "openai",
-        "operator",
-        "projects",
-        "slack",
-        "workflows",
-        "youtube"
-      ],
       "transcript_chars": 21503,
       "folder": "2026-03-13-the-matrix-is-coming"
     },
@@ -870,15 +639,6 @@
       "concepts": [],
       "summary": [
         "# Unknown\nThis is now the best open-source video generator with audio built-in"
-      ],
-      "keywords": [
-        "ai-news",
-        "frameworks",
-        "github",
-        "make",
-        "prompting",
-        "tutorials",
-        "youtube"
       ],
       "transcript_chars": 30409,
       "folder": "2026-03-11-best-local-ai-video-generator-with-sound-is-here"
@@ -936,27 +696,6 @@
       "summary": [
         "4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "artifacts",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "gpt-5",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "prompting",
-        "stable-diffusion",
-        "tutorials"
-      ],
       "transcript_chars": 39391,
       "folder": "2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news"
     },
@@ -1011,28 +750,6 @@
       "summary": [
         "4 is so cracked\nOpenAI just released their latest model, GPT 5"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "amazon",
-        "anthropic",
-        "arc",
-        "canvas",
-        "claude",
-        "coding",
-        "computer-use",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "nvidia",
-        "openai",
-        "opus",
-        "projects",
-        "prompting",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 28687,
       "folder": "2026-03-07-gpt-54-is-so-cracked"
     },
@@ -1076,21 +793,6 @@
       "concepts": [],
       "summary": [
         "We ask an AI a question, and it confidently gives us the wrong answer"
-      ],
-      "keywords": [
-        "ai-tools",
-        "career",
-        "coding",
-        "frameworks",
-        "gemini",
-        "gpt-4",
-        "make",
-        "mistral",
-        "nvidia",
-        "openai",
-        "prompting",
-        "tutorials",
-        "workflows"
       ],
       "transcript_chars": 27559,
       "folder": "2026-03-04-they-solved-ai-hallucinations"
@@ -1147,26 +849,6 @@
       "summary": [
         "5, persistent memory, multiplayer gameplay, new image models: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "artifacts",
-        "claude",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "gpt-5",
-        "hugging-face",
-        "leadership",
-        "make",
-        "nano-banana",
-        "notion",
-        "nvidia",
-        "sonnet",
-        "sora",
-        "tutorials"
-      ],
       "transcript_chars": 45993,
       "folder": "2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode"
     },
@@ -1209,16 +891,6 @@
       "concepts": [],
       "summary": [
         "This is by far the best image generator and editor we have right now"
-      ],
-      "keywords": [
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "prompting",
-        "tutorials"
       ],
       "transcript_chars": 29009,
       "folder": "2026-02-27-nanobanana-2-is-here"
@@ -1278,27 +950,6 @@
       "summary": [
         "5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "box",
-        "claude",
-        "coding",
-        "cohere",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "product-management",
-        "prompting",
-        "tutorials"
-      ],
       "transcript_chars": 35126,
       "folder": "2026-02-22-ai-thought-to-text-qwen-35-lyria-3-realtime-videos-4d-worlds-realtime-tts-ai-new"
     },
@@ -1346,25 +997,6 @@
       "concepts": [],
       "summary": [
         "1 Pro review\nGoogle just released their best and most performant AI model, Gemini 3"
-      ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "arc",
-        "canvas",
-        "claude",
-        "coding",
-        "cursor",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "meta",
-        "opus",
-        "prompting",
-        "youtube"
       ],
       "transcript_chars": 20999,
       "folder": "2026-02-20-google-wins-again-gemini-31-pro-review"
@@ -1430,34 +1062,6 @@
       "summary": [
         "5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS\nAI never sleeps"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "anthropic",
-        "arc",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "meta",
-        "nvidia",
-        "openai",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials",
-        "whisper",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 44000,
       "folder": "2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a"
     },
@@ -1514,30 +1118,6 @@
       "summary": [
         "# New #1 open source AI model just dropped\nWe have a new number one open-source model"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-tools",
-        "amazon",
-        "apple",
-        "canvas",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "prompting",
-        "tutorials",
-        "workflows",
-        "youtube"
-      ],
       "transcript_chars": 33457,
       "folder": "2026-02-13-new-1-open-source-ai-model-just-dropped"
     },
@@ -1578,17 +1158,6 @@
       "concepts": [],
       "summary": [
         "0 crushes everything\nThe following is completely made with AI"
-      ],
-      "keywords": [
-        "ai-news",
-        "box",
-        "frameworks",
-        "make",
-        "product-management",
-        "prompting",
-        "sora",
-        "whisper",
-        "youtube"
       ],
       "transcript_chars": 30902,
       "folder": "2026-02-10-seedance-20-crushes-everything"
@@ -1653,33 +1222,6 @@
       "summary": [
         "3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "ai-tools",
-        "amazon",
-        "anthropic",
-        "apple",
-        "arc",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "microsoft",
-        "nano-banana",
-        "openai",
-        "opus",
-        "prompting",
-        "tutorials",
-        "x",
-        "youtube"
-      ],
       "transcript_chars": 48695,
       "folder": "2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new"
     },
@@ -1718,17 +1260,6 @@
       "concepts": [],
       "summary": [
         "0 is currently being rolled out and it's really good"
-      ],
-      "keywords": [
-        "ai-news",
-        "box",
-        "make",
-        "nano-banana",
-        "product-management",
-        "prompting",
-        "sora",
-        "tutorials",
-        "youtube"
       ],
       "transcript_chars": 21587,
       "folder": "2026-02-06-kling-30-is-crazy"
@@ -1769,17 +1300,6 @@
       ],
       "summary": [
         "Desert echo, they call my name Drums of the earth, they beat the same Step to the rhythm, one to blame Desert echo, has done what you thought of The best open source AI music generator is here"
-      ],
-      "keywords": [
-        "box",
-        "frameworks",
-        "github",
-        "make",
-        "meta",
-        "product-management",
-        "prompting",
-        "tutorials",
-        "youtube"
       ],
       "transcript_chars": 28191,
       "folder": "2026-02-04-new-1-open-source-ai-music-generator-is-insane"
@@ -1835,29 +1355,6 @@
       "summary": [
         "# OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS\nAI never sleeps, and this week has been absolutely insane"
       ],
-      "keywords": [
-        "ai-agents",
-        "ai-news",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "coding",
-        "deepmind",
-        "frameworks",
-        "gemini",
-        "github",
-        "google",
-        "hugging-face",
-        "make",
-        "nano-banana",
-        "nvidia",
-        "openai",
-        "opus",
-        "product-management",
-        "sora",
-        "tutorials",
-        "youtube"
-      ],
       "transcript_chars": 37581,
       "folder": "2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne"
     },
@@ -1904,21 +1401,6 @@
       "concepts": [],
       "summary": [
         "# New #1 open-source AI model is WILD\nOpensource has caught up again"
-      ],
-      "keywords": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "coding",
-        "figma",
-        "frameworks",
-        "gemini",
-        "google",
-        "make",
-        "opus",
-        "prompting",
-        "workflows",
-        "youtube"
       ],
       "transcript_chars": 28189,
       "folder": "2026-01-30-new-1-open-source-ai-model-is-wild"
