@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "They just found 'emotions' inside AI"
 video_id: "j9LoyiUlv9I"
 youtube_url: "https://www.youtube.com/watch?v=j9LoyiUlv9I"
-publish_date: "unknown"
+publish_date: "2026-04-08"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

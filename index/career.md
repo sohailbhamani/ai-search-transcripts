@@ -2,7 +2,7 @@
 
 Episodes discussing **Career** (5 episodes):
 
-- [Unknown](../episodes/unknown-j9loyiulv9i/transcript.md) (unknown)
+- [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)

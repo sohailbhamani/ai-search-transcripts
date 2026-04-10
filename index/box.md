@@ -2,8 +2,8 @@
 
 Episodes discussing **Box** (9 episodes):
 
-- [Unknown](../episodes/unknown-j9loyiulv9i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-o5rguknrw2a/transcript.md) (unknown)
+- [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
+- [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
