@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS"
 video_id: "o5rGuknRw2A"
 youtube_url: "https://www.youtube.com/watch?v=o5rGuknRw2A"
-publish_date: "unknown"
+publish_date: "2026-04-05"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

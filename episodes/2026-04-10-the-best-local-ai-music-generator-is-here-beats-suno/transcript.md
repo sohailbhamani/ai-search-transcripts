@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "The BEST local AI music generator is here! (beats Suno)"
 video_id: "UAlLD5fS7-c"
 youtube_url: "https://www.youtube.com/watch?v=UAlLD5fS7-c"
-publish_date: "unknown"
+publish_date: "2026-04-10"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
