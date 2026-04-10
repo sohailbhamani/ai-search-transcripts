@@ -1,9 +1,10 @@
 # Prompting
 
-Episodes discussing **Prompting** (20 episodes):
+Episodes discussing **Prompting** (21 episodes):
 
 - [Unknown](../episodes/unknown-j9loyiulv9i/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-o5rguknrw2a/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ualld5fs7-c/transcript.md) (unknown)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
 - [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)

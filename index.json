@@ -1,5 +1,5 @@
 {
-  "total_videos": 27,
+  "total_videos": 28,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -113,6 +113,47 @@
       ],
       "transcript_chars": 49090,
       "folder": "unknown-o5rguknrw2a"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "UAlLD5fS7-c",
+      "youtube_url": "https://www.youtube.com/watch?v=UAlLD5fS7-c",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "YouTube",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Whisper",
+          "Make"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "This is now the best open- source music generator you can use right now"
+      ],
+      "transcript_chars": 19645,
+      "folder": "unknown-ualld5fs7-c"
     },
     {
       "title": "They solved AI\u2019s memory problem!",

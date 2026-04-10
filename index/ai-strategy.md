@@ -1,9 +1,10 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (15 episodes):
+Episodes discussing **Ai Strategy** (16 episodes):
 
 - [Unknown](../episodes/unknown-j9loyiulv9i/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-o5rguknrw2a/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ualld5fs7-c/transcript.md) (unknown)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
 - [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)
