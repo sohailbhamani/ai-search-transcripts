@@ -1,5 +1,5 @@
 {
-  "total_videos": 29,
+  "total_videos": 30,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -64,6 +64,46 @@
       ],
       "transcript_chars": 40343,
       "folder": "unknown-1_5ssjk2ru0"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "A_nAU8h9YOY",
+      "youtube_url": "https://www.youtube.com/watch?v=A_nAU8h9YOY",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nWe have a new open-source image generator that tops the charts"
+      ],
+      "transcript_chars": 24874,
+      "folder": "unknown-a_nau8h9yoy"
     },
     {
       "title": "The BEST local AI music generator is here! (beats Suno)",
