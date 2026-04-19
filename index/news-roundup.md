@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (9 episodes):
+Episodes discussing **News Roundup** (10 episodes):
 
+- [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
