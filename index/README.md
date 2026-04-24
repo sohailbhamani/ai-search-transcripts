@@ -4,10 +4,10 @@ Index of 32 episodes across 64 topics.
 
 ## Topics
 
-- [Make](make.md) (31 episodes)
 - [Frameworks](frameworks.md) (31 episodes)
-- [Youtube](youtube.md) (25 episodes)
+- [Make](make.md) (31 episodes)
 - [Prompting](prompting.md) (25 episodes)
+- [Youtube](youtube.md) (25 episodes)
 - [Gemini](gemini.md) (24 episodes)
 - [Google](google.md) (22 episodes)
 - [Tutorials](tutorials.md) (22 episodes)
@@ -30,8 +30,8 @@ Index of 32 episodes across 64 topics.
 - [News Roundup](news-roundup.md) (10 episodes)
 - [Box](box.md) (10 episodes)
 - [Meta](meta.md) (8 episodes)
-- [Chatgpt](chatgpt.md) (7 episodes)
 - [Sora](sora.md) (7 episodes)
+- [Chatgpt](chatgpt.md) (7 episodes)
 - [Claude Code](claude-code.md) (7 episodes)
 - [Apple](apple.md) (6 episodes)
 - [X](x.md) (6 episodes)
@@ -59,8 +59,8 @@ Index of 32 episodes across 64 topics.
 - [Gpt 5](gpt-5.md) (2 episodes)
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Cohere](cohere.md) (1 episodes)
-- [Gpt 4](gpt-4.md) (1 episodes)
 - [Mistral](mistral.md) (1 episodes)
+- [Gpt 4](gpt-4.md) (1 episodes)
 - [Jan](jan.md) (1 episodes)
 - [Salesforce](salesforce.md) (1 episodes)
 - [Deep Dive](deep-dive.md) (1 episodes)
