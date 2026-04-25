@@ -1,9 +1,10 @@
 # Prompting
 
-Episodes discussing **Prompting** (25 episodes):
+Episodes discussing **Prompting** (26 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
