@@ -1,5 +1,5 @@
 {
-  "total_videos": 33,
+  "total_videos": 34,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -258,6 +258,66 @@
       ],
       "transcript_chars": 34846,
       "folder": "unknown-tlfpbmuterm"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "ZKfd9S9lOtc",
+      "youtube_url": "https://www.youtube.com/watch?v=ZKfd9S9lOtc",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Slack",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube",
+          "Figma",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "SAM",
+          "SAM 3",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely exhausting"
+      ],
+      "transcript_chars": 37853,
+      "folder": "unknown-zkfd9s9lotc"
     },
     {
       "title": "The BEST local AI music generator is here! (beats Suno)",
