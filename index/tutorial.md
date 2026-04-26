@@ -1,10 +1,11 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (17 episodes):
+Episodes discussing **Tutorial** (18 episodes):
 
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
