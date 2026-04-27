@@ -4,10 +4,10 @@ Index of 34 episodes across 65 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (33 episodes)
 - [Make](make.md) (33 episodes)
-- [Prompting](prompting.md) (27 episodes)
+- [Frameworks](frameworks.md) (33 episodes)
 - [Youtube](youtube.md) (27 episodes)
+- [Prompting](prompting.md) (27 episodes)
 - [Gemini](gemini.md) (25 episodes)
 - [Google](google.md) (23 episodes)
 - [Tutorials](tutorials.md) (23 episodes)
@@ -16,8 +16,8 @@ Index of 34 episodes across 65 topics.
 - [Github](github.md) (21 episodes)
 - [Ai Strategy](ai-strategy.md) (20 episodes)
 - [Tutorial](tutorial.md) (18 episodes)
-- [Claude](claude.md) (17 episodes)
 - [Ai Agents](ai-agents.md) (17 episodes)
+- [Claude](claude.md) (17 episodes)
 - [Nvidia](nvidia.md) (17 episodes)
 - [Opus](opus.md) (16 episodes)
 - [Hugging Face](hugging-face.md) (16 episodes)
@@ -34,8 +34,8 @@ Index of 34 episodes across 65 topics.
 - [Claude Code](claude-code.md) (8 episodes)
 - [Sora](sora.md) (7 episodes)
 - [X](x.md) (7 episodes)
-- [Apple](apple.md) (6 episodes)
 - [Arc](arc.md) (6 episodes)
+- [Apple](apple.md) (6 episodes)
 - [Leadership](leadership.md) (6 episodes)
 - [Career](career.md) (6 episodes)
 - [Projects](projects.md) (6 episodes)
