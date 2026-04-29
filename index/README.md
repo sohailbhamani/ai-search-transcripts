@@ -4,8 +4,8 @@ Index of 34 episodes across 65 topics.
 
 ## Topics
 
-- [Make](make.md) (33 episodes)
 - [Frameworks](frameworks.md) (33 episodes)
+- [Make](make.md) (33 episodes)
 - [Youtube](youtube.md) (27 episodes)
 - [Prompting](prompting.md) (27 episodes)
 - [Gemini](gemini.md) (25 episodes)
@@ -16,8 +16,8 @@ Index of 34 episodes across 65 topics.
 - [Github](github.md) (21 episodes)
 - [Ai Strategy](ai-strategy.md) (20 episodes)
 - [Tutorial](tutorial.md) (18 episodes)
-- [Ai Agents](ai-agents.md) (17 episodes)
 - [Claude](claude.md) (17 episodes)
+- [Ai Agents](ai-agents.md) (17 episodes)
 - [Nvidia](nvidia.md) (17 episodes)
 - [Opus](opus.md) (16 episodes)
 - [Hugging Face](hugging-face.md) (16 episodes)
@@ -59,11 +59,11 @@ Index of 34 episodes across 65 topics.
 - [Gpt 5](gpt-5.md) (2 episodes)
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Cohere](cohere.md) (1 episodes)
-- [Gpt 4](gpt-4.md) (1 episodes)
 - [Mistral](mistral.md) (1 episodes)
+- [Gpt 4](gpt-4.md) (1 episodes)
 - [Jan](jan.md) (1 episodes)
-- [Salesforce](salesforce.md) (1 episodes)
 - [Deep Dive](deep-dive.md) (1 episodes)
+- [Salesforce](salesforce.md) (1 episodes)
 - [Runway](runway.md) (1 episodes)
 - [Amd](amd.md) (1 episodes)
 - [Adobe](adobe.md) (1 episodes)
