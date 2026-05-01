@@ -1,8 +1,9 @@
 # Workflows
 
-Episodes discussing **Workflows** (11 episodes):
+Episodes discussing **Workflows** (12 episodes):
 
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)

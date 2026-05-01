@@ -1,10 +1,11 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (18 episodes):
+Episodes discussing **Tutorial** (19 episodes):
 
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
