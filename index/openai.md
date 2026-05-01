@@ -1,11 +1,12 @@
 # Openai
 
-Episodes discussing **Openai** (14 episodes):
+Episodes discussing **Openai** (15 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)

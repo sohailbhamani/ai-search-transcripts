@@ -1,9 +1,10 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (17 episodes):
+Episodes discussing **Nvidia** (18 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
