@@ -1,5 +1,5 @@
 {
-  "total_videos": 35,
+  "total_videos": 36,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -64,6 +64,66 @@
       ],
       "transcript_chars": 40343,
       "folder": "unknown-1_5ssjk2ru0"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "7r_WJ9xpne0",
+      "youtube_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "Adobe",
+          "GitHub",
+          "Hugging Face",
+          "Mistral",
+          "YouTube",
+          "Canva"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Artifacts",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Llama",
+          "Mistral",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "That you can also reshoot the scene using any camera movement or angle you want"
+      ],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 45819,
+      "folder": "unknown-7r_wj9xpne0"
     },
     {
       "title": "Unknown",

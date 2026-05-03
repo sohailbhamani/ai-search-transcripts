@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (21 episodes):
+Episodes discussing **Ai Strategy** (22 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)

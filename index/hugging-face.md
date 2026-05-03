@@ -1,8 +1,9 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (17 episodes):
+Episodes discussing **Hugging Face** (18 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
