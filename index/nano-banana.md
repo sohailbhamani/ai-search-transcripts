@@ -1,8 +1,9 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (15 episodes):
+Episodes discussing **Nano Banana** (16 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)

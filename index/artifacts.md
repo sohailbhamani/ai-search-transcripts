@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (4 episodes):
+Episodes discussing **Artifacts** (5 episodes):
 
+- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
 - [LTX 2.3, GPT 5.4, CUDA agent, realtime AI videos, new image models, 360 videos: AI NEWS](../episodes/2026-03-08-ltx-23-gpt-54-cuda-agent-realtime-ai-videos-new-image-models-360-videos-ai-news/transcript.md) (2026-03-08)
