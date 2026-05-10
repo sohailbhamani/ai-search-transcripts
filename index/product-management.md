@@ -1,8 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (13 episodes):
+Episodes discussing **Product Management** (14 episodes):
 
 - [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)

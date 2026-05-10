@@ -1,10 +1,11 @@
 # Github
 
-Episodes discussing **Github** (23 episodes):
+Episodes discussing **Github** (24 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
