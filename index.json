@@ -1,5 +1,5 @@
 {
-  "total_videos": 36,
+  "total_videos": 37,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -274,6 +274,69 @@
       ],
       "transcript_chars": 36597,
       "folder": "unknown-g8fqduzb5lc"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "quxnhOeRz7I",
+      "youtube_url": "https://www.youtube.com/watch?v=quxnhOeRz7I",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "Nvidia",
+          "GitHub",
+          "X",
+          "YouTube",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Stable Diffusion",
+          "Whisper",
+          "Make",
+          "Opus",
+          "Atlas",
+          "Computer Use",
+          "Artifacts",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "o1",
+          "SAM",
+          "Whisper",
+          "Stable Diffusion",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "You can generate images in just a few seconds, almost in real time"
+      ],
+      "summary": [
+        "# Unknown\nAI never sleeps, and this week has been absolutely insane"
+      ],
+      "transcript_chars": 48362,
+      "folder": "unknown-quxnhoerz7i"
     },
     {
       "title": "Unknown",
