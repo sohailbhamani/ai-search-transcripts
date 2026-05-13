@@ -4,8 +4,8 @@ Index of 37 episodes across 67 topics.
 
 ## Topics
 
-- [Make](make.md) (36 episodes)
 - [Frameworks](frameworks.md) (36 episodes)
+- [Make](make.md) (36 episodes)
 - [Youtube](youtube.md) (30 episodes)
 - [Prompting](prompting.md) (30 episodes)
 - [Gemini](gemini.md) (28 episodes)
@@ -31,8 +31,8 @@ Index of 37 episodes across 67 topics.
 - [News Roundup](news-roundup.md) (10 episodes)
 - [Meta](meta.md) (10 episodes)
 - [Chatgpt](chatgpt.md) (9 episodes)
-- [X](x.md) (8 episodes)
 - [Claude Code](claude-code.md) (8 episodes)
+- [X](x.md) (8 episodes)
 - [Projects](projects.md) (8 episodes)
 - [Sora](sora.md) (7 episodes)
 - [Leadership](leadership.md) (7 episodes)
