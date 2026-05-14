@@ -4,8 +4,8 @@ Index of 38 episodes across 67 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (37 episodes)
 - [Make](make.md) (37 episodes)
+- [Frameworks](frameworks.md) (37 episodes)
 - [Youtube](youtube.md) (31 episodes)
 - [Prompting](prompting.md) (30 episodes)
 - [Gemini](gemini.md) (28 episodes)
@@ -41,8 +41,8 @@ Index of 38 episodes across 67 topics.
 - [Whisper](whisper.md) (6 episodes)
 - [Artifacts](artifacts.md) (6 episodes)
 - [Career](career.md) (6 episodes)
-- [Microsoft](microsoft.md) (5 episodes)
 - [Amazon](amazon.md) (5 episodes)
+- [Microsoft](microsoft.md) (5 episodes)
 - [Framework](framework.md) (5 episodes)
 - [Computer Use](computer-use.md) (5 episodes)
 - [Slack](slack.md) (5 episodes)
@@ -66,8 +66,8 @@ Index of 38 episodes across 67 topics.
 - [Cohere](cohere.md) (1 episodes)
 - [Gpt 4](gpt-4.md) (1 episodes)
 - [Jan](jan.md) (1 episodes)
-- [Salesforce](salesforce.md) (1 episodes)
 - [Deep Dive](deep-dive.md) (1 episodes)
+- [Salesforce](salesforce.md) (1 episodes)
 - [Atlas](atlas.md) (1 episodes)
 - [Shortcuts](shortcuts.md) (1 episodes)
 - [Lovable](lovable.md) (1 episodes)
