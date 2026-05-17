@@ -1,8 +1,9 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (5 episodes):
+Episodes discussing **Microsoft** (6 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)

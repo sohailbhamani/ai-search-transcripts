@@ -1,5 +1,5 @@
 {
-  "total_videos": 38,
+  "total_videos": 39,
   "date_range": {
     "newest": "unknown",
     "oldest": "2026-01-30"
@@ -274,6 +274,61 @@
       ],
       "transcript_chars": 36597,
       "folder": "unknown-g8fqduzb5lc"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "NnsQj2nDkKA",
+      "youtube_url": "https://www.youtube.com/watch?v=NnsQj2nDkKA",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "DeepMind",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Make",
+          "MCP",
+          "Sonnet",
+          "Operator"
+        ],
+        "models": [
+          "Gemini",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 44390,
+      "folder": "unknown-nnsqj2ndkka"
     },
     {
       "title": "Unknown",

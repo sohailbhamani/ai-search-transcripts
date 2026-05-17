@@ -1,10 +1,11 @@
 # Openai
 
-Episodes discussing **Openai** (16 episodes):
+Episodes discussing **Openai** (17 episodes):
 
 - [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
