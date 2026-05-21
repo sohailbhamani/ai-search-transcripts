@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS"
 video_id: "7r_WJ9xpne0"
 youtube_url: "https://www.youtube.com/watch?v=7r_WJ9xpne0"
-publish_date: "unknown"
+publish_date: "2026-05-03"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

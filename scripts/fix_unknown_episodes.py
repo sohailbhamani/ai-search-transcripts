@@ -12,6 +12,43 @@ import time
 import requests
 from pathlib import Path
 
+_access_token_cache = {"token": None, "expires_at": 0}
+
+
+def _get_oauth_access_token():
+    """Refresh-token -> access-token exchange, cached until ~5s before expiry."""
+    refresh = os.environ.get("YOUTUBE_REFRESH_TOKEN", "")
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "")
+    cs = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
+    if not (refresh and cid and cs):
+        return None
+
+    now = time.time()
+    if _access_token_cache["token"] and _access_token_cache["expires_at"] - 5 > now:
+        return _access_token_cache["token"]
+
+    try:
+        r = requests.post(
+            "https://oauth2.googleapis.com/token",
+            data={
+                "client_id": cid,
+                "client_secret": cs,
+                "refresh_token": refresh,
+                "grant_type": "refresh_token",
+            },
+            timeout=15,
+        )
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        print(f"  Warning: OAuth token exchange failed: {e}")
+        return None
+
+    _access_token_cache["token"] = data["access_token"]
+    _access_token_cache["expires_at"] = now + int(data.get("expires_in", 3600))
+    return _access_token_cache["token"]
+
+
 def slugify(title):
     s = title.lower()
     s = re.sub(r'[^a-z0-9]+', '-', s)
@@ -19,11 +56,17 @@ def slugify(title):
     return s[:60]
 
 def get_yt_metadata(video_id, api_key):
-    """Get YouTube video metadata. Returns None if API fails."""
+    """Get YouTube video metadata via OAuth (preferred) or API key."""
     try:
         url = "https://www.googleapis.com/youtube/v3/videos"
-        params = {"part": "snippet", "id": video_id, "key": api_key}
-        r = requests.get(url, params=params, timeout=10)
+        oauth_token = _get_oauth_access_token()
+        if oauth_token:
+            params = {"part": "snippet", "id": video_id}
+            headers = {"Authorization": f"Bearer {oauth_token}"}
+        else:
+            params = {"part": "snippet", "id": video_id, "key": api_key}
+            headers = {}
+        r = requests.get(url, params=params, headers=headers, timeout=10)
         r.raise_for_status()
         items = r.json().get("items", [])
         if not items:
