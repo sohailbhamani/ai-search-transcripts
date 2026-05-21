@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS"
 video_id: "1_5sSJK2rU0"
 youtube_url: "https://www.youtube.com/watch?v=1_5sSJK2rU0"
-publish_date: "unknown"
+publish_date: "2026-04-12"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

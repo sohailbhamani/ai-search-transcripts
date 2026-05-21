@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS"
 video_id: "quxnhOeRz7I"
 youtube_url: "https://www.youtube.com/watch?v=quxnhOeRz7I"
-publish_date: "unknown"
+publish_date: "2026-05-10"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
