@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS"
 video_id: "NnsQj2nDkKA"
 youtube_url: "https://www.youtube.com/watch?v=NnsQj2nDkKA"
-publish_date: "unknown"
+publish_date: "2026-05-17"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "New AI image generator BEATS EVERYTHING"
 video_id: "TLFPbMUtErM"
 youtube_url: "https://www.youtube.com/watch?v=TLFPbMUtErM"
-publish_date: "unknown"
+publish_date: "2026-04-22"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

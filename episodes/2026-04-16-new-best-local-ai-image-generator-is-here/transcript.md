@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "New BEST local AI image generator is here!"
 video_id: "A_nAU8h9YOY"
 youtube_url: "https://www.youtube.com/watch?v=A_nAU8h9YOY"
-publish_date: "unknown"
+publish_date: "2026-04-16"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

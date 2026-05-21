@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "The most insane week in AI"
 video_id: "ZKfd9S9lOtc"
 youtube_url: "https://www.youtube.com/watch?v=ZKfd9S9lOtc"
-publish_date: "unknown"
+publish_date: "2026-04-26"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

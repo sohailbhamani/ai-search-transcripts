@@ -22,7 +22,48 @@ VIDEO_IDS_FILE = BASE_DIR / "video_ids.txt"
 PROGRESS_FILE = BASE_DIR / "progress.json"
 
 # YouTube Data API
+# YouTube Data API — OAuth (preferred, no IP restriction) with API-key fallback.
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
+YOUTUBE_REFRESH_TOKEN = os.environ.get("YOUTUBE_REFRESH_TOKEN", "")
+YOUTUBE_CLIENT_ID = os.environ.get("YOUTUBE_CLIENT_ID", "")
+YOUTUBE_CLIENT_SECRET = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
+
+_access_token_cache = {"token": None, "expires_at": 0}
+
+
+def _get_oauth_access_token():
+    """Exchange refresh token for short-lived access token. Cached until ~5s before expiry."""
+    if not (YOUTUBE_REFRESH_TOKEN and YOUTUBE_CLIENT_ID and YOUTUBE_CLIENT_SECRET):
+        return None
+
+    now = time.time()
+    cached = _access_token_cache["token"]
+    if cached and _access_token_cache["expires_at"] - 5 > now:
+        return cached
+
+    body = urllib.parse.urlencode(
+        {
+            "client_id": YOUTUBE_CLIENT_ID,
+            "client_secret": YOUTUBE_CLIENT_SECRET,
+            "refresh_token": YOUTUBE_REFRESH_TOKEN,
+            "grant_type": "refresh_token",
+        }
+    ).encode()
+    req = urllib.request.Request(
+        "https://oauth2.googleapis.com/token",
+        data=body,
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+    except Exception as e:
+        print(f"  Warning: OAuth token exchange failed: {e}")
+        return None
+
+    _access_token_cache["token"] = data["access_token"]
+    _access_token_cache["expires_at"] = now + int(data.get("expires_in", 3600))
+    return _access_token_cache["token"]
 
 # Supadata API
 SUPADATA_API_KEY = os.environ.get("SUPADATA_API_KEY", "")
@@ -61,20 +102,33 @@ def slugify(text):
 
 def get_video_metadata(video_id):
     """Get video metadata via YouTube Data API v3."""
-    if not YOUTUBE_API_KEY:
-        print("  Warning: No YOUTUBE_API_KEY, using minimal metadata")
+    oauth_token = _get_oauth_access_token()
+    if not (oauth_token or YOUTUBE_API_KEY):
+        print(
+            "  Warning: No YouTube OAuth credentials or API key, using minimal metadata"
+        )
         return None
 
     try:
-        params = urllib.parse.urlencode(
-            {
-                "part": "snippet,contentDetails,statistics",
-                "id": video_id,
-                "key": YOUTUBE_API_KEY,
-            }
-        )
+        if oauth_token:
+            params = urllib.parse.urlencode(
+                {
+                    "part": "snippet,contentDetails,statistics",
+                    "id": video_id,
+                }
+            )
+            req_headers = {"Authorization": f"Bearer {oauth_token}"}
+        else:
+            params = urllib.parse.urlencode(
+                {
+                    "part": "snippet,contentDetails,statistics",
+                    "id": video_id,
+                    "key": YOUTUBE_API_KEY,
+                }
+            )
+            req_headers = {}
         url = f"https://www.googleapis.com/youtube/v3/videos?{params}"
-        req = urllib.request.Request(url)
+        req = urllib.request.Request(url, headers=req_headers)
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = json.loads(resp.read())
 

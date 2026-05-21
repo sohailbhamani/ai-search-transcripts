@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "GPT-5.5 is a total freak"
 video_id: "G-oNwbngkt0"
 youtube_url: "https://www.youtube.com/watch?v=G-oNwbngkt0"
-publish_date: "unknown"
+publish_date: "2026-04-25"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

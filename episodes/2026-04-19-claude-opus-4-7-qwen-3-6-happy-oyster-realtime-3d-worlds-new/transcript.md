@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS"
 video_id: "G8fqduzB5lc"
 youtube_url: "https://www.youtube.com/watch?v=G8fqduzB5lc"
-publish_date: "unknown"
+publish_date: "2026-04-19"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
