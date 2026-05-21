@@ -1,6 +1,6 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (8 episodes):
+Episodes discussing **Artifacts** (9 episodes):
 
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
@@ -10,3 +10,4 @@ Episodes discussing **Artifacts** (8 episodes):
 - [Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](../episodes/2026-03-01-realtime-ai-waifus-qwen-35-persistent-memory-multiplayer-gameplay-new-image-mode/transcript.md) (2026-03-01)
 - [Elevenlabs just got wrecked. This free AI text to speech is WILD!](../episodes/2026-01-24-elevenlabs-just-got-wrecked-this-free-ai-text-to-speech-is-wild/transcript.md) (2026-01-24)
 - [AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](../episodes/2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face/transcript.md) (2026-01-11)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

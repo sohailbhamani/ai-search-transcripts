@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (24 episodes):
+Episodes discussing **Ai Agents** (26 episodes):
 
+- [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
 - [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
@@ -26,3 +27,4 @@ Episodes discussing **Ai Agents** (24 episodes):
 - [Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](../episodes/2026-01-25-realtime-ai-voices-ai-livestreamers-blender-3d-agents-realtime-worlds-new-top-oc/transcript.md) (2026-01-25)
 - [Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS](../episodes/2026-01-18-realtime-ai-video-open-source-suno-next-level-ai-agents-realtime-text-to-speech/transcript.md) (2026-01-18)
 - [AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](../episodes/2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face/transcript.md) (2026-01-11)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

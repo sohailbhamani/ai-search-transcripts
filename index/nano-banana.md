@@ -1,6 +1,6 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (23 episodes):
+Episodes discussing **Nano Banana** (24 episodes):
 
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
@@ -25,3 +25,4 @@ Episodes discussing **Nano Banana** (23 episodes):
 - [New open-source "Nano Banana" is here! INSANELY fast](../episodes/2026-01-16-new-open-source-nano-banana-is-here-insanely-fast/transcript.md) (2026-01-16)
 - [AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](../episodes/2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face/transcript.md) (2026-01-11)
 - [DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](../episodes/2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag/transcript.md) (2026-01-04)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

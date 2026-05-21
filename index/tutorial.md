@@ -1,6 +1,6 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (23 episodes):
+Episodes discussing **Tutorial** (24 episodes):
 
 - [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
 - [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
@@ -25,3 +25,4 @@ Episodes discussing **Tutorial** (23 episodes):
 - [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)
 - [New open-source "Nano Banana" is here! INSANELY fast](../episodes/2026-01-16-new-open-source-nano-banana-is-here-insanely-fast/transcript.md) (2026-01-16)
 - [New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](../episodes/2026-01-08-new-1-open-source-ai-video-generator-is-here-fast-4k-audio-low-vram/transcript.md) (2026-01-08)
+- [Long continuous AI video is here! Free & open-source](../episodes/2026-01-01-long-continuous-ai-video-is-here-free-open-source/transcript.md) (2026-01-01)

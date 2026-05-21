@@ -1,6 +1,6 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (26 episodes):
+Episodes discussing **Hugging Face** (27 episodes):
 
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
 - [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
@@ -28,3 +28,4 @@ Episodes discussing **Hugging Face** (26 episodes):
 - [AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](../episodes/2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face/transcript.md) (2026-01-11)
 - [New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](../episodes/2026-01-08-new-1-open-source-ai-video-generator-is-here-fast-4k-audio-low-vram/transcript.md) (2026-01-08)
 - [DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](../episodes/2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag/transcript.md) (2026-01-04)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

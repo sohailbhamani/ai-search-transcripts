@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (32 episodes):
+Episodes discussing **Coding** (35 episodes):
 
+- [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
 - [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
@@ -34,3 +35,5 @@ Episodes discussing **Coding** (32 episodes):
 - [Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS](../episodes/2026-01-18-realtime-ai-video-open-source-suno-next-level-ai-agents-realtime-text-to-speech/transcript.md) (2026-01-18)
 - [New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](../episodes/2026-01-08-new-1-open-source-ai-video-generator-is-here-fast-4k-audio-low-vram/transcript.md) (2026-01-08)
 - [DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](../episodes/2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag/transcript.md) (2026-01-04)
+- [Long continuous AI video is here! Free & open-source](../episodes/2026-01-01-long-continuous-ai-video-is-here-free-open-source/transcript.md) (2026-01-01)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

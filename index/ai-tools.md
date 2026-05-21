@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (22 episodes):
+Episodes discussing **Ai Tools** (25 episodes):
 
+- [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
 - [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
@@ -24,3 +25,5 @@ Episodes discussing **Ai Tools** (22 episodes):
 - [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)
 - [Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS](../episodes/2026-01-18-realtime-ai-video-open-source-suno-next-level-ai-agents-realtime-text-to-speech/transcript.md) (2026-01-18)
 - [DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](../episodes/2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag/transcript.md) (2026-01-04)
+- [Long continuous AI video is here! Free & open-source](../episodes/2026-01-01-long-continuous-ai-video-is-here-free-open-source/transcript.md) (2026-01-01)
+- [New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS](../episodes/2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid/transcript.md) (2025-12-28)

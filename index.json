@@ -1,10 +1,71 @@
 {
-  "total_videos": 49,
+  "total_videos": 52,
   "date_range": {
-    "newest": "2026-05-17",
-    "oldest": "2026-01-04"
+    "newest": "2026-05-21",
+    "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Google just dropped some huge AI updates",
+      "video_id": "J02-39xtlt4",
+      "youtube_url": "https://www.youtube.com/watch?v=J02-39xtlt4",
+      "publish_date": "2026-05-21",
+      "duration": "28:01",
+      "duration_seconds": 1681,
+      "view_count": 42158,
+      "author": "AI Search",
+      "description": "Google I/O AI updates. Gemini Omni, Gemini Spark, Gemini 3.5, TPU 8, Antigravity 2.0 #googleio #ai #ainews #aitools #agi \n\nThanks to our sponsor Hubspot. Access AEO Grader for free https://clickhubspot.com/887ba1 \n\nGemini Omni https://deepmind.google/models/gemini-omni/\nGemini 3.5 Flash https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5\nAntigravity 2.0 https://antigravity.google/\nAI Studio https://aistudio.google.com/\n\n0:00 Google IO\n0:27 Gemini Omni\n3:39 Gemini 3.5 Flash\n6:56 Antigravity 2.0\n8:36 Daily brief\n9:25 Hubspot AEO\n11:11 Gemini Spark\n12:13 New Google search\n13:04 Information agents\n13:47 Agentic search\n15:48 Personal intelligence\n16:32 AI workspace\n17:37 Docs live\n19:26 Google Pics\n20:30 AI inbox\n21:49 XR glasses\n24:11 TPU 8t 8i\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Nvidia",
+          "Box",
+          "Perplexity",
+          "Cursor",
+          "YouTube",
+          "Qualcomm"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "GPT-5",
+          "Gemini",
+          "Gemini 3",
+          "PaLM"
+        ]
+      },
+      "concepts": [
+        "Search can become more useful by understanding your personal context, but only when you choose to connect apps like gmail, google photos, and calendar",
+        "Powering the models that are used when people prompt gemini",
+        "Search is no longer type in a search term and see a bunch of links"
+      ],
+      "summary": [
+        "# Google just dropped some huge AI updates\nGoogle just held their biggest annual event with some huge AI announcements"
+      ],
+      "transcript_chars": 28668,
+      "folder": "2026-05-21-google-just-dropped-some-huge-ai-updates"
+    },
     {
       "title": "Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS",
       "video_id": "NnsQj2nDkKA",
@@ -2511,6 +2572,101 @@
       ],
       "transcript_chars": 44209,
       "folder": "2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag"
+    },
+    {
+      "title": "Long continuous AI video is here! Free & open-source",
+      "video_id": "-3DVJu72VhE",
+      "youtube_url": "https://www.youtube.com/watch?v=-3DVJu72VhE",
+      "publish_date": "2026-01-01",
+      "duration": "24:49",
+      "duration_seconds": 1489,
+      "view_count": 199700,
+      "author": "AI Search",
+      "description": "Stable Video Infinity v2.0 Pro installation tutorial. Consistent long AI videos. Free & uncensored #ai #aitools #aivideo\n\nThanks to our sponsor Genspark. Sign up today and get free credits, plus unlimited AI chat and image generation with Pro. https://www.genspark.ai/?utm_source=yt&utm_campaign=theAIsearch\nJan 1\u20137 only: Get 40% off any Annual plan\u2014save $100 on Plus Annual or $1,000 on Pro Annual. @genspark_ai\u2069  \n\nSources in order of mention\nSVI main page: https://github.com/vita-epfl/Stable-Video-Infinity\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nKJnodes: https://github.com/kijai/ComfyUI-KJNodes\nSVI 2 Pro workflow: https://github.com/user-attachments/files/24359648/wan22_SVI_Pro_native_example_KJ.json\nWan fp8 models: https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/tree/main/I2V\nLightx2v models: https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/tree/main\nSVI 2.0 Pro models: https://huggingface.co/Kijai/WanVideo_comfy/tree/main/LoRAs/Stable-Video-Infinity/v2.0\nCLIP: https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/tree/main/split_files/text_encoders\nVAE: https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/tree/main/split_files/vae\nGGUFs https://huggingface.co/QuantStack/Wan2.2-I2V-A14B-GGUF/tree/main\n\n0:00 SVI 2.0 Pro intro\n0:33 Demos and strengths\n3:42 Install KJNodes \n5:27 SVI 2 Pro workflow\n6:40 Downloading all the models\n11:24 Genspark\n13:16 How to use SVI 2.0 Pro\n17:34 Common errors\n19:23 How to add loras\n21:17 GGUFs for low vram\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Free & open-source\nFinally, we have an AI that can generate long videos that are actually consistent and coherent"
+      ],
+      "transcript_chars": 24251,
+      "folder": "2026-01-01-long-continuous-ai-video-is-here-free-open-source"
+    },
+    {
+      "title": "New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS",
+      "video_id": "1IZMwC3oDfc",
+      "youtube_url": "https://www.youtube.com/watch?v=1IZMwC3oDfc",
+      "publish_date": "2025-12-28",
+      "duration": "38:50",
+      "duration_seconds": 2330,
+      "view_count": 135499,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen Image Edit 2511, GLM 4.7, MiniMax M2.1, NitroGen & more #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://nitrogen.minedojo.org/\nhttps://francis-rings.github.io/FlashPortrait/\nhttps://generative-refocusing.github.io/\nhttps://huggingface.co/Qwen/Qwen-Image-Edit-2511\nhttps://emjay73.github.io/InfCam/\nhttps://kevin-thu.github.io/StoryMem/\nhttps://zhw-zhang.github.io/ReCo-page/\nhttps://www.minimax.io/news/minimax-m21\nGLM 4.7 review: https://youtu.be/KaWQ2Ua9CW8\nhttps://zhaojingjing713.github.io/Spatia/\nhttps://maddog241.github.io/mvinverse-page/\nhttps://dreamontage.github.io/DreaMontage/\nhttps://3dregen.jdihlmann.com/\nhttps://nvlabs.github.io/CARI4D/\nhttps://snowflakewang.github.io/AniX/\n\n0:00 AI news intro\n1:12 NitroGen\n3:01 FlashPortrait\n6:38 Generative Refocusing\n9:05 Qwen Image Edit 2511\n12:52 Inf-Cam\n15:51 Unitree teleoperation\n17:05 ChatLLM\n18:13 StoryMem\n19:33 ReCo\n21:51 Minimax M2.1\n27:11 GLM 4.7\n28:22 Spatia\n29:51 MVInverse\n31:21 DreamMontage\n33:45 3D Regen\n34:50 CARI4D\n36:26 AniX\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Artifacts",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude 4",
+          "Gemini",
+          "Gemini 3",
+          "Yi"
+        ]
+      },
+      "concepts": [
+        "It can create a 3d model of the room, including all the objects inside it"
+      ],
+      "summary": [
+        "# New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS\nEven though it's Christmas holiday, AI never sleeps"
+      ],
+      "transcript_chars": 39522,
+      "folder": "2025-12-28-new-open-nano-banana-ai-plays-any-video-game-new-top-open-source-models-long-vid"
     }
   ]
 }
