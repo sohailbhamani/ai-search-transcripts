@@ -1,6 +1,6 @@
 # Apple
 
-Episodes discussing **Apple** (8 episodes):
+Episodes discussing **Apple** (9 episodes):
 
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
 - [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
@@ -10,3 +10,4 @@ Episodes discussing **Apple** (8 episodes):
 - [New #1 open source AI model just dropped](../episodes/2026-02-13-new-1-open-source-ai-model-just-dropped/transcript.md) (2026-02-13)
 - [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
 - [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)
+- [AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](../episodes/2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face/transcript.md) (2026-01-11)

@@ -1,6 +1,6 @@
 # Box
 
-Episodes discussing **Box** (13 episodes):
+Episodes discussing **Box** (14 episodes):
 
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
 - [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
@@ -15,3 +15,4 @@ Episodes discussing **Box** (13 episodes):
 - [KLING 3.0 is crazy...](../episodes/2026-02-06-kling-30-is-crazy/transcript.md) (2026-02-06)
 - [New #1 open-source AI music generator is INSANE!](../episodes/2026-02-04-new-1-open-source-ai-music-generator-is-insane/transcript.md) (2026-02-04)
 - [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)
+- [DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](../episodes/2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag/transcript.md) (2026-01-04)

@@ -1,8 +1,8 @@
 {
-  "total_videos": 44,
+  "total_videos": 49,
   "date_range": {
     "newest": "2026-05-17",
-    "oldest": "2026-01-20"
+    "oldest": "2026-01-04"
   },
   "videos": [
     {
@@ -2246,6 +2246,271 @@
       ],
       "transcript_chars": 27906,
       "folder": "2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator"
+    },
+    {
+      "title": "Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS",
+      "video_id": "eHMVifFMq0Q",
+      "youtube_url": "https://www.youtube.com/watch?v=eHMVifFMq0Q",
+      "publish_date": "2026-01-18",
+      "duration": "37:41",
+      "duration_seconds": 2261,
+      "view_count": 96207,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Flux2 Klein, NovaSR, Pocket TTS, PixVerse R1, HeartMula, ShowUI Aloha  & more #ai #ainews #aitools #aivideo\n\nThanks to our sponsor, Lovart. Try it for free: https://bit.ly/4qeOXCR%20 For a limited time, get 50% OFF on paid plans! @lovart_ai\n\nSources in order of mention:\nShowUI-Aloha  https://showlab.github.io/Aloha_Page/\nNovaSR https://github.com/ysharma3501/NovaSR\nVerseCrafter https://sixiaozheng.github.io/VerseCrafter_page/\nUniSH https://murphylmf.github.io/UniSH/\nShowUI-pi https://showlab.github.io/showui-pi/\nAnyDepth https://aigeeksgroup.github.io/AnyDepth/\nFlux2 Klein tutorial https://youtu.be/2OrOufa3eoc\nVIBE https://riko0.github.io/VIBE/\nShapeR https://facebookresearch.github.io/ShapeR/\nHeartMula https://heartmula.github.io/\nRigMo https://rigmo-page.github.io/\nPocket TTS https://github.com/kyutai-labs/pocket-tts\nPixVerse R1 https://app.pixverse.ai/\n\n0:00 AI news intro\n1:23 ShowUI-Aloha \n3:32 NovaSR\n5:28 VerseCrafter\n8:36 UniSH\n9:52 ShowUI-pi\n11:54 AnyDepth\n14:06 Flux2 Klein\n15:08 VIBE\n17:27 Lovart\n19:14 ShapeR\n20:56 HeartMula\n30:03 RigMo\n31:21 Pocket TTS\n34:33 PixVerse R1\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Nvidia",
+          "Adobe",
+          "GitHub",
+          "Hugging Face",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Runway",
+          "Hugging Face",
+          "Make",
+          "Sonnet",
+          "Computer Use",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "SAM",
+          "SAM 2",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 34014,
+      "folder": "2026-01-18-realtime-ai-video-open-source-suno-next-level-ai-agents-realtime-text-to-speech"
+    },
+    {
+      "title": "New open-source \"Nano Banana\" is here! INSANELY fast",
+      "video_id": "2OrOufa3eoc",
+      "youtube_url": "https://www.youtube.com/watch?v=2OrOufa3eoc",
+      "publish_date": "2026-01-16",
+      "duration": "34:23",
+      "duration_seconds": 2063,
+      "view_count": 117210,
+      "author": "AI Search",
+      "description": "FLUX2 Klein review & installation tutorial. Flux2 klein vs Qwen image 2512 vs Z image turbo. #ai #aitools #aiart #ainews\n\nThanks to our sponsor Mago. Go to https://www.mago.studio/?utm_source=aisearch&utm_campaign=ais to start transforming and restyling your videos. Use code AISEARCH for 50% OFF your 1st month of Pro Plan! Limited to the first 500 users!\n\nhttps://bfl.ai/models/flux-2-klein\n\nDownload models here: \n4B: https://huggingface.co/Comfy-Org/flux2-klein-4B/tree/main/split_files\n9B: https://huggingface.co/Comfy-Org/flux2-klein-9B/tree/main/split_files\n\nUpdate: They also added some fp8 fp4 models here https://huggingface.co/collections/black-forest-labs/flux2\n\nUpdate: you can now find workflows in 'templates'. or download them here https://docs.comfy.org/tutorials/flux/flux-2-klein\n\n4B GGUFs https://huggingface.co/unsloth/FLUX.2-klein-4B-GGUF\n9B GGUFs https://huggingface.co/unsloth/FLUX.2-klein-9B-GGUF\n\n0:00 Flux 2 klein intro\n0:34 Flux2 klein specs and demos \n2:48 Flux2 klein vs Qwen image vs Z image turbo\n4:06 Long text\n4:53 Clock & wineglass\n5:18 Other tricky prompts\n5:52 Other art styles\n7:08 Anatomy\n7:34 UI design\n8:00 Prompt adherence\n8:58 Chinese painting\n9:43 Flux2 Klein vs Qwen Image Edit \n10:52 Changing camera angle\n11:59 Pose transfer\n13:23 How to install Flux2 Klein\n14:00 Mago\n15:20 Installation continued\n20:04 Text to image workflow\n21:37 Image editing workflow\n25:49 Multiple input images\n28:23 For low VRAM text to image\n31:58 Low vram for image editing\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Hugging Face",
+          "YouTube",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make",
+          "Nano Banana"
+        ],
+        "models": [
+          "PaLM",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "You can take advantage of all the models and their different strengths at different steps of your project"
+      ],
+      "summary": [
+        "INSANELY fast\nLadies and gentlemen, we have a new free and open- source image generator, and this is blazing fast, and you can even run it with as low as 2 GB of VRAM, or even just with a CPU"
+      ],
+      "transcript_chars": 35211,
+      "folder": "2026-01-16-new-open-source-nano-banana-is-here-insanely-fast"
+    },
+    {
+      "title": "AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS",
+      "video_id": "qOr5-FrkElk",
+      "youtube_url": "https://www.youtube.com/watch?v=qOr5-FrkElk",
+      "publish_date": "2026-01-11",
+      "duration": "35:41",
+      "duration_seconds": 2141,
+      "view_count": 81210,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nSources in order of mention:\nhttps://guoxu1233.github.io/DreamID-V/\nhttps://congwei1230.github.io/UniVideo/\nhttps://aiming-lab.github.io/SimpleMem-Page/\nhttps://lemonsky1995.github.io/dreamstyle/\nhttps://github.com/HKUDS/DeepTutor\nhttps://neoverse-4d.github.io/\nhttps://xiaokunsun.github.io/MorphAny3D.github.io/\nhttps://yichuanh.github.io/GaMo/\nhttps://zju3dv.github.io/InfiniDepth/\nLTX2 GGUFs https://huggingface.co/Kijai/LTXV2_comfy/tree/main\nWan2GP https://github.com/deepbeepmeep/Wan2GP\nhttps://sotamak1r.github.io/VINO-web/\nhttps://github.com/Tencent-Hunyuan/HY-MT\n\n0:00 AI news intro\n1:12 DreamID V\n2:23 UniVideo\n5:54 SimpleMem\n8:28 DreamStyle\n11:10 DeepTutor\n13:10 NeoVerse\n15:35 ChatLLM\n16:44 Unitree demo\n17:50 Boston Dynamics Atlas\n19:10 Morph\n21:46 GaMo\n23:56 InfiniDepth\n26:50 LTX-2 updates\n28:44 VINO\n32:12 HY-MT\n34:03 Gmail AI features\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Gemini",
+          "Sora",
+          "Runway",
+          "Hugging Face",
+          "Make",
+          "Atlas",
+          "Artifacts",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "That any part of its body can face one direction or another, which if you think about it, is actually quite useful and convenient"
+      ],
+      "summary": [
+        "# AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 35236,
+      "folder": "2026-01-11-ai-tutor-agents-omnimodal-video-models-ltx-2-updates-long-term-memory-video-face"
+    },
+    {
+      "title": "New #1 open-source AI video generator is here! Fast + 4K + audio + low vram",
+      "video_id": "I_b2QN-B1W0",
+      "youtube_url": "https://www.youtube.com/watch?v=I_b2QN-B1W0",
+      "publish_date": "2026-01-08",
+      "duration": "38:57",
+      "duration_seconds": 2337,
+      "view_count": 228831,
+      "author": "AI Search",
+      "description": "LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools #aivideo #veo #sora\n\nLTX-2 official repo: https://github.com/Lightricks/LTX-2\nComfyUI LTX-2 - download nodes here: https://github.com/Lightricks/ComfyUI-LTXVideo/\nDownload LTX-2 models here: https://huggingface.co/Lightricks/LTX-2/tree/main\nUse this Gemma version instead - it\u2019s WAY smaller https://huggingface.co/unsloth/gemma-3-12b-it-bnb-4bit/tree/main\nLTX-2 loras: https://huggingface.co/collections/Lightricks/ltx-2\n\nIf you don\u2019t have ComfyUI, see this tutorial first https://youtu.be/g74Cq9Ip2ik\n\n0:00 LTX-2 intro\n0:44 LTX-2 open source specs\n3:14 How to install LTX-2 in ComfyUI\n6:44 Full vs distilled workflows\n8:06 Distilled lora \n9:15 Downloading models\n13:31 Text to video workflow\n15:15 How to use on low or no VRAM\n18:45 How to use loras\n21:05 Image to video\n25:41 How to use controlnet\n34:55 V2V detailer\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "GitHub",
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "Is it's going to always keep 4 gb of vram free"
+      ],
+      "summary": [
+        "Fast + 4K + audio + low vram\nThis is now the best open-source video generator you can use, and it does it all",
+        "It's going to always keep 4 gb of vram free"
+      ],
+      "transcript_chars": 38341,
+      "folder": "2026-01-08-new-1-open-source-ai-video-generator-is-here-fast-4k-audio-low-vram"
+    },
+    {
+      "title": "DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS",
+      "video_id": "7kPNA86G_GA",
+      "youtube_url": "https://www.youtube.com/watch?v=7kPNA86G_GA",
+      "publish_date": "2026-01-04",
+      "duration": "44:39",
+      "duration_seconds": 2679,
+      "view_count": 146515,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more \n#ai #ainews #aitools #aivideo\n\nThanks to our sponsor MiniMax. Try their latest MiniMax M2.1 for free: https://platform.minimax.io/subscribe/coding-plan?code=7zRB1OE84q&source=link\nGet an additional 12% OFF with this link\n\nSources in order of mention:\nhttps://jamichss.github.io/stream-diffvsr-project-page/\nhttps://pku-yuangroup.github.io/UltraShape-1.0/\nhttps://stdstu12.github.io/YUME-Project/\nhttps://arxiv.org/pdf/2512.24880\nhttps://biangbiang0321.github.io/SpotEdit.github.io/\nhttps://github.com/Tencent-Hunyuan/HY-Motion-1.0\nhttps://huggingface.co/inclusionAI/TwinFlow-Z-Image-Turbo\nhttps://isee-laboratory.github.io/ProEdit/\nhttp://haonanqiu.com/projects/HiStream.html\nhttps://iquestlab.github.io/\nhttps://qwen.ai/blog?id=qwen-image-2512\nQwen Image 2512 for ComfyUI https://docs.comfy.org/tutorials/image/qwen/qwen-image-2512\nQwen Image 2512 GGUFs https://huggingface.co/unsloth/Qwen-Image-2512-GGUF\nhttps://javisverse.github.io/JavisGPT-page/\nhttps://zheninghuang.github.io/Space-Time-Pilot/\n\n0:00 AI news intro\n1:16 Stream DiffVSR\n3:20 Ultrashape 1.0\n5:07 Yume 1.5\n7:17 Deepseek mHC\n10:44 SpotEdit\n13:20 HY Motion\n16:00 TwinFlow ZIT\n17:30 ProEdit\n18:58 Minimax M2.1\n20:52 HiStream\n23:41 IQuest Coder\n28:30 Qwen Image 2512\n38:12 JavisGPT\n40:56 SpaceTimePilot\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Meta",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "Cursor",
+          "YouTube",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude 4",
+          "Gemini",
+          "Gemini 3",
+          "Qwen",
+          "DeepSeek",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 44209,
+      "folder": "2026-01-04-deepseek-is-back-realtime-upscaler-realtime-3d-worlds-top-3d-generator-qwen-imag"
     }
   ]
 }
