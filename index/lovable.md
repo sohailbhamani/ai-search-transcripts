@@ -2,4 +2,4 @@
 
 Episodes discussing **Lovable** (1 episodes):
 
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)

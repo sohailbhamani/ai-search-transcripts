@@ -1,16 +1,16 @@
 # Youtube
 
-Episodes discussing **Youtube** (31 episodes):
+Episodes discussing **Youtube** (35 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s3rndndvav0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
+- [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
@@ -33,3 +33,7 @@ Episodes discussing **Youtube** (31 episodes):
 - [New #1 open-source AI music generator is INSANE!](../episodes/2026-02-04-new-1-open-source-ai-music-generator-is-insane/transcript.md) (2026-02-04)
 - [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
 - [New #1 open-source AI model is WILD](../episodes/2026-01-30-new-1-open-source-ai-model-is-wild/transcript.md) (2026-01-30)
+- [Z-Image Base is out! Best local AI image model](../episodes/2026-01-29-z-image-base-is-out-best-local-ai-image-model/transcript.md) (2026-01-29)
+- [Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](../episodes/2026-01-25-realtime-ai-voices-ai-livestreamers-blender-3d-agents-realtime-worlds-new-top-oc/transcript.md) (2026-01-25)
+- [Elevenlabs just got wrecked. This free AI text to speech is WILD!](../episodes/2026-01-24-elevenlabs-just-got-wrecked-this-free-ai-text-to-speech-is-wild/transcript.md) (2026-01-24)
+- [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)

@@ -1,10 +1,10 @@
 # Product Management
 
-Episodes discussing **Product Management** (15 episodes):
+Episodes discussing **Product Management** (16 episodes):
 
-- [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
+- [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [Finally, AI for music production! Free & open source](../episodes/2026-03-20-finally-ai-for-music-production-free-open-source/transcript.md) (2026-03-20)
@@ -17,3 +17,4 @@ Episodes discussing **Product Management** (15 episodes):
 - [KLING 3.0 is crazy...](../episodes/2026-02-06-kling-30-is-crazy/transcript.md) (2026-02-06)
 - [New #1 open-source AI music generator is INSANE!](../episodes/2026-02-04-new-1-open-source-ai-music-generator-is-insane/transcript.md) (2026-02-04)
 - [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
+- [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)

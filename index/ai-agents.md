@@ -1,13 +1,13 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (20 episodes):
+Episodes discussing **Ai Agents** (22 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)
@@ -22,3 +22,5 @@ Episodes discussing **Ai Agents** (20 episodes):
 - [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
 - [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
 - [New #1 open-source AI model is WILD](../episodes/2026-01-30-new-1-open-source-ai-model-is-wild/transcript.md) (2026-01-30)
+- [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)
+- [Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](../episodes/2026-01-25-realtime-ai-voices-ai-livestreamers-blender-3d-agents-realtime-worlds-new-top-oc/transcript.md) (2026-01-25)

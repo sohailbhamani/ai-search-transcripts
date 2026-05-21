@@ -55,6 +55,7 @@ keywords:
   - "anthropic"
   - "artifacts"
   - "claude"
+  - "coding"
   - "frameworks"
   - "gemini"
   - "github"

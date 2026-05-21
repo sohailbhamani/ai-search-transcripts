@@ -1,223 +1,15 @@
 {
-  "total_videos": 39,
+  "total_videos": 44,
   "date_range": {
-    "newest": "unknown",
-    "oldest": "2026-01-30"
+    "newest": "2026-05-17",
+    "oldest": "2026-01-20"
   },
   "videos": [
     {
-      "title": "Unknown",
-      "video_id": "1_5sSJK2rU0",
-      "youtube_url": "https://www.youtube.com/watch?v=1_5sSJK2rU0",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Microsoft",
-          "Apple",
-          "Nvidia",
-          "GitHub",
-          "Hugging Face",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Gemini",
-          "Stable Diffusion",
-          "Hugging Face",
-          "Make",
-          "Opus",
-          "Sonnet",
-          "Nano Banana"
-        ],
-        "models": [
-          "Claude Opus",
-          "Sonnet 4",
-          "Gemini",
-          "Gemini 3",
-          "Llama",
-          "DeepSeek",
-          "Stable Diffusion"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nAI never sleeps and this week has been absolutely insane"
-      ],
-      "transcript_chars": 40343,
-      "folder": "unknown-1_5ssjk2ru0"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "7r_WJ9xpne0",
-      "youtube_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Nvidia",
-          "Adobe",
-          "GitHub",
-          "Hugging Face",
-          "Mistral",
-          "YouTube",
-          "Canva"
-        ],
-        "people": [],
-        "products": [
-          "ChatGPT",
-          "Claude",
-          "Gemini",
-          "Hugging Face",
-          "Make",
-          "Artifacts",
-          "Projects",
-          "Nano Banana"
-        ],
-        "models": [
-          "Gemini",
-          "Llama",
-          "Mistral",
-          "DeepSeek",
-          "Flux"
-        ]
-      },
-      "concepts": [
-        "That you can also reshoot the scene using any camera movement or angle you want"
-      ],
-      "summary": [
-        "# Unknown\nAI never sleeps and this week has been absolutely insane"
-      ],
-      "transcript_chars": 45819,
-      "folder": "unknown-7r_wj9xpne0"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "A_nAU8h9YOY",
-      "youtube_url": "https://www.youtube.com/watch?v=A_nAU8h9YOY",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Make",
-          "Nano Banana",
-          "Canvas"
-        ],
-        "models": [
-          "CLIP",
-          "Flux"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nWe have a new open-source image generator that tops the charts"
-      ],
-      "transcript_chars": 24874,
-      "folder": "unknown-a_nau8h9yoy"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "G-oNwbngkt0",
-      "youtube_url": "https://www.youtube.com/watch?v=G-oNwbngkt0",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Box",
-          "Cursor",
-          "YouTube",
-          "Arc"
-        ],
-        "people": [],
-        "products": [
-          "ChatGPT",
-          "Claude",
-          "Cursor",
-          "Arc",
-          "Make",
-          "Opus",
-          "Computer Use"
-        ],
-        "models": [
-          "Claude Opus"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nOpenAI just released their latest model, GPT 5"
-      ],
-      "transcript_chars": 27003,
-      "folder": "unknown-g-onwbngkt0"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "G8fqduzB5lc",
-      "youtube_url": "https://www.youtube.com/watch?v=G8fqduzB5lc",
-      "publish_date": "unknown",
+      "title": "Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS",
+      "video_id": "NnsQj2nDkKA",
+      "youtube_url": "https://www.youtube.com/watch?v=NnsQj2nDkKA",
+      "publish_date": "2026-05-17",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -225,69 +17,7 @@
       "description": "",
       "yt_tags": [],
       "content_type": "News Roundup",
-      "primary_topic": "Prompting",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Nvidia",
-          "Adobe",
-          "GitHub",
-          "Box",
-          "Hugging Face",
-          "X"
-        ],
-        "people": [],
-        "products": [
-          "ChatGPT",
-          "Claude",
-          "Claude Code",
-          "Gemini",
-          "Whisper",
-          "Hugging Face",
-          "Opus",
-          "Sonnet",
-          "Computer Use"
-        ],
-        "models": [
-          "Claude Opus",
-          "Sonnet 4",
-          "Gemini",
-          "Gemini 3",
-          "Llama",
-          "Llama 3",
-          "Llama 3.1",
-          "Whisper"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nAI never sleeps and this week has been absolutely insane"
-      ],
-      "transcript_chars": 36597,
-      "folder": "unknown-g8fqduzb5lc"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "NnsQj2nDkKA",
-      "youtube_url": "https://www.youtube.com/watch?v=NnsQj2nDkKA",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -328,13 +58,13 @@
         "# Unknown\nAI never sleeps and this week has been absolutely insane"
       ],
       "transcript_chars": 44390,
-      "folder": "unknown-nnsqj2ndkka"
+      "folder": "2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg"
     },
     {
-      "title": "Unknown",
-      "video_id": "quxnhOeRz7I",
-      "youtube_url": "https://www.youtube.com/watch?v=quxnhOeRz7I",
-      "publish_date": "unknown",
+      "title": "The biggest AI breakthrough in medicine & drug discovery",
+      "video_id": "s3rNDndvav0",
+      "youtube_url": "https://www.youtube.com/watch?v=s3rNDndvav0",
+      "publish_date": "2026-05-14",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -343,6 +73,45 @@
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Runway",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThis might genuinely be one of the biggest breakthroughs in medicine and drug discovery we've seen in decades"
+      ],
+      "transcript_chars": 31181,
+      "folder": "2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery"
+    },
+    {
+      "title": "Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS",
+      "video_id": "quxnhOeRz7I",
+      "youtube_url": "https://www.youtube.com/watch?v=quxnhOeRz7I",
+      "publish_date": "2026-05-10",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -391,21 +160,21 @@
         "# Unknown\nAI never sleeps, and this week has been absolutely insane"
       ],
       "transcript_chars": 48362,
-      "folder": "unknown-quxnhoerz7i"
+      "folder": "2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-"
     },
     {
-      "title": "Unknown",
-      "video_id": "s3rNDndvav0",
-      "youtube_url": "https://www.youtube.com/watch?v=s3rNDndvav0",
-      "publish_date": "unknown",
+      "title": "Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS",
+      "video_id": "7r_WJ9xpne0",
+      "youtube_url": "https://www.youtube.com/watch?v=7r_WJ9xpne0",
+      "publish_date": "2026-05-03",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
       "author": "AI Search",
       "description": "",
       "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
@@ -414,73 +183,50 @@
       ],
       "entities": {
         "companies": [
+          "Anthropic",
           "Google",
-          "YouTube",
-          "Runway"
-        ],
-        "people": [],
-        "products": [
-          "Runway",
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nThis might genuinely be one of the biggest breakthroughs in medicine and drug discovery we've seen in decades"
-      ],
-      "transcript_chars": 31181,
-      "folder": "unknown-s3rndndvav0"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "TLFPbMUtErM",
-      "youtube_url": "https://www.youtube.com/watch?v=TLFPbMUtErM",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI Search",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "Prompting",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Google",
-          "Amazon",
-          "Slack",
-          "Perplexity",
+          "Meta",
+          "Nvidia",
+          "Adobe",
+          "GitHub",
+          "Hugging Face",
+          "Mistral",
           "YouTube",
           "Canva"
         ],
         "people": [],
         "products": [
-          "Perplexity",
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Hugging Face",
           "Make",
+          "Artifacts",
+          "Projects",
           "Nano Banana"
         ],
-        "models": []
+        "models": [
+          "Gemini",
+          "Llama",
+          "Mistral",
+          "DeepSeek",
+          "Flux"
+        ]
       },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nThe following images were completely made with AI"
+      "concepts": [
+        "That you can also reshoot the scene using any camera movement or angle you want"
       ],
-      "transcript_chars": 34846,
-      "folder": "unknown-tlfpbmuterm"
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 45819,
+      "folder": "2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy"
     },
     {
-      "title": "Unknown",
+      "title": "The insane engineering of Deepseek V4",
       "video_id": "XJUpuOBpT-4",
       "youtube_url": "https://www.youtube.com/watch?v=XJUpuOBpT-4",
-      "publish_date": "unknown",
+      "publish_date": "2026-05-01",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -528,13 +274,13 @@
         "Unlike the top closed AI labs out there that are spending billions on data centers with unlimited compute, DeepSeek is incredibly constrained"
       ],
       "transcript_chars": 29185,
-      "folder": "unknown-xjupuobpt-4"
+      "folder": "2026-05-01-the-insane-engineering-of-deepseek-v4"
     },
     {
-      "title": "Unknown",
+      "title": "The most insane week in AI",
       "video_id": "ZKfd9S9lOtc",
       "youtube_url": "https://www.youtube.com/watch?v=ZKfd9S9lOtc",
-      "publish_date": "unknown",
+      "publish_date": "2026-04-26",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -588,7 +334,264 @@
         "# Unknown\nAI never sleeps and this week has been absolutely exhausting"
       ],
       "transcript_chars": 37853,
-      "folder": "unknown-zkfd9s9lotc"
+      "folder": "2026-04-26-the-most-insane-week-in-ai"
+    },
+    {
+      "title": "GPT-5.5 is a total freak",
+      "video_id": "G-oNwbngkt0",
+      "youtube_url": "https://www.youtube.com/watch?v=G-oNwbngkt0",
+      "publish_date": "2026-04-25",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Box",
+          "Cursor",
+          "YouTube",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "GPT-5",
+          "Claude",
+          "Cursor",
+          "Arc",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "GPT-5",
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nOpenAI just released their latest model, GPT 5"
+      ],
+      "transcript_chars": 27003,
+      "folder": "2026-04-25-gpt-5-5-is-a-total-freak"
+    },
+    {
+      "title": "New AI image generator BEATS EVERYTHING",
+      "video_id": "TLFPbMUtErM",
+      "youtube_url": "https://www.youtube.com/watch?v=TLFPbMUtErM",
+      "publish_date": "2026-04-22",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Slack",
+          "Perplexity",
+          "YouTube",
+          "Canva"
+        ],
+        "people": [],
+        "products": [
+          "Perplexity",
+          "Make",
+          "Nano Banana"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe following images were completely made with AI"
+      ],
+      "transcript_chars": 34846,
+      "folder": "2026-04-22-new-ai-image-generator-beats-everything"
+    },
+    {
+      "title": "Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS",
+      "video_id": "G8fqduzB5lc",
+      "youtube_url": "https://www.youtube.com/watch?v=G8fqduzB5lc",
+      "publish_date": "2026-04-19",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "Adobe",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Whisper",
+          "Hugging Face",
+          "Opus",
+          "Sonnet",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude Opus",
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 3",
+          "Llama",
+          "Llama 3",
+          "Llama 3.1",
+          "Qwen",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 36597,
+      "folder": "2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new"
+    },
+    {
+      "title": "New BEST local AI image generator is here!",
+      "video_id": "A_nAU8h9YOY",
+      "youtube_url": "https://www.youtube.com/watch?v=A_nAU8h9YOY",
+      "publish_date": "2026-04-16",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nWe have a new open-source image generator that tops the charts"
+      ],
+      "transcript_chars": 24874,
+      "folder": "2026-04-16-new-best-local-ai-image-generator-is-here"
+    },
+    {
+      "title": "Claude Mythos, Deepseek v4, HappyHorse, Meta\u2019s new AI, realtime video games: AI NEWS",
+      "video_id": "1_5sSJK2rU0",
+      "youtube_url": "https://www.youtube.com/watch?v=1_5sSJK2rU0",
+      "publish_date": "2026-04-12",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "AI Search",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Stable Diffusion",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 3",
+          "Llama",
+          "DeepSeek",
+          "Stable Diffusion"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 40343,
+      "folder": "2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-"
     },
     {
       "title": "The BEST local AI music generator is here! (beats Suno)",
@@ -1989,6 +1992,260 @@
       ],
       "transcript_chars": 28189,
       "folder": "2026-01-30-new-1-open-source-ai-model-is-wild"
+    },
+    {
+      "title": "Z-Image Base is out! Best local AI image model",
+      "video_id": "OtuoOWsnLDg",
+      "youtube_url": "https://www.youtube.com/watch?v=OtuoOWsnLDg",
+      "publish_date": "2026-01-29",
+      "duration": "29:54",
+      "duration_seconds": 1794,
+      "view_count": 162766,
+      "author": "AI Search",
+      "description": "Z Image Base review & tutorial. Best uncensored AI image generator. How to install Z image in ComfyUI. Z image vs Z image turbo vs Flux Klein. #ai #aiart #aitools #ainews #imagegenerator \n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch  #AIInfluencer #Higgsfield #AIVideoGeneration\n\nZ-image full https://huggingface.co/Tongyi-MAI/Z-Image\nComfyUI workflow: https://blog.comfy.org/p/z-image-day-0-support-in-comfyui\nZ image GGUFs https://huggingface.co/unsloth/Z-Image-GGUF\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\n\nHow to train loras\nhttps://github.com/ostris/ai-toolkit\nhttps://www.modelscope.cn/models/DiffSynth-Studio/Z-Image-i2L\n\n0:00 Z Image Base intro\n0:31 Z Image features\n3:20 Z Image Base vs ZIT vs Flux Klein\n9:09 How to install Z-Image Full\n10:58 Higgsfield\n12:14 Loading the models\n13:40 How to use text to image\n17:12 Z-image full for low vram\n19:43 How to do image to image\n22:39 How to do inpainting\n25:21 How to use loras\n26:31 How to train loras\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "PaLM",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Best local AI image model\nThe best open-source AI image generator just got better"
+      ],
+      "transcript_chars": 31007,
+      "folder": "2026-01-29-z-image-base-is-out-best-local-ai-image-model"
+    },
+    {
+      "title": "OpenClaw is taking over AI",
+      "video_id": "c2nAKH8BIdo",
+      "youtube_url": "https://www.youtube.com/watch?v=c2nAKH8BIdo",
+      "publish_date": "2026-01-28",
+      "duration": "28:44",
+      "duration_seconds": 1724,
+      "view_count": 125187,
+      "author": "AI Search",
+      "description": "OpenClaw / Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of OpenClaw. Clawdbot vs Claude Code #clawdbot #ai #aitools #ainews #aiagent #agi\n\nThanks to our sponsor Higgsfield. Try it for free: https://higgsfield.ai/?utm_source=AISearch \n\nhttps://clawd.bot/\nAWS free E2 server: https://aws.amazon.com/\nAdd web search: clawdbot configure --section web\nBrave search API: https://brave.com/search/api/\nClawdhub skills https://clawdhub.com/\nAdd Clawdhub: npm i -g clawdhub\n\nSecurity commands:\nclawdbot security audit\nclawdbot doctor\n\n0:00 Clawdbot intro\n0:31 What is Clawdbot\n2:09 What can Clawdbot actually do\n3:30 How to install Clawdbot or Moltbot\n11:45 How to pair Clawdbot with Telegram\n12:56 Higgsfield Vibe Motion\n14:09 How to give Clawdbot internet access\n16:37 How to setup Clawdhub skills\n20:10 Important security commands\n22:13 Security issues with Clawdbot\n25:58 Clawdbot vs Claude Code or alternatives\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Whisper",
+          "Make",
+          "n8n",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Opus 4.5",
+          "Gemini",
+          "Llama",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "They've potentially exposed their api keys, exposed their email access or even access to their local system files"
+      ],
+      "summary": [
+        "# OpenClaw is taking over AI\nAll right, we got to talk about this"
+      ],
+      "transcript_chars": 30231,
+      "folder": "2026-01-28-openclaw-is-taking-over-ai"
+    },
+    {
+      "title": "Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS",
+      "video_id": "BYPlfLQm0CQ",
+      "youtube_url": "https://www.youtube.com/watch?v=BYPlfLQm0CQ",
+      "publish_date": "2026-01-25",
+      "duration": "41:25",
+      "duration_seconds": 2485,
+      "view_count": 90299,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & more #ai #ainews #aitools #aivideo\n\nThanks to our sponsor Artlist. Try their new AI Toolkit today: https://artlist.io/artlist-70446?artlist_aid=AIsearch_3782&utm_source=affiliate_p&utm_medium=AIsearch_3782&utm_campaign=AIsearch_3782\n\nSources in order of mention:\nVIGA: https://fugtemypt123.github.io/VIGA-website/\nVideoMama https://cvlab-kaist.github.io/VideoMaMa/\nLightOnOCR https://huggingface.co/lightonai/LightOnOCR-2-1B\nPersonaPlex https://research.nvidia.com/labs/adlr/personaplex/\nCoDance https://lucaria-academy.github.io/CoDance/\nWaypoint https://huggingface.co/blog/waypoint-1\nOmniTransfer https://pangzecheung.github.io/OmniTransfer/\nQwen3 TTS tutorial https://youtu.be/eC8mZceIy5k\nLuxTTS https://github.com/ysharma3501/LuxTTS\nVibeVoice ASR https://huggingface.co/microsoft/VibeVoice-ASR\nFrankenMotion https://coral79.github.io/frankenmotion/\nFlowAct R1 https://grisoon.github.io/FlowAct-R1/\nLinum V2 https://www.linum.ai/field-notes/launch-linum-v2\nMotion 3to4 https://motion3-to-4.github.io/\nStep3 VL https://stepfun-ai.github.io/Step3-VL-10B/\nMotive https://research.nvidia.com/labs/sil/projects/MOTIVE/\n\n0:00 AI news intro\n1:00 VIGA\n2:32 VideoMama\n4:48 LightOnOCR\n6:50 PersonaPlex\n11:52 CoDance\n13:40 Waypoint\n15:19 OmniTransfer\n18:38 Artlist\n20:26 Qwen3 TTS\n21:56 LuxTTS\n24:01 VibeVoice ASR\n27:10 FrankenMotion\n29:24 FlowAct R1\n33:45 Linum V2\n35:15 Motion 3to4\n36:30 Step3 VL\n38:48 Motive\n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Sora",
+          "Whisper",
+          "Hugging Face",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 2",
+          "Gemini 3",
+          "DeepSeek",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 41601,
+      "folder": "2026-01-25-realtime-ai-voices-ai-livestreamers-blender-3d-agents-realtime-worlds-new-top-oc"
+    },
+    {
+      "title": "Elevenlabs just got wrecked. This free AI text to speech is WILD!",
+      "video_id": "eC8mZceIy5k",
+      "youtube_url": "https://www.youtube.com/watch?v=eC8mZceIy5k",
+      "publish_date": "2026-01-24",
+      "duration": "26:18",
+      "duration_seconds": 1578,
+      "view_count": 312449,
+      "author": "AI Search",
+      "description": "Qwen3 TTS review & installation tutorial. How to run Qwen3 TTS on ComfyUI. Best AI voice cloner. AI voice design, emotion control. #ai #aitools #tts #aivoice #voicecloner\n\nThanks to our sponsor Abacus AI. Try ChatLLM & DeepAgent here: http://chatllm.abacus.ai/?token=aisearch\n\nQwen3 TTS ComfyUI workflow: https://github.com/flybirdxx/ComfyUI-Qwen-TTS\n\nIn your custom nodes folder, open cmd and type: git clone https://github.com/flybirdxx/ComfyUI-Qwen-TTS.git\n\nThen, in your windows portable folder, open cmd and type: .\\python_embeded\\python.exe -m pip install -r .\\ComfyUI\\custom_nodes\\ComfyUI-Qwen-TTS\\requirements.txt\n\n0:00 Qwen3 TTS intro\n0:50 Voice design demos\n2:42 Emotion control\n3:18 Prebuilt voices\n4:18 Instant voice cloning\n5:58 Multiple voices\n6:51 Accent tests\n8:19 Other voice cloning tests\n9:29 Multi language tests\n11:10 Emotion control tests\n12:04 ChatLLM\n13:12 Voice design tests\n14:17 Specs and benchmarks\n15:19 How to install Qwen3 TTS\n19:24 How to use voice cloning\n22:16 How to use default voices w emotion control\n23:32 How to use voice design \n\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Case Study",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "GitHub",
+          "Hugging Face",
+          "Cursor",
+          "X",
+          "YouTube",
+          "ElevenLabs"
+        ],
+        "people": [
+          "Sam Altman"
+        ],
+        "products": [
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Make",
+          "Artifacts"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini Pro",
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "This is the best text to speech generator you can use right now"
+      ],
+      "transcript_chars": 25916,
+      "folder": "2026-01-24-elevenlabs-just-got-wrecked-this-free-ai-text-to-speech-is-wild"
+    },
+    {
+      "title": "Open-source SUNO is here! Free offline AI music generator",
+      "video_id": "54YB-hjZDR4",
+      "youtube_url": "https://www.youtube.com/watch?v=54YB-hjZDR4",
+      "publish_date": "2026-01-20",
+      "duration": "33:49",
+      "duration_seconds": 2029,
+      "view_count": 118538,
+      "author": "AI Search",
+      "description": "HeartMula review & installation tutorial. Free AI music generator #ai #aitools #aimusic #suno #udio\n\nThanks to our sponsor Hubspot. Download the free package, Master Your AI Skills in 2026 https://clickhubspot.com/920d5e\n\nhttps://github.com/HeartMuLa/heartlib\n\nGit: https://git-scm.com/install/windows\nConda: https://www.anaconda.com/docs/getting-started/miniconda/main\nTriton for Windows https://huggingface.co/madbuda/triton-windows-builds\n\n0:00 HeartMula intro\n0:31 The state of AI music\n3:10 Acoustic pop demo\n5:19 Heavy rock metal\n7:22 Kpop dance \n9:06 Spanish Latin urban\n10:02 J-pop electronic\n11:24 Hindi Bollywood\n12:35 EDM instrumental\n13:11 Jazz instrumental\n13:53 How to install HeartMula\n14:23 Master Your AI Skills in 2026\n15:57 Git\n16:49 Installation continued\n18:06 Conda\n21:03 Installation continued\n25:33 Triton\n27:16 How to use HeartMula\n32:30 Licence\n\nLearn AI: https://ai-search.io/courses\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Whisper",
+          "Hugging Face",
+          "Make"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "We are going to use pip to install a python project in our current folder"
+      ],
+      "summary": [
+        "Free offline AI music generator\nFinally, we have a new open-source AI music generator"
+      ],
+      "transcript_chars": 27906,
+      "folder": "2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator"
     }
   ]
 }

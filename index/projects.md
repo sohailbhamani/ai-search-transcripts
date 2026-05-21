@@ -2,9 +2,9 @@
 
 Episodes discussing **Projects** (8 episodes):
 
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
 - [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-google-app-builder-a/transcript.md) (2026-03-22)

@@ -2,10 +2,10 @@
 
 Episodes discussing **Workflows** (13 episodes):
 
-- [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s3rndndvav0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
+- [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)

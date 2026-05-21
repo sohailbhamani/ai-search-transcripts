@@ -2,10 +2,10 @@
 
 Episodes discussing **Chatgpt** (10 episodes):
 
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
+- [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
+- [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)

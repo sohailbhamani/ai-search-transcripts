@@ -1,16 +1,16 @@
 # Google
 
-Episodes discussing **Google** (28 episodes):
+Episodes discussing **Google** (29 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s3rndndvav0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
+- [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
+- [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
@@ -30,3 +30,4 @@ Episodes discussing **Google** (28 episodes):
 - [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
 - [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
 - [New #1 open-source AI model is WILD](../episodes/2026-01-30-new-1-open-source-ai-model-is-wild/transcript.md) (2026-01-30)
+- [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)

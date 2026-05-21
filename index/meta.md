@@ -1,14 +1,15 @@
 # Meta
 
-Episodes discussing **Meta** (10 episodes):
+Episodes discussing **Meta** (11 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g8fqduzb5lc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)
 - [Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](../episodes/2026-02-15-seedance-20-rip-openclaw-minimax-m25-google-dominates-glm-5-ai-singing-new-tts-a/transcript.md) (2026-02-15)
 - [New #1 open-source AI music generator is INSANE!](../episodes/2026-02-04-new-1-open-source-ai-music-generator-is-insane/transcript.md) (2026-02-04)
+- [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)

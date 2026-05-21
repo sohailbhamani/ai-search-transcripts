@@ -1,16 +1,13 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (23 episodes):
+Episodes discussing **Tutorial** (21 episodes):
 
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s3rndndvav0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xjupuobpt-4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
+- [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
+- [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)
 - [The BEST local AI music generator is here! (beats Suno)](../episodes/2026-04-10-the-best-local-ai-music-generator-is-here-beats-suno/transcript.md) (2026-04-10)
 - [They solved AI’s memory problem!](../episodes/2026-04-01-they-solved-ai-s-memory-problem/transcript.md) (2026-04-01)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
@@ -25,3 +22,4 @@ Episodes discussing **Tutorial** (23 episodes):
 - [KLING 3.0 is crazy...](../episodes/2026-02-06-kling-30-is-crazy/transcript.md) (2026-02-06)
 - [New #1 open-source AI music generator is INSANE!](../episodes/2026-02-04-new-1-open-source-ai-music-generator-is-insane/transcript.md) (2026-02-04)
 - [New #1 open-source AI model is WILD](../episodes/2026-01-30-new-1-open-source-ai-model-is-wild/transcript.md) (2026-01-30)
+- [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)

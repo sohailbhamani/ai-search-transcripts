@@ -1,13 +1,13 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (17 episodes):
+Episodes discussing **Nano Banana** (19 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-7r_wj9xpne0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-a_nau8h9yoy/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
+- [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS](../episodes/2026-03-22-ai-classrooms-self-evolving-ai-nvidia-gtc-ai-for-polymarket-/transcript.md) (2026-03-22)
@@ -19,3 +19,5 @@ Episodes discussing **Nano Banana** (17 episodes):
 - [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
 - [KLING 3.0 is crazy...](../episodes/2026-02-06-kling-30-is-crazy/transcript.md) (2026-02-06)
 - [OpenClaw, realtime AI video games, agent swarms, AI Earth, new AI video models: AI NEWS](../episodes/2026-02-01-openclaw-realtime-ai-video-games-agent-swarms-ai-earth-new-ai-video-models-ai-ne/transcript.md) (2026-02-01)
+- [Z-Image Base is out! Best local AI image model](../episodes/2026-01-29-z-image-base-is-out-best-local-ai-image-model/transcript.md) (2026-01-29)
+- [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)

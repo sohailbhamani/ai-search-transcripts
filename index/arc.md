@@ -2,7 +2,7 @@
 
 Episodes discussing **Arc** (6 episodes):
 
-- [Unknown](../episodes/unknown-g-onwbngkt0/transcript.md) (unknown)
+- [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
 - [Robot waifus, RIP Sora, GLM-5.1, AI brain scans, Google realtime voice: AI NEWS](../episodes/2026-03-29-robot-waifus-rip-sora-glm-5-1-ai-brain-scans-google-realtime/transcript.md) (2026-03-29)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
 - [Google wins again. Gemini 3.1 Pro review](../episodes/2026-02-20-google-wins-again-gemini-31-pro-review/transcript.md) (2026-02-20)

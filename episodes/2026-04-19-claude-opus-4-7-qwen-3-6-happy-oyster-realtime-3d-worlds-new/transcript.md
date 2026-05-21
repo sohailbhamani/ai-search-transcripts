@@ -16,7 +16,7 @@ yt_tags:
 
 # AI-enriched metadata
 content_type: "News Roundup"
-primary_topic: "Prompting"
+primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
@@ -54,6 +54,7 @@ entities:
     - "Llama"
     - "Llama 3"
     - "Llama 3.1"
+    - "Qwen"
     - "Whisper"
 concepts:
   []
@@ -65,6 +66,7 @@ keywords:
   - "adobe"
   - "ai-news"
   - "ai-strategy"
+  - "ai-tools"
   - "anthropic"
   - "box"
   - "chatgpt"

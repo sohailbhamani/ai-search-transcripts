@@ -33,6 +33,7 @@ entities:
     []
   products:
     - "ChatGPT"
+    - "GPT-5"
     - "Claude"
     - "Cursor"
     - "Arc"
@@ -40,6 +41,7 @@ entities:
     - "Opus"
     - "Computer Use"
   models:
+    - "GPT-5"
     - "Claude Opus"
 concepts:
   []
@@ -58,6 +60,7 @@ keywords:
   - "computer-use"
   - "cursor"
   - "frameworks"
+  - "gpt-5"
   - "make"
   - "openai"
   - "opus"

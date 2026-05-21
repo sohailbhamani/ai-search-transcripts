@@ -1,9 +1,10 @@
 # Slack
 
-Episodes discussing **Slack** (5 episodes):
+Episodes discussing **Slack** (6 episodes):
 
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zkfd9s9lotc/transcript.md) (unknown)
+- [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)
 - [How does AI actually work? Transformers explained](../episodes/2026-03-25-how-does-ai-actually-work-transformers-explained/transcript.md) (2026-03-25)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
+- [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)

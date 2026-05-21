@@ -1,10 +1,13 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (6 episodes):
+Episodes discussing **Microsoft** (9 episodes):
 
-- [Unknown](../episodes/unknown-1_5ssjk2ru0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-nnsqj2ndkka/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-quxnhoerz7i/transcript.md) (unknown)
+- [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
+- [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
+- [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)
 - [AI maps, realtime 3D worlds, multi-shot videos, new TTS, new anime model: AI NEWS](../episodes/2026-03-15-ai-maps-realtime-3d-worlds-multi-shot-videos-new-tts-new-ani/transcript.md) (2026-03-15)
 - [The Matrix is coming](../episodes/2026-03-13-the-matrix-is-coming/transcript.md) (2026-03-13)
 - [Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](../episodes/2026-02-08-opus-46-gpt-53-codex-stepfun-qwen3-coder-new-deepfake-ais-new-video-tools-ai-new/transcript.md) (2026-02-08)
+- [Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS](../episodes/2026-01-25-realtime-ai-voices-ai-livestreamers-blender-3d-agents-realtime-worlds-new-top-oc/transcript.md) (2026-01-25)
+- [Elevenlabs just got wrecked. This free AI text to speech is WILD!](../episodes/2026-01-24-elevenlabs-just-got-wrecked-this-free-ai-text-to-speech-is-wild/transcript.md) (2026-01-24)
+- [Open-source SUNO is here! Free offline AI music generator](../episodes/2026-01-20-open-source-suno-is-here-free-offline-ai-music-generator/transcript.md) (2026-01-20)

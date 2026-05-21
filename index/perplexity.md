@@ -2,6 +2,6 @@
 
 Episodes discussing **Perplexity** (3 episodes):
 
-- [Unknown](../episodes/unknown-tlfpbmuterm/transcript.md) (unknown)
+- [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
 - [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
 - [AI has cracked the code of life](../episodes/2026-03-18-ai-has-cracked-the-code-of-life/transcript.md) (2026-03-18)
