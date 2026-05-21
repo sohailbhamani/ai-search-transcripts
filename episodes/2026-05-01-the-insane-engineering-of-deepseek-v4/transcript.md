@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "The insane engineering of Deepseek V4"
 video_id: "XJUpuOBpT-4"
 youtube_url: "https://www.youtube.com/watch?v=XJUpuOBpT-4"
-publish_date: "unknown"
+publish_date: "2026-05-01"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
