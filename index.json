@@ -1,10 +1,73 @@
 {
-  "total_videos": 52,
+  "total_videos": 53,
   "date_range": {
-    "newest": "2026-05-21",
+    "newest": "2026-05-24",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS",
+      "video_id": "pC6KHflGye0",
+      "youtube_url": "https://www.youtube.com/watch?v=pC6KHflGye0",
+      "publish_date": "2026-05-24",
+      "duration": "47:07",
+      "duration_seconds": 2827,
+      "view_count": 14360,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Qwen 3.7, Bytedance Lance, Stable Audio 3, L2P, MegaASR, & more #ai #ainews #aitools #aivideo #agi #singularity\n\nThanks to our sponsor Higgsfield. Try Higgsfield Supercomputer: https://higgsfield.ai/s/supercomputer-theaisearch-ViVYIy\n\nLance https://lance-project.github.io/\nLiTo https://apple.github.io/ml-lito/\nFlash GRPO https://shredded-pork.github.io/Flash-GRPO.github.io/\nReactiveGWM https://inv-wzq.github.io/ReactiveGWM/\nL2P https://nju-pcalab.github.io/projects/L2P/ \nCarbon https://huggingface.co/spaces/HuggingFaceBio/carbon-demo\nEvo2 video: https://youtu.be/NAq1O-tEVsE \nLongCat avatar 1.5 https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5\nMegaASR https://xzf-thu.github.io/Mega-ASR/ \nHY-MT2 https://huggingface.co/tencent/Hy-MT2-30B-A3B\nGoogle IO highlights https://youtu.be/J02-39xtlt4 \nCo-scientist https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/\nMarlin 2B https://huggingface.co/NemoStation/Marlin-2B\nQwen 3.7 https://qwen.ai/blog?id=qwen3.7\nQwen live translate https://qwen.ai/blog?id=qwen3.5-livetranslate\nLeRobot https://huggingface.co/blog/VirgileBatto/lerobot-humanoid\nCogOmniControl https://um-lab.github.io/CogOmniControl/\nWavFlow https://facebookresearch.github.io/WavFlow/\nPanoWorld https://jjrcn.github.io/PanoWorld-project-home/\nFashionChameleon https://quanjiansong.github.io/projects/FashionChameleon/\n \n0:00 AI news intro\n1:02 Lance\n3:42 LiTo\n4:57 Flash GRPO\n6:44 ReactiveGWM\n8:20 L2P\n10:29 Carbon\n12:53 LongCat avatar 1.5\n15:47 MegaASR\n18:49 HY-MT2\n21:15 Higgfield Supercomputer\n23:20 Co-scientist\n25:31 Marlin 2B\n27:14 Qwen 3.7\n29:08 Qwen live translate\n31:22 Robot++\n33:21 LeRobot\n34:34 Unitree voice commands\n35:47 CogOmniControl\n37:32 WavFlow\n40:28 PanoWorld\n42:25 Stable Audio 3\n45:03 FashionChameleon\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "YouTube",
+          "Stability AI"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Stable Diffusion",
+          "Hugging Face",
+          "Make",
+          "Operator",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 2",
+          "Gemini 3",
+          "Llama",
+          "Qwen",
+          "DeepSeek",
+          "SAM",
+          "CLIP",
+          "Stable Diffusion"
+        ]
+      },
+      "concepts": [
+        "That the model isn't just designed to answer simple questions, but to actually help with multi-step work, especially for coding or agentic tasks"
+      ],
+      "summary": [
+        "# AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 44295,
+      "folder": "2026-05-24-ai-co-scientist-ai-for-dna-ai-npcs-open-source-robots-new-qwen-new-video-editors"
+    },
     {
       "title": "Google just dropped some huge AI updates",
       "video_id": "J02-39xtlt4",
