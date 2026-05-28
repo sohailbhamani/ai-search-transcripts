@@ -1,10 +1,52 @@
 {
-  "total_videos": 53,
+  "total_videos": 54,
   "date_range": {
-    "newest": "2026-05-24",
+    "newest": "2026-05-28",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The acceleration is here!",
+      "video_id": "QvN6Tu6dHYM",
+      "youtube_url": "https://www.youtube.com/watch?v=QvN6Tu6dHYM",
+      "publish_date": "2026-05-28",
+      "duration": "35:52",
+      "duration_seconds": 2152,
+      "view_count": 20229,
+      "author": "AI Search",
+      "description": "AI co-scientist & Robin agent system. AI automates medical discoveries. New treatments for cancer, antibiotic resistance, vision loss & more. #ai #ainews #science #medicine #agi #singularity \n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-pPAFoN\n\nCo-scientist https://www.nature.com/articles/s41586-026-10644-y\nRobin https://www.nature.com/articles/s41586-026-10652-y\n\n0:00 Intro\n0:56 Co-scientist by Google\n3:49 Self ranking system\n5:20 Co-scientist vs human experts\n6:30 Leukemia treatments\n9:45 More unexpected treatments\n12:44 Drug combo breakthrough\n14:36 Higgsfield\n16:39 Liver fibrosis treatments\n18:22 Antibiotic resistance\n21:18 Robin agent system\n24:28 Consensus mechanism\n26:06 Macular degeneration\n28:21 Finding genetic connections\n30:25 More treatment discoveries\n33:23 The acceleration\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana"
+        ],
+        "models": [
+          "Falcon"
+        ]
+      },
+      "concepts": [
+        "They actually work in real life"
+      ],
+      "summary": [
+        "AI is already coming up with huge and completely new scientific discoveries, and it's getting faster and faster"
+      ],
+      "transcript_chars": 35575,
+      "folder": "2026-05-28-the-acceleration-is-here"
+    },
     {
       "title": "AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS",
       "video_id": "pC6KHflGye0",
