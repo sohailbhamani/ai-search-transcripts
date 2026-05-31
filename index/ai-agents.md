@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (27 episodes):
+Episodes discussing **Ai Agents** (28 episodes):
 
+- [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [The acceleration is here!](../episodes/2026-05-28-the-acceleration-is-here/transcript.md) (2026-05-28)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)

@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (36 episodes):
+Episodes discussing **Google** (37 episodes):
 
+- [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [The acceleration is here!](../episodes/2026-05-28-the-acceleration-is-here/transcript.md) (2026-05-28)
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](../episodes/2026-05-24-ai-co-scientist-ai-for-dna-ai-npcs-open-source-robots-new-qwen-new-video-editors/transcript.md) (2026-05-24)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
