@@ -1,10 +1,56 @@
 {
-  "total_videos": 55,
+  "total_videos": 56,
   "date_range": {
-    "newest": "2026-05-31",
+    "newest": "2026-06-02",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The BEST AI for 4K images. Free & fast",
+      "video_id": "DlvhlQOBHBw",
+      "youtube_url": "https://www.youtube.com/watch?v=DlvhlQOBHBw",
+      "publish_date": "2026-06-02",
+      "duration": "23:09",
+      "duration_seconds": 1389,
+      "view_count": 16874,
+      "author": "AI Search",
+      "description": "PiD Pixel Diffusion by Nvidia. Best AI image model for high resolution images. Free & open source #ai #aitools #aiart #imagegeneration #agi\n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/general-theaisearch-axXCBN\n\nWorkflows https://github.com/Comfy-Org/ComfyUI/pull/14103\nGemma 2b https://huggingface.co/Comfy-Org/PixelDiT/tree/main/text_encoders \nPiD models https://huggingface.co/Comfy-Org/PixelDiT/tree/main/diffusion_models\n\nZ-image: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/diffusion_models\nQwen3 4b: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/text_encoders \nVAE: https://huggingface.co/Comfy-Org/z_image_turbo/tree/main/split_files/vae\n\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\n\n\nTimestamps\n0:00 PiD intro\n0:19 Personal demos\n2:00 More demos and how it works\n2:52 PiD vs SeedVR2\n4:14 How to install\n5:49 Workflows\n6:24 PiD upscaler workflow\n11:46 Higgsfield\n13:16 Before after slider\n14:06 Zimage to PiD\n19:55 PiD text to image\n\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Stable Diffusion",
+          "Make",
+          "Artifacts",
+          "Projects",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP",
+          "Stable Diffusion",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Free & fast\nWe have a new state-of-the-art open-source model that can create 4K resolution images"
+      ],
+      "transcript_chars": 23561,
+      "folder": "2026-06-02-the-best-ai-for-4k-images-free-fast"
+    },
     {
       "title": "Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS",
       "video_id": "RdqYvdT74i0",
