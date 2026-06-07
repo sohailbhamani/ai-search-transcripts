@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (42 episodes):
+Episodes discussing **Tutorials** (43 episodes):
 
+- [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](../episodes/2026-05-24-ai-co-scientist-ai-for-dna-ai-npcs-open-source-robots-new-qwen-new-video-editors/transcript.md) (2026-05-24)

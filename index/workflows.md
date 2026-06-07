@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (18 episodes):
+Episodes discussing **Workflows** (19 episodes):
 
+- [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
 - [The acceleration is here!](../episodes/2026-05-28-the-acceleration-is-here/transcript.md) (2026-05-28)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)
