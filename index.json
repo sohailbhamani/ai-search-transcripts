@@ -1,10 +1,54 @@
 {
-  "total_videos": 57,
+  "total_videos": 58,
   "date_range": {
-    "newest": "2026-06-07",
+    "newest": "2026-06-09",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New BEST local AI image generator is here!",
+      "video_id": "OA4gchz1Zcs",
+      "youtube_url": "https://www.youtube.com/watch?v=OA4gchz1Zcs",
+      "publish_date": "2026-06-09",
+      "duration": "29:50",
+      "duration_seconds": 1790,
+      "view_count": 20643,
+      "author": "AI Search",
+      "description": "Ideogram 4 tutorial. Best open-source AI image generator. Free & uncensored #ai #aitools #aiart #imagegeneration\n\nThanks to our sponsor Higgsfield. Try Higgsfield MCP today https://higgsfield.ai/s/mcp-theaisearch-dxCxlV\n\n0:00 Ideogram 4 intro\n0:43 World knowledge\n1:16 Text rendering\n1:33 Prompt adherence \n2:42 Bounding box feature\n4:38 Incredible control\n6:32 Comics and manga\n8:13 Ideogram with ComfyUI\n10:00 Higgsfield\n11:37 Installing Comfy manager\n13:24 Installing KJ nodes\n14:55 Installing Ideogram models\n17:51 How to use Ideogram workflow\n19:45 Safety filter\n22:05 Adding text and other settings\n28:32 Benchmarks and license\n\nWorkflow: https://drive.google.com/file/d/1rIotssI6EiA7buHzU0fmTZ2rQQnelaoz/view?usp=sharing\nComfy manager: https://docs.comfy.org/manager/install\nKJ nodes https://github.com/kijai/ComfyUI-KJNodes\nIdeogram models: https://huggingface.co/Comfy-Org/Ideogram-4\n\nMore tutorials:\nComfyUI tutorial https://youtu.be/g74Cq9Ip2ik\nZ-image tutorial: https://youtu.be/iNM5z8cCH8w\nErnie image tutorial: https://youtu.be/A_nAU8h9YOY\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "This is now the best open-source image generator you can use"
+      ],
+      "transcript_chars": 31314,
+      "folder": "2026-06-09-new-best-local-ai-image-generator-is-here"
+    },
     {
       "title": "Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS",
       "video_id": "CzxqQJOswvo",

@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (8 episodes):
+Episodes discussing **Canvas** (9 episodes):
 
+- [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
 - [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)
 - [GPT 5.4 is so cracked](../episodes/2026-03-07-gpt-54-is-so-cracked/transcript.md) (2026-03-07)
