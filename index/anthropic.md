@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (19 episodes):
+Episodes discussing **Anthropic** (20 episodes):
 
+- [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
 - [The insane engineering of Deepseek V4](../episodes/2026-05-01-the-insane-engineering-of-deepseek-v4/transcript.md) (2026-05-01)

@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (7 episodes):
+Episodes discussing **Computer Use** (8 episodes):
 
+- [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
 - [GPT-5.5 is a total freak](../episodes/2026-04-25-gpt-5-5-is-a-total-freak/transcript.md) (2026-04-25)
