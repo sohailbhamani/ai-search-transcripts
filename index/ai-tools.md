@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (28 episodes):
+Episodes discussing **Ai Tools** (29 episodes):
 
+- [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](../episodes/2026-05-24-ai-co-scientist-ai-for-dna-ai-npcs-open-source-robots-new-qwen-new-video-editors/transcript.md) (2026-05-24)

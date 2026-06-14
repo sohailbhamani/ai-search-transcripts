@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (9 episodes):
+Episodes discussing **Canvas** (10 episodes):
 
+- [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
 - [New BEST local AI image generator is here!](../episodes/2026-04-16-new-best-local-ai-image-generator-is-here/transcript.md) (2026-04-16)

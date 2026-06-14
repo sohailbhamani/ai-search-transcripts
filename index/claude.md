@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (30 episodes):
+Episodes discussing **Claude** (31 episodes):
 
+- [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)

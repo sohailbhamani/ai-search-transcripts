@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (23 episodes):
+Episodes discussing **Opus** (24 episodes):
 
+- [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)

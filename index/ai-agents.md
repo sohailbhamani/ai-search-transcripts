@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (29 episodes):
+Episodes discussing **Ai Agents** (30 episodes):
 
+- [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)
 - [The acceleration is here!](../episodes/2026-05-28-the-acceleration-is-here/transcript.md) (2026-05-28)
