@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (39 episodes):
+Episodes discussing **Google** (40 episodes):
 
+- [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [Self-improving AI, Opus 4.8, Nvidia bangers, game-ready 3D models, juggling robots: AI NEWS](../episodes/2026-05-31-self-improving-ai-opus-48-nvidia-bangers-game-ready-3d-models-juggling-robots-ai/transcript.md) (2026-05-31)

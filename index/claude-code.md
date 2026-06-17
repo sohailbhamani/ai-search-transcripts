@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (12 episodes):
+Episodes discussing **Claude Code** (13 episodes):
 
+- [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)

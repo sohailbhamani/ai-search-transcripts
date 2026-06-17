@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (59 episodes):
+Episodes discussing **Make** (60 episodes):
 
+- [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)

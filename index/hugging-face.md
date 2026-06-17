@@ -1,7 +1,8 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (30 episodes):
+Episodes discussing **Hugging Face** (31 episodes):
 
+- [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [AI co-scientist, AI for DNA, AI NPCs, open-source robots, new Qwen, new video editors: AI NEWS](../episodes/2026-05-24-ai-co-scientist-ai-for-dna-ai-npcs-open-source-robots-new-qwen-new-video-editors/transcript.md) (2026-05-24)

@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (6 episodes):
+Episodes discussing **Sonnet** (7 episodes):
 
+- [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)
 - [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
 - [Claude Mythos, Deepseek v4, HappyHorse, Meta’s new AI, realtime video games: AI NEWS](../episodes/2026-04-12-claude-mythos-deepseek-v4-happyhorse-meta-s-new-ai-realtime-/transcript.md) (2026-04-12)

@@ -1,10 +1,65 @@
 {
-  "total_videos": 60,
+  "total_videos": 61,
   "date_range": {
-    "newest": "2026-06-14",
+    "newest": "2026-06-17",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New #1 open-source AI model is here!",
+      "video_id": "6d__WOpZswY",
+      "youtube_url": "https://www.youtube.com/watch?v=6d__WOpZswY",
+      "publish_date": "2026-06-17",
+      "duration": "29:57",
+      "duration_seconds": 1797,
+      "view_count": 70908,
+      "author": "AI Search",
+      "description": "GLM 5.2 review. New best open source AI model. #ai #aitools #llm #ainews #agi #singularity #gpt #deepseek Thanks to our sponsor Higgfield. Try it today https://higgsfield.ai/s/mcp-theaisearch-sxrZXk\n\nGet 10% off GLM coding plan: https://z.ai/subscribe?im_ref=08823wwcsxyZRplUtW2z3Wn7UkuTChQrhyqt1M0&sharedid=&irpid=4934152&irgwc=1&afsrc=1&ic=JQJSQOIM0W\nZ Code: https://zcode.z.ai/en\nOnline chat: https://chat.z.ai/\nHow to add in Claude code: https://docs.z.ai/devpack/quick-start\n\n0:00 GLM 5.2 intro\n0:31 Where to use GLM\n1:37 Digital earth\n4:10 Animation video with voiceover\n7:00 3D models\n9:40 GLM in Claude code\n11:41 Ray tracing\n12:10 Higgsfield\n13:54 Ray tracing continued\n17:09 Music composition\n19:58 Math animation\n21:48 Find the frog\n22:38 Deep research\n24:18 Specs and benchmarks\n27:21 Open source\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "YouTube",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet",
+          "Haiku"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "We have a new number one open-source model and the gap is insane"
+      ],
+      "transcript_chars": 30232,
+      "folder": "2026-06-17-new-1-open-source-ai-model-is-here"
+    },
     {
       "title": "RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS",
       "video_id": "SxiRANj0xLs",
