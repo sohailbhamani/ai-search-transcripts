@@ -1,10 +1,68 @@
 {
-  "total_videos": 61,
+  "total_videos": 62,
   "date_range": {
-    "newest": "2026-06-17",
+    "newest": "2026-06-21",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
+      "video_id": "kkLlzQqa7MY",
+      "youtube_url": "https://www.youtube.com/watch?v=kkLlzQqa7MY",
+      "publish_date": "2026-06-21",
+      "duration": "35:15",
+      "duration_seconds": 2115,
+      "view_count": 23500,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Boogu Image, GLM 5.2, LTX2 Trainer, Midjourney Medical. \nThanks to our sponsor Higgsfield. Unlock unlimited Seedance: https://higgsfield.ai/s/seedance-2-0-theaisearch-GfUvtg\n#ai #ainews #aitools #aivideo #agi #singularity\n\n0:00 AI news intro\n0:50 DreamX World\n2:31 PermaVid\n3:56 OmniDirector\n5:48 Boogu Image\n8:44 UME\n10:00 LOGOS\n12:02 LTX Trainer \n13:17 Record and replay\n15:50 Higgsfield \n17:26 Table tennis robots\n19:28 AGIbot A3\n20:21 DroidUp Moya\n21:22 AI chemist\n23:23 GLM 5.2 GGUFs\n29:18 Telestyle V2\n30:55 Midjourney Medical\n\n\nDreamX World https://amap-ml.github.io/DreamX_World/ \nPermaVid https://ys-imtech.github.io/projects/PermaVid/ \nOmniDirector https://ymlinfeng.github.io/OmniDirector.github.io/ \nBoogu Image https://boogu.org/ \nUME https://ume-exo.github.io/ \nLOGOS https://github.com/LOGOS-Hub/LOGOS\nLTX Trainer  https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-trainer\nRecord and replay https://developers.openai.com/codex/record-and-replay\nAI chemist https://openai.com/index/ai-chemist-improves-reaction/\nGLM review: https://youtu.be/6d__WOpZswY \nGLM 5.2 GGUFs https://unsloth.ai/docs/models/glm-5.2 \nTelestyle V2 https://witcherofresearch.github.io/TeleStyleV2/ \nMidjourney Medical https://www.midjourney.com/medical\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "YouTube",
+          "Midjourney"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Codex",
+          "Midjourney",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "The same framework can be used for things like designing proteins or antibodies, predicting binding sites or generating materials and so on and so forth",
+        "Indeed fascinating, but this is a completely different pivot compared to what they're known for, which is image generation"
+      ],
+      "summary": [
+        "2 craze, AI spas, new world models, new science agents: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 35705,
+      "folder": "2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new"
+    },
     {
       "title": "New #1 open-source AI model is here!",
       "video_id": "6d__WOpZswY",
