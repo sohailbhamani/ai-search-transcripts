@@ -1,10 +1,51 @@
 {
-  "total_videos": 62,
+  "total_videos": 63,
   "date_range": {
-    "newest": "2026-06-21",
+    "newest": "2026-06-24",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New top local AI image generator is here! Already uncensored",
+      "video_id": "1U8dJ94QFNc",
+      "youtube_url": "https://www.youtube.com/watch?v=1U8dJ94QFNc",
+      "publish_date": "2026-06-24",
+      "duration": "19:10",
+      "duration_seconds": 1150,
+      "view_count": 22142,
+      "author": "AI Search",
+      "description": "Krea 2 review and installation tutorial. Best open-source AI image generator. Free & uncensored. How to use Krea 2 in ComfyUI. Thanks to our sponsor Luma. Try Luma Agents & Luma Skills today https://lumalabs.ai/aisearch-agents30\n\nKrea 2 models for ComfyUI https://huggingface.co/Comfy-Org/Krea-2\nRebalance node https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance\nOstris AI toolkit https://github.com/ostris/ai-toolkit\nKrea 2 technical report https://www.krea.ai/blog/krea-2-technical-report \n #ai #aitools #ainews #imagegeneration #aiart #aivideo #comfyui #agi\n\n00:00 Krea 2 intro\n00:30 Demos and aesthetics\n02:04 How to use Krea 2 in ComfyUI\n03:25 Downloading models\n5:22 Krea 2 workflow\n7:37 Luma Agents\n9:41 How to use Krea 2 loras\n12:30 How to make corn\n14:54 How to train loras\n15:22 Interesting details\n17:52 License\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Runway",
+          "Make"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Already uncensored\nWe have a new open-source image generator"
+      ],
+      "transcript_chars": 20285,
+      "folder": "2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored"
+    },
     {
       "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
       "video_id": "kkLlzQqa7MY",

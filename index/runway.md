@@ -1,7 +1,8 @@
 # Runway
 
-Episodes discussing **Runway** (4 episodes):
+Episodes discussing **Runway** (5 episodes):
 
+- [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [The biggest AI breakthrough in medicine & drug discovery](../episodes/2026-05-14-the-biggest-ai-breakthrough-in-medicine-drug-discovery/transcript.md) (2026-05-14)
 - [They just found 'emotions' inside AI](../episodes/2026-04-08-they-just-found-emotions-inside-ai/transcript.md) (2026-04-08)
 - [Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS](../episodes/2026-01-18-realtime-ai-video-open-source-suno-next-level-ai-agents-realtime-text-to-speech/transcript.md) (2026-01-18)

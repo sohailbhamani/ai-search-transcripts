@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (30 episodes):
+Episodes discussing **Ai Strategy** (31 episodes):
 
+- [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)

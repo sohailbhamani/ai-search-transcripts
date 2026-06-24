@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (21 episodes):
+Episodes discussing **Box** (22 episodes):
 
+- [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
