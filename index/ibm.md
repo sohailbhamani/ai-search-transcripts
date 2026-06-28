@@ -2,4 +2,4 @@
 
 Episodes discussing **Ibm** (1 episodes):
 
-- [I paid $3,000 for Grok 4. Was it worth it?](../episodes/2025-07-15-i-paid-3000-for-grok-4-was-it-worth-it/transcript.md) (2025-07-15)
+- [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)
