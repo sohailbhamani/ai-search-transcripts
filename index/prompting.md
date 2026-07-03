@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (52 episodes):
+Episodes discussing **Prompting** (53 episodes):
 
+- [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)
 - [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](../episodes/2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new/transcript.md) (2026-06-21)

@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (41 episodes):
+Episodes discussing **Google** (42 episodes):
 
+- [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)

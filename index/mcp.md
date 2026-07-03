@@ -1,7 +1,8 @@
 # Mcp
 
-Episodes discussing **Mcp** (4 episodes):
+Episodes discussing **Mcp** (5 episodes):
 
+- [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)

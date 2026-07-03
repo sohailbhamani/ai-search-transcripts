@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (33 episodes):
+Episodes discussing **Nvidia** (34 episodes):
 
+- [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](../episodes/2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new/transcript.md) (2026-06-21)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
