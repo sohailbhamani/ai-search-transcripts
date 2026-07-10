@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (6 episodes):
+Episodes discussing **Slack** (7 episodes):
 
+- [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [The most insane week in AI](../episodes/2026-04-26-the-most-insane-week-in-ai/transcript.md) (2026-04-26)
 - [New AI image generator BEATS EVERYTHING](../episodes/2026-04-22-new-ai-image-generator-beats-everything/transcript.md) (2026-04-22)
 - [Google’s open-source AI, Claude Code leaked, new Wan, new Qwen, image gen on phone: AI NEWS](../episodes/2026-04-05-google-s-open-source-ai-claude-code-leaked-new-wan-new-qwen-/transcript.md) (2026-04-05)

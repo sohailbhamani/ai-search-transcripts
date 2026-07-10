@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (65 episodes):
+Episodes discussing **Make** (66 episodes):
 
+- [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)
 - [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)

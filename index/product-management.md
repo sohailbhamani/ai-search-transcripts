@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (21 episodes):
+Episodes discussing **Product Management** (22 episodes):
 
+- [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
