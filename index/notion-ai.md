@@ -1,6 +1,5 @@
-# N8N
+# Notion Ai
 
-Episodes discussing **N8N** (2 episodes):
+Episodes discussing **Notion Ai** (1 episodes):
 
 - [Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS](../episodes/2026-07-12-girlfriend-simulators-gpt-56-grok-45-seedream-50-muse-spark-robot-surgery-ai-new/transcript.md) (2026-07-12)
-- [OpenClaw is taking over AI](../episodes/2026-01-28-openclaw-is-taking-over-ai/transcript.md) (2026-01-28)
