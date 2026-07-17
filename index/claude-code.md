@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (14 episodes):
+Episodes discussing **Claude Code** (15 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [Claude Fable 5 is here!](../episodes/2026-06-11-claude-fable-5-is-here/transcript.md) (2026-06-11)

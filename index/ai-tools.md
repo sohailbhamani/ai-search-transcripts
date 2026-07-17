@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (34 episodes):
+Episodes discussing **Ai Tools** (35 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS](../episodes/2026-07-12-girlfriend-simulators-gpt-56-grok-45-seedream-50-muse-spark-robot-surgery-ai-new/transcript.md) (2026-07-12)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)

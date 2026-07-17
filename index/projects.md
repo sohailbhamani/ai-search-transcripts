@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (14 episodes):
+Episodes discussing **Projects** (15 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](../episodes/2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new/transcript.md) (2026-06-21)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)

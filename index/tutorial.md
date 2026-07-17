@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (27 episodes):
+Episodes discussing **Tutorial** (28 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)

@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (9 episodes):
+Episodes discussing **Career** (10 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [The acceleration is here!](../episodes/2026-05-28-the-acceleration-is-here/transcript.md) (2026-05-28)
 - [Google just dropped some huge AI updates](../episodes/2026-05-21-google-just-dropped-some-huge-ai-updates/transcript.md) (2026-05-21)

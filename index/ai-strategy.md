@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (32 episodes):
+Episodes discussing **Ai Strategy** (33 episodes):
 
+- [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
 - [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
