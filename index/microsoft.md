@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (14 episodes):
+Episodes discussing **Microsoft** (15 episodes):
 
+- [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](../episodes/2026-07-26-claude-opus-5-gpt-6-hack-flux-3-new-gemini-quantum-breakthrough-new-qwen-ai-news/transcript.md) (2026-07-26)
 - [New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](../episodes/2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new/transcript.md) (2026-06-21)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
