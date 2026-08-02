@@ -1,10 +1,75 @@
 {
-  "total_videos": 72,
+  "total_videos": 73,
   "date_range": {
-    "newest": "2026-07-27",
+    "newest": "2026-08-02",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS",
+      "video_id": "OrcBSpADCGk",
+      "youtube_url": "https://www.youtube.com/watch?v=OrcBSpADCGk",
+      "publish_date": "2026-08-02",
+      "duration": "28:10",
+      "duration_seconds": 1690,
+      "view_count": 22526,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-BTFzlL\n\n00:00 AI news intro\n00:46 ID V2V\n01:47 Crisper Whisper\n04:08 Deepseek V4 Flash 0731\n06:28 Redesign\n07:43 Kimi K3 open sourced\n09:16 Instella\n11:01 Ideogram obj remover\n12:04 Higgsfield\n13:39 Inkling Small\n15:33 Prism\n16:46 Seedance 2.5\n19:04 Minimax H3 \n22:10 Gemini Robotics 2\n24:04 Wonder\n25:19 Gemini voice typing\n26:26 Phi Zero\n\nID V2V https://eyeline-labs.github.io/ID-V2V/ \nCrisper Whisper https://nyra-labs.com/crisperwhisper \nDeepseek V4 Flash 0731 https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\nDSpark explainer: https://youtu.be/J0D7qV3nl7w\nRedesign https://github.com/jintae-00/ReDesign \nKimi K3 https://huggingface.co/moonshotai/Kimi-K3\nAttention Residuals explainer https://youtu.be/2IfAVV7ewO0\nInstella https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html\nIdeogram obj remover https://ideogram.ai/apps/object-remover\nInkling Small https://huggingface.co/thinkingmachines/Inkling-Small\nPrism https://lsh3163.github.io/prism/\nSeedance 2.5 https://seed.bytedance.com/en/seedance2_5 \nMinimax H3 https://www.minimax.io/blog/minimax-h3 \nGemini Robotics 2 https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ \nWonder https://wonder-world-model.github.io/ \nGemini voice typing https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/ \nPhi Zero https://phi-zero.github.io/ \n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Nvidia",
+          "Adobe",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "Cursor",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Whisper",
+          "Hugging Face",
+          "Make",
+          "OpenAI API",
+          "Opus",
+          "Artifacts",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "SAM",
+          "SAM 2",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "That instead of immediately generating the next video frames, you get the models to first reason about how everything should move and change physically"
+      ],
+      "summary": [
+        "5, Minimax H3, Gemini Robotics, AMD models: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 29402,
+      "folder": "2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news"
+    },
     {
       "title": "Claude Opus 5 is a freak",
       "video_id": "RCsBJz4W4bA",

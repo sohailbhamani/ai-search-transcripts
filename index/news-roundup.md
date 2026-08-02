@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (30 episodes):
+Episodes discussing **News Roundup** (31 episodes):
 
+- [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](../episodes/2026-07-26-claude-opus-5-gpt-6-hack-flux-3-new-gemini-quantum-breakthrough-new-qwen-ai-news/transcript.md) (2026-07-26)
 - [Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS](../episodes/2026-07-19-kimi-k3-dancing-waifus-robot-ufc-song-to-midi-gpt-red-hoverboards-ai-news/transcript.md) (2026-07-19)
 - [Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS](../episodes/2026-07-12-girlfriend-simulators-gpt-56-grok-45-seedream-50-muse-spark-robot-surgery-ai-new/transcript.md) (2026-07-12)
