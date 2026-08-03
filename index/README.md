@@ -16,9 +16,9 @@ Index of 74 episodes across 84 topics.
 - [Google](google.md) (48 episodes)
 - [Claude](claude.md) (43 episodes)
 - [Nvidia](nvidia.md) (43 episodes)
+- [Hugging Face](hugging-face.md) (38 episodes)
 - [Ai Agents](ai-agents.md) (38 episodes)
 - [Ai Tools](ai-tools.md) (38 episodes)
-- [Hugging Face](hugging-face.md) (38 episodes)
 - [Opus](opus.md) (35 episodes)
 - [Ai Strategy](ai-strategy.md) (34 episodes)
 - [News Roundup](news-roundup.md) (31 episodes)
@@ -27,8 +27,8 @@ Index of 74 episodes across 84 topics.
 - [Tutorial](tutorial.md) (29 episodes)
 - [Anthropic](anthropic.md) (29 episodes)
 - [Workflows](workflows.md) (27 episodes)
-- [Product Management](product-management.md) (25 episodes)
 - [Box](box.md) (25 episodes)
+- [Product Management](product-management.md) (25 episodes)
 - [Meta](meta.md) (21 episodes)
 - [X](x.md) (19 episodes)
 - [Claude Code](claude-code.md) (18 episodes)
@@ -86,8 +86,8 @@ Index of 74 episodes across 84 topics.
 - [Midjourney](midjourney.md) (1 episodes)
 - [Ibm](ibm.md) (1 episodes)
 - [Notion Ai](notion-ai.md) (1 episodes)
-- [Openai Api](openai-api.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
+- [Openai Api](openai-api.md) (1 episodes)
 
 ## Search
 
