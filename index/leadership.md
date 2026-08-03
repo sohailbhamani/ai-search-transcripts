@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (13 episodes):
+Episodes discussing **Leadership** (14 episodes):
 
+- [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
 - [New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](../episodes/2026-06-21-new-robot-waifus-glm-52-craze-ai-spas-new-world-models-new-science-agents-ai-new/transcript.md) (2026-06-21)
 - [New BEST local AI image generator is here!](../episodes/2026-06-09-new-best-local-ai-image-generator-is-here/transcript.md) (2026-06-09)

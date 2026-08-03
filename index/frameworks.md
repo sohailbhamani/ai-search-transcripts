@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (70 episodes):
+Episodes discussing **Frameworks** (71 episodes):
 
+- [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](../episodes/2026-07-26-claude-opus-5-gpt-6-hack-flux-3-new-gemini-quantum-breakthrough-new-qwen-ai-news/transcript.md) (2026-07-26)

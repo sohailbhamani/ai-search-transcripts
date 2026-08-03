@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (24 episodes):
+Episodes discussing **Product Management** (25 episodes):
 
+- [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](../episodes/2026-07-26-claude-opus-5-gpt-6-hack-flux-3-new-gemini-quantum-breakthrough-new-qwen-ai-news/transcript.md) (2026-07-26)
 - [Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS](../episodes/2026-07-19-kimi-k3-dancing-waifus-robot-ufc-song-to-midi-gpt-red-hoverboards-ai-news/transcript.md) (2026-07-19)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
