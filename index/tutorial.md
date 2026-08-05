@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (29 episodes):
+Episodes discussing **Tutorial** (30 episodes):
 
+- [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
 - [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)

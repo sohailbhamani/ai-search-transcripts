@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (27 episodes):
+Episodes discussing **Workflows** (28 episodes):
 
+- [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS](../episodes/2026-07-19-kimi-k3-dancing-waifus-robot-ufc-song-to-midi-gpt-red-hoverboards-ai-news/transcript.md) (2026-07-19)
 - [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)
