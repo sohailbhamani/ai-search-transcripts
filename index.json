@@ -1,10 +1,48 @@
 {
-  "total_videos": 76,
+  "total_videos": 77,
   "date_range": {
-    "newest": "2026-08-09",
+    "newest": "2026-08-12",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The BEST local AI video generator just got BETTER!",
+      "video_id": "G3YHSvXZP_g",
+      "youtube_url": "https://www.youtube.com/watch?v=G3YHSvXZP_g",
+      "publish_date": "2026-08-12",
+      "duration": "28:19",
+      "duration_seconds": 1699,
+      "view_count": 14542,
+      "author": "AI Search",
+      "description": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui \n\nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW\n\nPart 1 Minimax H3 installation tutorial: https://youtu.be/8HutJ9W5pTg \nMinimax vs Seedance 2.5: https://youtu.be/Vpvne2istKg\n\nResources in order of mention:\nSpectrum https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3 \nLive preview https://huggingface.co/Kijai/MiniMax-H3-TAE \nTurbo models:\nhttps://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora\nhttps://huggingface.co/joyfox/MiniMax-H3-Turbo\nhttps://huggingface.co/lightx2v/Minimax-h3-Turbo\nhttps://huggingface.co/Kijai/MiniMax-H3_comfy/\nSmaller models: https://huggingface.co/Kijai/MiniMax-H3-experimental/tree/main \nEasy workflow: https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy \nImage workflow https://huggingface.co/reverentelusarca/minimax-h3-comfyui-workflows\nPrompt guides:\nhttps://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/VIDEO_PROMPT_WRITING_GUIDE_base_en.md\nhttps://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/VIDEO_PROMPT_WRITING_GUIDE_ref_en.md\nGGUFs https://huggingface.co/unsloth/MiniMax-H3-GGUF\nhttps://huggingface.co/Abiray/MiniMax-H3-GGUF\n\n00:00 Minimax H3 intro\n01:33 New Spectrum\n02:24 Live preview\n05:15 Adding loras\n08:00 Turbo speedup\n11:39 For lower vram\n13:17 Higgsfield\n14:55 Lower vram continued\n15:42 Dead easy workflow\n19:08 Making audio\n21:24 Making images\n23:00 How to prompt better\n26:11 GGUFs\n\nSee my X for more Minimax updates https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Canvas"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The BEST local AI video generator just got BETTER"
+      ],
+      "transcript_chars": 29057,
+      "folder": "2026-08-12-the-best-local-ai-video-generator-just-got-better"
+    },
     {
       "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
       "video_id": "uJgzFn0GT7M",

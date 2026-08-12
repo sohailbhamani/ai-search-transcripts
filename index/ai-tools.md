@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (38 episodes):
+Episodes discussing **Ai Tools** (39 episodes):
 
+- [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
 - [Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS](../episodes/2026-07-26-claude-opus-5-gpt-6-hack-flux-3-new-gemini-quantum-breakthrough-new-qwen-ai-news/transcript.md) (2026-07-26)
