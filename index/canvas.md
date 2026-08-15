@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (14 episodes):
+Episodes discussing **Canvas** (15 episodes):
 
+- [The BEST local AI music generator is here!](../episodes/2026-08-15-the-best-local-ai-music-generator-is-here/transcript.md) (2026-08-15)
 - [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)
 - [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)

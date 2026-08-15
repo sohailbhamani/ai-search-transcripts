@@ -1,10 +1,47 @@
 {
-  "total_videos": 77,
+  "total_videos": 78,
   "date_range": {
-    "newest": "2026-08-12",
+    "newest": "2026-08-15",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The BEST local AI music generator is here!",
+      "video_id": "aUcDyeZgz_k",
+      "youtube_url": "https://www.youtube.com/watch?v=aUcDyeZgz_k",
+      "publish_date": "2026-08-15",
+      "duration": "21:36",
+      "duration_seconds": 1296,
+      "view_count": 7708,
+      "author": "AI Search",
+      "description": "Minimax Music 3 tutorial. Free open source AI music generator #ai #aitools #aimusic #agi #suno\nThanks to our sponsor Higgsfield. EARLY ACCESS to Seedance 2.5 1080p is now LIVE https://higgsfield.ai/s/theaisearch-KjSNaO\n\nMinimax Music for Comfy https://docs.comfy.org/tutorials/audio/minimax/minimax-music-3\nComfyUI tutorial for beginners https://youtu.be/g74Cq9Ip2ik\n\nACE Step tutorial https://youtu.be/QzddQoCKKss\nFoundation 1 tutorial https://youtu.be/CMuwP0u-Sjg\nMuscriptor https://huggingface.co/MuScriptor\n\nChapters:\n00:00 Minimax Music 3 intro\n00:35 Pop \n02:13 Punk rock\n02:47 R&B neo soul\n03:55 EDM progressive house\n04:50 Jazz\n06:08 Metal\n07:33 Country\n08:46 Higgsfield\n10:31 How to install Minimax Music\n12:50 How to run the workflow\n17:07 Suno restrictions\n17:49 Editing or inpainting songs\n18:23 Making and stacking loops\n18:48 Song to MIDI\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make",
+          "Canvas"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "It's called Miniax Music, and not only can this create super clean and great sounding songs, but it's also incredibly tiny"
+      ],
+      "transcript_chars": 17119,
+      "folder": "2026-08-15-the-best-local-ai-music-generator-is-here"
+    },
     {
       "title": "The BEST local AI video generator just got BETTER!",
       "video_id": "G3YHSvXZP_g",
