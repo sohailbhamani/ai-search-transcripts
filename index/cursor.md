@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (11 episodes):
+Episodes discussing **Cursor** (12 episodes):
 
+- [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](../episodes/2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news/transcript.md) (2026-08-16)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS](../episodes/2026-07-12-girlfriend-simulators-gpt-56-grok-45-seedream-50-muse-spark-robot-surgery-ai-new/transcript.md) (2026-07-12)
 - [RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](../episodes/2026-06-14-rip-claude-fable-open-source-ai-unleashed-full-body-avatars-new-google-models-ne/transcript.md) (2026-06-14)

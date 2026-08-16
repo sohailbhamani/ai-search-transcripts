@@ -1,10 +1,71 @@
 {
-  "total_videos": 78,
+  "total_videos": 79,
   "date_range": {
-    "newest": "2026-08-15",
+    "newest": "2026-08-16",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS",
+      "video_id": "62HSUsS0ypo",
+      "youtube_url": "https://www.youtube.com/watch?v=62HSUsS0ypo",
+      "publish_date": "2026-08-16",
+      "duration": "45:57",
+      "duration_seconds": 2757,
+      "view_count": 15040,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Deepseek v4 0813, Qwen 3.8 27B, GLM 5.3, Grok 4.6, LTX 2.5, GPT Ultrafast & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Genspark. Get 10% off the Genspark SecondBrain Note: https://shop.genspark.ai/s/theaisearch @GensparkProduct.\n\nJoyAI video edit https://github.com/jd-opensource/JoyAI-Video-Edit\nScope https://visual-ai.github.io/scope\nDeepseek V4 0813 https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\nDeepseek harness https://github.com/deepseek-ai/deepseek-harness\nGrok 4.6 https://x.ai/news/grok-4-6\nQwen 3.8 max https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\nMiDasheng https://xingws.github.io/midashenglm-gen-demo/\nLTX 2.5 https://ltx.io/model/ltx-2-5\nSign to text https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/?utm_source=chatgpt.com \nGPT Ultrafast https://openai.com/index/previewing-ultrafast/\nQwen 3.8 27B https://huggingface.co/Qwen/Qwen3.8-27B\nGLM 5.3 https://z.ai/blog/glm-5.3\nGemini 3.7 Flash https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/\nMinimax Music 3 tutorial https://youtu.be/aUcDyeZgz_k \nIndex TTS 2.5 https://huggingface.co/IndexTeam/IndexTTS-2.5\nIndex TTS tutorial https://youtu.be/puPqhv52_3Y\nMagi 2 https://huggingface.co/sand-ai/MAGI-2-preview\nCactus Needle https://cactuscompute.com/needle\nWorldClaw https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nDyna 2 https://www.dyna.co/dyna-2\nNemotron Lightning https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx \nMatrAIx https://matraix.ai/\nMuse Glimmer https://developer.meta.com/ai/models/muse-glimmer/\n\n00:00 AI news intro\n00:47 JoyAI video edit\n02:28 Scope\n03:32 Deepseek V4 0813\n05:28 Deepseek harness\n06:24 Grok 4.6 \n08:11 Qwen 3.8 max\n09:43 MiDasheng\n11:52 Genspark Secondbrain\n14:04 LTX 2.5 vs Minimax\n20:38 Sign language to text\n21:53 GPT Ultrafast\n23:28 Qwen 3.8 27B\n25:44 GLM 5.3\n28:20 Gemini 3.7 Flash\n31:03 Minimax Music 3\n32:13 Index TTS 2.5\n34:42 Magi 2\n35:45 Cactus Needle\n37:32 WorldClaw\n38:42 Dyna 2\n40:05 Nemotron Lightning\n42:05 MatrAIx\n44:00 Muse Glimmer\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "Notion",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "Cursor",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "Qwen",
+          "DeepSeek",
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "Change the architecture"
+      ],
+      "summary": [
+        "7: AI NEWS\nAI never sleeps and this week has been absolutely exhausting"
+      ],
+      "transcript_chars": 45590,
+      "folder": "2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news"
+    },
     {
       "title": "The BEST local AI music generator is here!",
       "video_id": "aUcDyeZgz_k",

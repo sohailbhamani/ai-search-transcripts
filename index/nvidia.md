@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (44 episodes):
+Episodes discussing **Nvidia** (45 episodes):
 
+- [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](../episodes/2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news/transcript.md) (2026-08-16)
 - [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
