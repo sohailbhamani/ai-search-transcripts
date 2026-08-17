@@ -1,10 +1,64 @@
 {
-  "total_videos": 79,
+  "total_videos": 80,
   "date_range": {
-    "newest": "2026-08-16",
+    "newest": "2026-08-17",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New #1 open source AI is here!",
+      "video_id": "ZSNMw8U5h-c",
+      "youtube_url": "https://www.youtube.com/watch?v=ZSNMw8U5h-c",
+      "publish_date": "2026-08-17",
+      "duration": "30:57",
+      "duration_seconds": 1857,
+      "view_count": 16219,
+      "author": "AI Search",
+      "description": "GLM 5.3 review. New top open source LLM. #ai #aitools #ainews #agi \nThanks to our sponsor Hubspot. Check out the AI model sheet cheat: https://clickhubspot.com/891767 \n\nGet 10% off Z Coding: https://z.ai/subscribe?im_ref=08823wwcsxyZRplUtW2z3Wn7UkuTChQrhyqt1M0&sharedid=&irpid=4934152&irgwc=1&afsrc=1&ic=JQJSQOIM0W\n\nFull song: https://x.com/aisearchio/status/2088400780776902997\n\n00:00 GLM 5.3 intro\n00:28 Z Code\n01:19 Windows replica\n06:44 Blender V8 engine\n08:53 3D fighting game\n11:48 AI Model cheat sheet\n13:05 Music composition\n16:21 Financial presentation video\n19:10 Business ideas\n19:56 FIND THE FROG\n20:42 Deep research\n21:43 Identifying cancer\n23:15 Specs and performance\n26:14 Cybersecurity abilities\n29:00 Open source \n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Apple",
+          "Slack",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Shortcuts",
+          "Make",
+          "MCP",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini",
+          "Llama"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "For most instances, it even matches the performance of Cloud Fable and the best GPT model"
+      ],
+      "transcript_chars": 30655,
+      "folder": "2026-08-17-new-1-open-source-ai-is-here"
+    },
     {
       "title": "New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS",
       "video_id": "62HSUsS0ypo",

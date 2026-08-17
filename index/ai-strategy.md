@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (36 episodes):
+Episodes discussing **Ai Strategy** (37 episodes):
 
+- [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)
 - [The BEST local AI music generator is here!](../episodes/2026-08-15-the-best-local-ai-music-generator-is-here/transcript.md) (2026-08-15)
 - [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)

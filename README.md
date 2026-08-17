@@ -6,9 +6,9 @@ AI Search - Exploring the frontiers of artificial intelligence, search technolog
 
 ## Stats
 
-- **Videos Downloaded**: 79
-- **Date Range**: Dec 28, 2025 - Aug 16, 2026
-- **Last Updated**: Aug 16, 2026
+- **Videos Downloaded**: 80
+- **Date Range**: Dec 28, 2025 - Aug 17, 2026
+- **Last Updated**: Aug 17, 2026
 - Synced twice daily at midnight and noon CST
 
 ## Structure

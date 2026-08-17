@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (39 episodes):
+Episodes discussing **Ai Tools** (40 episodes):
 
+- [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)
 - [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
