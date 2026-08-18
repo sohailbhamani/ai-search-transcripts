@@ -1,10 +1,46 @@
 {
-  "total_videos": 80,
+  "total_videos": 81,
   "date_range": {
-    "newest": "2026-08-17",
+    "newest": "2026-08-18",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The FASTEST local AI video generator",
+      "video_id": "ig3PUfSow5Y",
+      "youtube_url": "https://www.youtube.com/watch?v=ig3PUfSow5Y",
+      "publish_date": "2026-08-18",
+      "duration": "17:05",
+      "duration_seconds": 1025,
+      "view_count": 9071,
+      "author": "AI Search",
+      "description": "LTX 2.5 installation tutorial. Free open source AI video generator. How to use LTX 2.5 in ComfyUI #ai #aivideo #aitools #agi\n\nhttps://ltx.io/model/ltx-2-5\n\nMinimax H3 vs LTX 2.5 https://youtu.be/62HSUsS0ypo?t=880\nComfy workflow https://docs.comfy.org/tutorials/video/ltx/ltx-2-5\nLTX models https://huggingface.co/Lightricks/LTX-2.5\nMinimax + LTX upscaler https://github.com/peterducan-hub/PeterDuncan_Comfyui/blob/main/MINIMAX_H3_LTX2.5_Upscaler_v1.json\nLTX Director https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI\n\n00:00 LTX 2.5 new features\n01:53 Downloading the models\n05:50 Text to video\n07:52 Image to video\n09:12 First last frame\n10:41 Using loras\n12:50 For low vram\n15:00 Minimax + LTX upscaler\n15:32 LTX Director\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "5 just came out and this is the fastest open- source model you can use right now"
+      ],
+      "transcript_chars": 18004,
+      "folder": "2026-08-18-the-fastest-local-ai-video-generator"
+    },
     {
       "title": "New #1 open source AI is here!",
       "video_id": "ZSNMw8U5h-c",
