@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (28 episodes):
+Episodes discussing **Product Management** (29 episodes):
 
+- [New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](../episodes/2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news/transcript.md) (2026-08-23)
 - [The FASTEST local AI video generator](../episodes/2026-08-18-the-fastest-local-ai-video-generator/transcript.md) (2026-08-18)
 - [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)
 - [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)

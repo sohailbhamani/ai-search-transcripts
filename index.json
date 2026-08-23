@@ -1,10 +1,62 @@
 {
-  "total_videos": 81,
+  "total_videos": 82,
   "date_range": {
-    "newest": "2026-08-18",
+    "newest": "2026-08-23",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
+      "video_id": "rQ4yX5qNYdY",
+      "youtube_url": "https://www.youtube.com/watch?v=rQ4yX5qNYdY",
+      "publish_date": "2026-08-23",
+      "duration": "32:12",
+      "duration_seconds": 1932,
+      "view_count": 12567,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi\n\nThanks to our sponsor Hubspot. Access the free Codex Prompts guide: https://clickhubspot.com/44c344 \n\nEvoke https://evoke-world.github.io/\n4DAnyone https://4danyone.github.io/\nSenseNova U1.5 https://modelscope.ai/models/SenseNova/SenseNova-U1.5-8B-MoT\nBernini v2 https://huggingface.co/ByteDance/Bernini-Diffusers-v2\nOrnith 1.5 https://ornith.ai/ornith_1_5.html\nAudio8 TTS 0.1B https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b\nGeoWeaver https://kosmoresearch.github.io/GeoWeaver/\nQwen Video Edit https://yunpeng1998.github.io/Qwen-Video-Edit-Page\nDeepseek vision https://api-docs.deepseek.com/guides/vision\nHappy Shrimp https://www.happyshrimp.ai/\nComfy MCP https://blog.comfy.org/p/open-sourcing-comfy-mcp-on-local\nGen 1.5 https://generalistai.com/blog/gen-1.5\nAvo https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/\n\n00:00 AI news intro\n00:55 Evoke\n03:02 4DAnyone\n04:24 SenseNova U1.5\n06:22 Bernini v2\n07:27 Ornith 1.5\n09:43 Audio8 TTS 0.1B\n12:10 Hubspot Codex prompts\n13:30 GeoWeaver\n14:38 Qwen Video Edit\n15:40 Paxini data glove\n16:44 MX01\n17:43 The most important part\n19:13 Qiji horse\n20:07 Humanoid games\n20:35 Superman\n21:13 Sprinting robots\n22:09 Tennis robots\n23:22 Deepseek vision\n24:12 Happy Shrimp\n27:03 Comfy MCP\n28:02 Gen 1.5\n29:52 Avo\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face",
+          "YouTube",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "PaLM",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 31720,
+      "folder": "2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news"
+    },
     {
       "title": "The FASTEST local AI video generator",
       "video_id": "ig3PUfSow5Y",

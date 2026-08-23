@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (45 episodes):
+Episodes discussing **Nvidia** (46 episodes):
 
+- [New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](../episodes/2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news/transcript.md) (2026-08-23)
 - [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](../episodes/2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news/transcript.md) (2026-08-16)
 - [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)
 - [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
