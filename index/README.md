@@ -65,15 +65,15 @@ Index of 82 episodes across 84 topics.
 - [Gpt 5](gpt-5.md) (4 episodes)
 - [Startups](startups.md) (3 episodes)
 - [Shortcuts](shortcuts.md) (3 episodes)
-- [N8N](n8n.md) (2 episodes)
 - [Twitter](twitter.md) (2 episodes)
+- [N8N](n8n.md) (2 episodes)
 - [Deep Dive](deep-dive.md) (2 episodes)
 - [Mistral](mistral.md) (2 episodes)
 - [Canva](canva.md) (2 episodes)
 - [Stability Ai](stability-ai.md) (2 episodes)
 - [Tesla](tesla.md) (1 episodes)
-- [Case Study](case-study.md) (1 episodes)
 - [Elevenlabs](elevenlabs.md) (1 episodes)
+- [Case Study](case-study.md) (1 episodes)
 - [Cohere](cohere.md) (1 episodes)
 - [Gpt 4](gpt-4.md) (1 episodes)
 - [Jan](jan.md) (1 episodes)
@@ -86,8 +86,8 @@ Index of 82 episodes across 84 topics.
 - [Midjourney](midjourney.md) (1 episodes)
 - [Ibm](ibm.md) (1 episodes)
 - [Notion Ai](notion-ai.md) (1 episodes)
-- [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
+- [Netflix](netflix.md) (1 episodes)
 
 ## Search
 
