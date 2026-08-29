@@ -10,8 +10,8 @@ Index of 82 episodes across 84 topics.
 - [Prompting](prompting.md) (66 episodes)
 - [Tutorials](tutorials.md) (65 episodes)
 - [Ai News](ai-news.md) (63 episodes)
-- [Gemini](gemini.md) (58 episodes)
 - [Github](github.md) (58 episodes)
+- [Gemini](gemini.md) (58 episodes)
 - [Coding](coding.md) (57 episodes)
 - [Google](google.md) (51 episodes)
 - [Claude](claude.md) (47 episodes)
@@ -86,8 +86,8 @@ Index of 82 episodes across 84 topics.
 - [Midjourney](midjourney.md) (1 episodes)
 - [Ibm](ibm.md) (1 episodes)
 - [Notion Ai](notion-ai.md) (1 episodes)
-- [Openai Api](openai-api.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
+- [Openai Api](openai-api.md) (1 episodes)
 
 ## Search
 
