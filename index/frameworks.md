@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (79 episodes):
+Episodes discussing **Frameworks** (80 episodes):
 
+- [Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS](../episodes/2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news/transcript.md) (2026-08-30)
 - [New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](../episodes/2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news/transcript.md) (2026-08-23)
 - [The FASTEST local AI video generator](../episodes/2026-08-18-the-fastest-local-ai-video-generator/transcript.md) (2026-08-18)
 - [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)

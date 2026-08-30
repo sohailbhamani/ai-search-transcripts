@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (22 episodes):
+Episodes discussing **X** (23 episodes):
 
+- [Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS](../episodes/2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news/transcript.md) (2026-08-30)
 - [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)
 - [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)
 - [New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS](../episodes/2026-08-09-new-3d-editors-open-medical-ai-ai-symphony-qwen-38-wan-animate-2-ai-news/transcript.md) (2026-08-09)

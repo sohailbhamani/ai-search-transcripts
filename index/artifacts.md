@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (15 episodes):
+Episodes discussing **Artifacts** (16 episodes):
 
+- [Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS](../episodes/2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news/transcript.md) (2026-08-30)
 - [New BEST AI video generator is here!](../episodes/2026-08-03-new-best-ai-video-generator-is-here/transcript.md) (2026-08-03)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)

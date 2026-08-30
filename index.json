@@ -1,10 +1,75 @@
 {
-  "total_videos": 82,
+  "total_videos": 83,
   "date_range": {
-    "newest": "2026-08-23",
+    "newest": "2026-08-30",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS",
+      "video_id": "4wjHNgMLeyY",
+      "youtube_url": "https://www.youtube.com/watch?v=4wjHNgMLeyY",
+      "publish_date": "2026-08-30",
+      "duration": "43:54",
+      "duration_seconds": 2634,
+      "view_count": 91177,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: GLM 5.3 Flash, Qwen 3.8 Flash Next, Minimax FastH3, Hy4 #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-aug\n\nBlock 3D https://alexandertsui.github.io/block3d/\nOne Video One World https://onevideooneworld.github.io/\nFixAnything https://fix-anything.github.io/\nGoogle PPE https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/\nCode World Model https://buaacyw.github.io/cwm/\nVoiceMem https://xzf-thu.github.io/VoiceMem/\nMinimax FastH3 https://haoailab.com/blogs/fasth3-preview/\nH3 Max https://blog.fal.ai/introducing-h3-max-by-fal/\nGLM 5.3 Flash https://z.ai/blog/glm-5.3-flash\nGLM 5.3 https://huggingface.co/zai-org/GLM-5.3\nQwen 3.8 Flash Next https://qwen.ai/blog?id=qwen3.8-flash-next&utm_source=chatgpt.com \nHy4 https://huggingface.co/tencent/Hy4-preview \nGemini 3.5 Transcribe https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/\nOmni 1.1 Flash https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/\nOrbit https://orbit-sfm.github.io/\nDiffusionOPSD https://diffusionopsd.github.io/\nFibo 1.5 https://huggingface.co/briaai/Fibo-1.5\nS1 https://www.skild.ai/blogs/s1\n\n00:00 AI news intro\n01:11 Block 3D\n02:07 One Video One World\n03:30 FixAnything\n04:53 Google PPE\n06:28 Code World Model\n08:27 VoiceMem\n10:25 FastH3\n12:40 H3 Max\n13:40 Luma AI\n15:31 Ox Alpha reveal\n19:30 GLM 5.3\n20:42 Qwen 3.8 Flash Next\n24:14 Hy4\n26:19 World Humanoid Games\n31:35 Gemini 3.5 Transcribe\n33:53 Omni 1.1 Flash\n35:10 Orbit\n36:22 Xiaomi AI Cube\n38:14 DiffusionOPSD\n40:27 Fibo 1.5\n41:32 S1\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "X",
+          "YouTube",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Stable Diffusion",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Artifacts",
+          "Projects",
+          "o3"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "Qwen",
+          "DeepSeek",
+          "o3",
+          "SAM",
+          "SAM 3",
+          "CLIP",
+          "Stable Diffusion"
+        ]
+      },
+      "concepts": [
+        "More privacy, no subscriptions, no dependence on any internet connection"
+      ],
+      "summary": [
+        "# Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 45513,
+      "folder": "2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news"
+    },
     {
       "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
       "video_id": "rQ4yX5qNYdY",

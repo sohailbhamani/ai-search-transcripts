@@ -1,7 +1,8 @@
 # Stable Diffusion
 
-Episodes discussing **Stable Diffusion** (7 episodes):
+Episodes discussing **Stable Diffusion** (8 episodes):
 
+- [Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS](../episodes/2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news/transcript.md) (2026-08-30)
 - [GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](../episodes/2026-06-28-gpt-56-mythos-ban-lifted-realtime-avatars-seedance-25-brain-ultrasound-ai-news/transcript.md) (2026-06-28)
 - [Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](../episodes/2026-06-07-full-body-waifus-ai-dreams-realtime-ai-music-open-source-gemini-omni-ai-news/transcript.md) (2026-06-07)
 - [The BEST AI for 4K images. Free & fast](../episodes/2026-06-02-the-best-ai-for-4k-images-free-fast/transcript.md) (2026-06-02)
