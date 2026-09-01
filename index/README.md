@@ -34,8 +34,8 @@ Index of 83 episodes across 86 topics.
 - [Claude Code](claude-code.md) (20 episodes)
 - [Projects](projects.md) (19 episodes)
 - [Leadership](leadership.md) (17 episodes)
-- [Microsoft](microsoft.md) (17 episodes)
 - [Chatgpt](chatgpt.md) (17 episodes)
+- [Microsoft](microsoft.md) (17 episodes)
 - [Artifacts](artifacts.md) (16 episodes)
 - [Canvas](canvas.md) (15 episodes)
 - [Apple](apple.md) (15 episodes)
@@ -88,8 +88,8 @@ Index of 83 episodes across 86 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
-- [Bolt](bolt.md) (1 episodes)
 - [O3](o3.md) (1 episodes)
+- [Bolt](bolt.md) (1 episodes)
 
 ## Search
 
