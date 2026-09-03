@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (34 episodes):
+Episodes discussing **Tutorial** (35 episodes):
 
+- [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)
 - [The FASTEST local AI video generator](../episodes/2026-08-18-the-fastest-local-ai-video-generator/transcript.md) (2026-08-18)
 - [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)
 - [The BEST local AI music generator is here!](../episodes/2026-08-15-the-best-local-ai-music-generator-is-here/transcript.md) (2026-08-15)
