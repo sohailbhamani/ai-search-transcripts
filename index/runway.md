@@ -1,7 +1,8 @@
 # Runway
 
-Episodes discussing **Runway** (7 episodes):
+Episodes discussing **Runway** (8 episodes):
 
+- [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](../episodes/2026-09-06-gpt-6-astra-claude-fable-51-gemini-38-realtime-minimax-new-world-models-ai-news/transcript.md) (2026-09-06)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)
 - [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [New top local AI image generator is here! Already uncensored](../episodes/2026-06-24-new-top-local-ai-image-generator-is-here-already-uncensored/transcript.md) (2026-06-24)

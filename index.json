@@ -1,10 +1,70 @@
 {
-  "total_videos": 84,
+  "total_videos": 85,
   "date_range": {
-    "newest": "2026-09-03",
+    "newest": "2026-09-06",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS",
+      "video_id": "ngyFRCNq0Yc",
+      "youtube_url": "https://www.youtube.com/watch?v=ngyFRCNq0Yc",
+      "publish_date": "2026-09-06",
+      "duration": "35:03",
+      "duration_seconds": 2103,
+      "view_count": 123441,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: GPT 6 Astra, Claude Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3 & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-cumlJh\n\nH3 World https://danzer1xxxxchan.github.io/H3-World/\nSolarWM https://junchao-cs.github.io/SolarWM-Web/?utm_source=chatgpt.com \nTimesFM https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting \nLucida https://lucida-r2s.github.io/\nVideoDeltaNet https://openvdn.github.io/\nhttps://github.com/Saganaki22/ComfyUI-VDN-H3\nLLaDA image https://github.com/inclusionAI/LLaDA-Image\nDeepseek v4 flash vision https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp/tree/main\nQwen 3.8 0902 https://www.qwencloud.com/models/qwen3.8-max-0902\nClaude Fable 5.1 review https://youtu.be/RmlP_nqOhsk \nGemini 3.8 Flash https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\nGPT 6 Astra https://openai.com/index/gpt-6-astra/\nWeatherNext 3 https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3\nFly brain https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain\nAtlas https://www.worldlabs.ai/blog/atlas\nIntern Lumina U2 https://internlm.github.io/InternLumina-U2/\nViggle Animate https://huggingface.co/Viggle/Viggle-Animate\nGWM 2 https://runway.com/research/introducing-gwm-worlds-2\n\n00:00 AI news intro\n01:00 H3 World\n02:02 SolarWM\n03:33 TimesFM\n05:03 Lucida\n06:07 VideoDeltaNet\n08:25 LLaDA image\n09:56 Deepseek v4 flash vision\n10:38 Qwen 3.8 0902\n11:37 Claude Fable 5.1\n12:58 Higgsfield\n14:41 Gemini 3.8 Flash\n18:28 Muse Spark 1.3\n19:38 GPT 6 Astra\n24:50 WeatherNext 3\n26:28 Fly brain \n28:40 Atlas\n30:15 Intern Lumina U2\n31:44 Viggle Animate\n33:00 GWM 2\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "Cursor",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Runway",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Atlas"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "8, realtime Minimax, new world models: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 36794,
+      "folder": "2026-09-06-gpt-6-astra-claude-fable-51-gemini-38-realtime-minimax-new-world-models-ai-news"
+    },
     {
       "title": "Claude Fable 5.1 is savage",
       "video_id": "RmlP_nqOhsk",
