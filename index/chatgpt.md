@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (17 episodes):
+Episodes discussing **Chatgpt** (18 episodes):
 
+- [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](../episodes/2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news/transcript.md) (2026-08-23)
 - [New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS](../episodes/2026-08-09-new-3d-editors-open-medical-ai-ai-symphony-qwen-38-wan-animate-2-ai-news/transcript.md) (2026-08-09)
 - [Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS](../episodes/2026-07-19-kimi-k3-dancing-waifus-robot-ufc-song-to-midi-gpt-red-hoverboards-ai-news/transcript.md) (2026-07-19)
