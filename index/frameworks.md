@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (83 episodes):
+Episodes discussing **Frameworks** (84 episodes):
 
+- [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](../episodes/2026-09-06-gpt-6-astra-claude-fable-51-gemini-38-realtime-minimax-new-world-models-ai-news/transcript.md) (2026-09-06)
 - [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)

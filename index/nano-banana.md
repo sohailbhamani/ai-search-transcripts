@@ -1,7 +1,8 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (31 episodes):
+Episodes discussing **Nano Banana** (32 episodes):
 
+- [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS](../episodes/2026-08-23-new-ai-waifus-new-deepseek-realtime-worlds-happy-shrimp-tiny-tts-ai-news/transcript.md) (2026-08-23)
 - [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](../episodes/2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news/transcript.md) (2026-08-16)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
