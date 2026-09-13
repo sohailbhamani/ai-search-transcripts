@@ -1,10 +1,68 @@
 {
-  "total_videos": 87,
+  "total_videos": 88,
   "date_range": {
-    "newest": "2026-09-10",
+    "newest": "2026-09-13",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS",
+      "video_id": "nZYJdwM-_nI",
+      "youtube_url": "https://www.youtube.com/watch?v=nZYJdwM-_nI",
+      "publish_date": "2026-09-13",
+      "duration": "38:54",
+      "duration_seconds": 2334,
+      "view_count": 84154,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Deepseek v4.1 Flash, AlphaGenome Atlas, AuK, YuE2, Navier Stokes solved, Lingbot World 2 & more #ai #ainews #aitools #aivideo #agi #singularity \nThanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-MAFGvE\n\nMarigold v2 https://huggingface.co/spaces/huawei-bayerlab/marigold-v2-web \nUnimate https://linzhanmou.com/unimate/\nAlphaGenome Atlas https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ \nLingbot World 2 https://technology.robbyant.com/lingbot-world-v2\nIsaac 0.5 https://www.perceptron.inc/blog/introducing-isaac-0-5\nWorld Sculpt https://alaya-lab.github.io/WorldSculpt/\nFire3D https://xiahongchi.github.io/Fire3D/\nAuK https://auk-project.github.io/\nDeepseek v4.1 Flash https://www.deepseek.com/en/news/deepseek-v4-1-flash/\nNavier Stokes https://openai.com/index/navier-stokes-solution/\nShow Harness https://showlab.github.io/Show-Harness/\nEdge0 https://github.com/Edge0-AI/edge0/\nRealSWE https://realswe.withspecific.com/\nSuno V6 https://suno.com/blog/introducing-v6\nYuE2 https://map-yue2.github.io/\nGPT for finance https://openai.com/index/introducing-chatgpt-financial-services/\nUMR https://hanyang9.github.io/UMR\nUnifoLM https://unigen-x.github.io/unifolm-wla.github.io/\nMiniCPM5 2B https://huggingface.co/openbmb/MiniCPM5-2B\n\n00:00 AI news intro\n01:03 Marigold v2\n02:27 Unimate\n03:37 AlphaGenome Atlas\n05:30 Lingbot World 2\n07:01 Isaac 0.5\n08:27 World Sculpt\n09:32 Fire3D\n10:30 AuK\n14:52 Higgsfield\n16:11 Deepseek v4.1 Flash\n19:20 Navier Stokes\n23:00 Show Harness\n24:28 Edge0\n26:17 RealSWE\n27:42 Suno V6\n29:54 YuE2\n33:32 GPT for finance\n34:22 UMR\n35:35 UnifoLM\n37:11 MiniCPM5 2B\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "GitHub",
+          "Box",
+          "DeepMind",
+          "Hugging Face",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Whisper",
+          "Hugging Face",
+          "Make",
+          "Atlas",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "You can potentially change the melody, the lyrics, tempo, or arrangement at a structured musical level instead of just trying to prompt it further and hoping it gets it right"
+      ],
+      "summary": [
+        "# New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 38893,
+      "folder": "2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news"
+    },
     {
       "title": "New BEST AI image generator is here",
       "video_id": "q9tpIc8PVKM",

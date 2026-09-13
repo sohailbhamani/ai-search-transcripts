@@ -1,7 +1,8 @@
 # Whisper
 
-Episodes discussing **Whisper** (10 episodes):
+Episodes discussing **Whisper** (11 episodes):
 
+- [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](../episodes/2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news/transcript.md) (2026-09-13)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Self-evolving AI, robot fights, new GPT voice, new local image model, Gemma upgrade: AI NEWS](../episodes/2026-05-10-self-evolving-ai-robot-fights-new-gpt-voice-new-local-image-/transcript.md) (2026-05-10)
 - [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)
