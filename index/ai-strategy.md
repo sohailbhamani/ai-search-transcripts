@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (40 episodes):
+Episodes discussing **Ai Strategy** (41 episodes):
 
+- [New BEST local AI music generator is here!](../episodes/2026-09-15-new-best-local-ai-music-generator-is-here/transcript.md) (2026-09-15)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [The FASTEST local AI video generator](../episodes/2026-08-18-the-fastest-local-ai-video-generator/transcript.md) (2026-08-18)

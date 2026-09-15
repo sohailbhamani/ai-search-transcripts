@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (78 episodes):
+Episodes discussing **Youtube** (79 episodes):
 
+- [New BEST local AI music generator is here!](../episodes/2026-09-15-new-best-local-ai-music-generator-is-here/transcript.md) (2026-09-15)
 - [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](../episodes/2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news/transcript.md) (2026-09-13)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)

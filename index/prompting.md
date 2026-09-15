@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (71 episodes):
+Episodes discussing **Prompting** (72 episodes):
 
+- [New BEST local AI music generator is here!](../episodes/2026-09-15-new-best-local-ai-music-generator-is-here/transcript.md) (2026-09-15)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](../episodes/2026-09-06-gpt-6-astra-claude-fable-51-gemini-38-realtime-minimax-new-world-models-ai-news/transcript.md) (2026-09-06)
