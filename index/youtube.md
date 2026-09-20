@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (80 episodes):
+Episodes discussing **Youtube** (81 episodes):
 
+- [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [Deepseek just did the impossible](../episodes/2026-09-18-deepseek-just-did-the-impossible/transcript.md) (2026-09-18)
 - [New BEST local AI music generator is here!](../episodes/2026-09-15-new-best-local-ai-music-generator-is-here/transcript.md) (2026-09-15)
 - [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](../episodes/2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news/transcript.md) (2026-09-13)

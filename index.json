@@ -1,10 +1,64 @@
 {
-  "total_videos": 90,
+  "total_videos": 91,
   "date_range": {
-    "newest": "2026-09-18",
+    "newest": "2026-09-20",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "OpenAI hacked, Jev, Google\u2019s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS",
+      "video_id": "hygMRgnDD7w",
+      "youtube_url": "https://www.youtube.com/watch?v=hygMRgnDD7w",
+      "publish_date": "2026-09-20",
+      "duration": "41:07",
+      "duration_seconds": 2467,
+      "view_count": 127052,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Jev, Laya, Bonsai 2 27B, Dream RSI, Gemini 3.8 Live, Qwen 3.8 Live & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Runway. Try it today https://runwayml.com/aisearch-sept \nUse code MKTG50 for 50% off any paid plan for the 1st month\n\n#ai #aitools #ainews #agi #singularity \n\nMeridian https://huggingface.co/Viggle/Meridian\nR2T2 https://r2t2.ai/\nJing Dao https://xgenlabs.ai/research/generative-world-simulation \nDream RSI https://dream-rsi.com/\nGemini 3.8 Live https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\nQwen 3.8 Omni Flash https://qwen.ai/blog?id=qwen3.8-omni-flash\nQwen 3.8 Live Translate https://qwen.ai/blog?id=qwen3.8-livetranslate\nNeedle 3 https://cactuscompute.com/needle\nZAI infra https://z.ai/blog/glm-built-its-inference-infrastructure\nXiaomi realtime RL https://mimo.xiaomi.com/rl/\nIn context learning https://cheng-haha.github.io/GPT-Policy/\nDecrypting German enigma https://mvueh-enigma-solved.carterl.chatgpt.site/\nJev https://typesafe.ai/blog/introducing-system-one-models-and-jev\nLaya https://laya.convaiinnovations.com/\nNimble https://huggingface.co/bespokelabs/Bespoke-Nimble-9B\nAstra for Law https://openai.com/index/astra-for-law/\nOpenAI hacked https://www.hacktron.ai/blog/hacking-openai\nMinimax code https://github.com/MiniMax-AI/minimax-code\nBonsai 2 27B https://prismml.com/news/bonsai-2-27b\nOccamy https://huggingface.co/Accio-Lab/Occamy-1.0\nZGCM https://github.com/zgcagi/ZGCM-1\nOdyssey 3 https://odyssey.systems/introducing-odyssey-3\n\n00:00 AI news intro\n01:08 Meridian\n02:39 R2T2\n04:09 Jing Dao\n06:32 Dream RSI\n08:36 Gemini 3.8 Live\n10:36 Qwen 3.8 Omni Flash\n12:26 Qwen 3.8 Live Translate\n14:00 Runway\n15:27 Needle 3\n17:07 ZAI infra agent\n19:56 Xiaomi realtime RL\n21:27 In context learning\n23:06 Decrypting German enigma\n24:57 Jev\n28:38 Laya\n29:56 Nimble\n31:00 Astra for Law\n31:58 OpenAI hacked\n34:20 Minimax code\n35:24 Bonsai 2 27B\n37:03 Occamy\n37:59 ZGCM \n38:45 Odyssey 3\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Apple",
+          "Slack",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Runway",
+          "Hugging Face",
+          "Make",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "Qwen",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "8 Omni, Bonsai 2, new Gemini Live: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 43890,
+      "folder": "2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news"
+    },
     {
       "title": "Deepseek just did the impossible",
       "video_id": "MImgH4KMtj8",
