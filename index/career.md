@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (11 episodes):
+Episodes discussing **Career** (12 episodes):
 
+- [Finally! New best local AI image editor is here](../episodes/2026-09-22-finally-new-best-local-ai-image-editor-is-here/transcript.md) (2026-09-22)
 - [New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS](../episodes/2026-08-09-new-3d-editors-open-medical-ai-ai-symphony-qwen-38-wan-animate-2-ai-news/transcript.md) (2026-08-09)
 - [New #1 open source AI model is here! FABLE LEVEL](../episodes/2026-07-17-new-1-open-source-ai-model-is-here-fable-level/transcript.md) (2026-07-17)
 - [GPT 5.6 is here!](../episodes/2026-07-10-gpt-56-is-here/transcript.md) (2026-07-10)

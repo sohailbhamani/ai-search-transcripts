@@ -1,10 +1,48 @@
 {
-  "total_videos": 91,
+  "total_videos": 92,
   "date_range": {
-    "newest": "2026-09-20",
+    "newest": "2026-09-22",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Finally! New best local AI image editor is here",
+      "video_id": "BaE6UBfNdQk",
+      "youtube_url": "https://www.youtube.com/watch?v=BaE6UBfNdQk",
+      "publish_date": "2026-09-22",
+      "duration": "19:38",
+      "duration_seconds": 1178,
+      "view_count": 64679,
+      "author": "AI Search",
+      "description": "Qwen Image 2.1 review & tutorial. How to run Qwen Image 2.1 in ComfyUI. Best free open-source AI image generator. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep4\n\n#ai #aitools #aiart #imagegenerator #nanobanana #agi \n\nWorkflows and models https://huggingface.co/Comfy-Org/Qwen-Image-2.1\nAnime consistency lora https://huggingface.co/WarmBloodAban/Qwen-Image-2.1-LoRAs \nGGUFs https://huggingface.co/Abiray/Qwen-Image-2.1-GGUF\n\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\nFlux Klein tutorial: https://youtu.be/2OrOufa3eoc\n\nFollow my X for more advanced updates on Qwen Image 2.1 https://x.com/aisearchio\n\n00:00 Qwen Image 2.1 intro\n00:26 Features\n01:18 Editing and references\n03:20 How to install Qwen Image 2.1\n07:00 Text to image \n08:30 Image editing\n10:45 Luma\n12:00 Bg removal\n13:21 Loading loras\n15:40 For low vram\n18:10 License\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "New best local AI image editor is here\nFinally, we have a new open-source image generator and editor"
+      ],
+      "transcript_chars": 21275,
+      "folder": "2026-09-22-finally-new-best-local-ai-image-editor-is-here"
+    },
     {
       "title": "OpenAI hacked, Jev, Google\u2019s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS",
       "video_id": "hygMRgnDD7w",
