@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (36 episodes):
+Episodes discussing **Tutorial** (37 episodes):
 
+- [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [New BEST local AI music generator is here!](../episodes/2026-09-15-new-best-local-ai-music-generator-is-here/transcript.md) (2026-09-15)
 - [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)
 - [The FASTEST local AI video generator](../episodes/2026-08-18-the-fastest-local-ai-video-generator/transcript.md) (2026-08-18)

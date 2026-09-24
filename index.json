@@ -1,10 +1,61 @@
 {
-  "total_videos": 92,
+  "total_videos": 93,
   "date_range": {
-    "newest": "2026-09-22",
+    "newest": "2026-09-24",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Claude Opus 5.5 is ridiculous",
+      "video_id": "gX0L0aFA2xg",
+      "youtube_url": "https://www.youtube.com/watch?v=gX0L0aFA2xg",
+      "publish_date": "2026-09-24",
+      "duration": "25:55",
+      "duration_seconds": 1555,
+      "view_count": 141297,
+      "author": "AI Search",
+      "description": "Claude Opus 5.5 review. #ai #ainews #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-dkHOlY\n\n\nClaude Opus 5.5 release page https://www.anthropic.com/claude-opus-5-5 \nAlso see GPT 6 Astra review https://youtu.be/Ji4amrxrzVM \n\n00:00 Claude Opus 5.5 intro\n00:49 Recaptcha puzzles\n03:49 Ray tracing\n06:38 Live playing piano\n08:55 Math explainer video\n10:37 Higgsfield\n12:02 Blender real estate VR\n15:00 Unreal 3D game\n17:01 Music composition\n18:54 FROG TEST\n19:42 Identifying cancer\n20:28 Deep research\n21:15 Ideation\n22:37 Specs and benchmarks\n24:36 Guardrails and availability\n\nSee my X for more AI updates https://x.com/aisearchio\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "X",
+          "YouTube",
+          "Airbnb",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 is out, and this might be the best model in the world"
+      ],
+      "transcript_chars": 24324,
+      "folder": "2026-09-24-claude-opus-55-is-ridiculous"
+    },
     {
       "title": "Finally! New best local AI image editor is here",
       "video_id": "BaE6UBfNdQk",

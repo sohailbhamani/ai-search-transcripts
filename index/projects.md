@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (21 episodes):
+Episodes discussing **Projects** (22 episodes):
 
+- [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)
 - [Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS](../episodes/2026-08-30-ox-alpha-reveal-realtime-minimax-qwen-next-hy4-robot-olympics-ai-news/transcript.md) (2026-08-30)

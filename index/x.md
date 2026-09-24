@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (27 episodes):
+Episodes discussing **X** (28 episodes):
 
+- [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [Deepseek just did the impossible](../episodes/2026-09-18-deepseek-just-did-the-impossible/transcript.md) (2026-09-18)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)

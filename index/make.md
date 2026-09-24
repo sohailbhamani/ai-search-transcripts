@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (91 episodes):
+Episodes discussing **Make** (92 episodes):
 
+- [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [Finally! New best local AI image editor is here](../episodes/2026-09-22-finally-new-best-local-ai-image-editor-is-here/transcript.md) (2026-09-22)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [Deepseek just did the impossible](../episodes/2026-09-18-deepseek-just-did-the-impossible/transcript.md) (2026-09-18)

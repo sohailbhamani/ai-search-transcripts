@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (26 episodes):
+Episodes discussing **Box** (27 episodes):
 
+- [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](../episodes/2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news/transcript.md) (2026-09-13)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)
 - [Deepseek drops another HUGE breakthrough](../episodes/2026-07-03-deepseek-drops-another-huge-breakthrough/transcript.md) (2026-07-03)
