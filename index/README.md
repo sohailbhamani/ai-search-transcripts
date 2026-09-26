@@ -89,8 +89,8 @@ Index of 93 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
-- [O3](o3.md) (1 episodes)
 - [Bolt](bolt.md) (1 episodes)
+- [O3](o3.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
