@@ -1,10 +1,66 @@
 {
-  "total_videos": 93,
+  "total_videos": 94,
   "date_range": {
-    "newest": "2026-09-24",
+    "newest": "2026-09-27",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
+      "video_id": "nX0fgBL3sIM",
+      "youtube_url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
+      "publish_date": "2026-09-27",
+      "duration": "38:33",
+      "duration_seconds": 2313,
+      "view_count": 133269,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\nWorldCrafter https://drexubery.github.io/WorldCrafter/\nMing Image https://huggingface.co/inclusionAI/Ming-Image-0.1-Design\nMira Scene  https://vast-eden.ai/?p=mira-scene\nFlux 3 Action https://bfl.ai/models/flux-3-action\nGemini 3.8 TTS https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\nMimo V2.6 https://mimo.xiaomi.com/mimo-v2-6\nStep 5 https://platform.stepfun.ai/docs/en/guides/models/step-5-preview\nGAE https://jiah-cloud.github.io/GAE.github.io/\nOpenMuse https://github.com/CopilotKit/OpenMuse\nCLM https://huggingface.co/Contrastive-LM/CLM-v0.1-8B\nGrok 4.7 https://x.ai/news/grok-4-7\nGPT 6 Sol Luna https://openai.com/index/introducing-gpt-6-sol-and-luna/\nOpus 5.5 review https://youtu.be/gX0L0aFA2xg \nGene discovery https://www.anthropic.com/news/claude-discovers-novel-enzyme-system?utm_source=chatgpt.com \nSkildAI soccer https://www.skild.ai/blogs/physical-self-play\nDots3 Note https://studio.dots.ai/dots/dots3-en.html\nOvis Embedding https://huggingface.co/collections/ATH-MaaS/ovis-embedding\nLimite 1B https://paradigma.inc/blog/limite-1b-violetto\nAikido Altar https://www.aikido.dev/blog/aikido-altar-open-weight-ai-sovereign-security\nProject Suncatcher https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/\nSupra2 Img https://huggingface.co/SupraLabs/Supra2-IMG\n\n00:00 AI news intro\n0:48 WorldCrafter\n2:10 Ming Image\n3:56 Mira Scene\n5:00 Flux 3 Action\n6:41 Gemini 3.8 TTS\n10:41 Mimo V2.6 \n12:40 Step 5\n13:57 Luma\n15:11 GAE\n16:24 OpenMuse\n17:42 CLM\n19:30 Grok 4.7\n21:05 GPT 6 Sol Luna\n22:45 Claude Opus 5.5\n23:43 Gene discovery\n25:12 Primebot T1\n25:55 THE MOST IMPORTANT PART\n26:30 Dex 5S\n27:19 SkildAI soccer\n28:51 Dots3 Note\n30:40 Ovis Embedding\n31:58 Limite 1B\n33:05 Aikido Altar\n33:59 Project Suncatcher\n36:53 Supra2 Img\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "Cursor",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Arc",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "6, Step 5, OpenMuse: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 40718,
+      "folder": "2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-55-mimo-26-step-5-openmuse-ai-news"
+    },
     {
       "title": "Claude Opus 5.5 is ridiculous",
       "video_id": "gX0L0aFA2xg",
