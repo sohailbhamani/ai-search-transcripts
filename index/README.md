@@ -29,8 +29,8 @@ Index of 94 episodes across 88 topics.
 - [Product Management](product-management.md) (35 episodes)
 - [Workflows](workflows.md) (34 episodes)
 - [X](x.md) (28 episodes)
-- [Meta](meta.md) (27 episodes)
 - [Box](box.md) (27 episodes)
+- [Meta](meta.md) (27 episodes)
 - [Projects](projects.md) (22 episodes)
 - [Claude Code](claude-code.md) (22 episodes)
 - [Chatgpt](chatgpt.md) (21 episodes)
@@ -89,8 +89,8 @@ Index of 94 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
-- [Bolt](bolt.md) (1 episodes)
 - [O3](o3.md) (1 episodes)
+- [Bolt](bolt.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
