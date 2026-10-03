@@ -50,8 +50,8 @@ Index of 94 episodes across 88 topics.
 - [Whisper](whisper.md) (11 episodes)
 - [Slack](slack.md) (11 episodes)
 - [Amazon](amazon.md) (11 episodes)
-- [Runway](runway.md) (9 episodes)
 - [Sora](sora.md) (9 episodes)
+- [Runway](runway.md) (9 episodes)
 - [Sonnet](sonnet.md) (8 episodes)
 - [Stable Diffusion](stable-diffusion.md) (8 episodes)
 - [Atlas](atlas.md) (6 episodes)
@@ -89,8 +89,8 @@ Index of 94 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
-- [Bolt](bolt.md) (1 episodes)
 - [O3](o3.md) (1 episodes)
+- [Bolt](bolt.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
