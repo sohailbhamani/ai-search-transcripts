@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (45 episodes):
+Episodes discussing **Opus** (46 episodes):
 
+- [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS](../episodes/2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-55-mimo-26-step-5-openmuse-ai-news/transcript.md) (2026-09-27)
 - [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)

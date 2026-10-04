@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (11 episodes):
+Episodes discussing **Slack** (12 episodes):
 
+- [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [New #1 open source AI is here!](../episodes/2026-08-17-new-1-open-source-ai-is-here/transcript.md) (2026-08-17)

@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (8 episodes):
+Episodes discussing **Sonnet** (9 episodes):
 
+- [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS](../episodes/2026-07-05-full-body-waifus-claude-fable-is-back-longcat-20-mind-reading-ai-live-video-edit/transcript.md) (2026-07-05)
 - [New #1 open-source AI model is here!](../episodes/2026-06-17-new-1-open-source-ai-model-is-here/transcript.md) (2026-06-17)
 - [Real gundams, top 3D generator, open-source world models, ChatGPT updates, new TTS: AI NEWS](../episodes/2026-05-17-real-gundams-top-3d-generator-open-source-world-models-chatg/transcript.md) (2026-05-17)

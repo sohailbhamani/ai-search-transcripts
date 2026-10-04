@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (21 episodes):
+Episodes discussing **Chatgpt** (22 episodes):
 
+- [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS](../episodes/2026-09-13-new-deepseek-human-genome-map-navier-stokes-gpt-finance-suno-v6-yue2-ai-news/transcript.md) (2026-09-13)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
