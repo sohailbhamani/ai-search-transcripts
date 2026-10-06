@@ -1,7 +1,8 @@
 # Runway
 
-Episodes discussing **Runway** (9 episodes):
+Episodes discussing **Runway** (10 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS](../episodes/2026-09-06-gpt-6-astra-claude-fable-51-gemini-38-realtime-minimax-new-world-models-ai-news/transcript.md) (2026-09-06)
 - [Claude Opus 5 is a freak](../episodes/2026-07-27-claude-opus-5-is-a-freak/transcript.md) (2026-07-27)

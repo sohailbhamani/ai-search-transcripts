@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (72 episodes):
+Episodes discussing **Ai News** (73 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS](../episodes/2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-55-mimo-26-step-5-openmuse-ai-news/transcript.md) (2026-09-27)
 - [Finally! New best local AI image editor is here](../episodes/2026-09-22-finally-new-best-local-ai-image-editor-is-here/transcript.md) (2026-09-22)

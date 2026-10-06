@@ -1,7 +1,8 @@
 # Adobe
 
-Episodes discussing **Adobe** (4 episodes):
+Episodes discussing **Adobe** (5 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](../episodes/2026-08-02-new-deepseek-seedance-25-minimax-h3-gemini-robotics-amd-models-ai-news/transcript.md) (2026-08-02)
 - [Robot girlfriends, recursive AI agents, full AI research, Happy Horse: AI NEWS](../episodes/2026-05-03-robot-girlfriends-recursive-ai-agents-full-ai-research-happy/transcript.md) (2026-05-03)
 - [Claude Opus 4.7, Qwen 3.6, Happy Oyster, realtime 3D worlds, new Google TTS: AI NEWS](../episodes/2026-04-19-claude-opus-4-7-qwen-3-6-happy-oyster-realtime-3d-worlds-new/transcript.md) (2026-04-19)

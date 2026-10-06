@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (49 episodes):
+Episodes discussing **Ai Agents** (50 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)

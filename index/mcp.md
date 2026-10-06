@@ -1,7 +1,8 @@
 # Mcp
 
-Episodes discussing **Mcp** (18 episodes):
+Episodes discussing **Mcp** (19 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)

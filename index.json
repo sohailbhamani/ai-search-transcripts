@@ -1,10 +1,62 @@
 {
-  "total_videos": 95,
+  "total_videos": 96,
   "date_range": {
-    "newest": "2026-10-04",
+    "newest": "2026-10-06",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "The AI unlock has begun",
+      "video_id": "h5zkzon0gM4",
+      "youtube_url": "https://www.youtube.com/watch?v=h5zkzon0gM4",
+      "publish_date": "2026-10-06",
+      "duration": "14:29",
+      "duration_seconds": 869,
+      "view_count": 118801,
+      "author": "AI Search",
+      "description": "How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to our sponsor Runway. https://runwayml.com/aisearch-oct \nUse code MKTG50 for 50% off any paid plan for the 1st month\n\n#ai #aitools #gaming #ainews #singularity \n\nResources\nhttps://github.com/rehan-remade/universal-modder\nhttps://github.com/morluto/rea\nhttps://github.com/trevaintdead/ai-game-modding-guides\nhttps://github.com/bethington/ghidra-mcp \nhttps://github.com/HexRaysSA/ida-mcp \nhttps://github.com/icsharpcode/ilspy \nhttps://github.com/SamboyCoding/Cpp2IL \nhttps://github.com/boykopovar/AnyPS5\nhttps://github.com/yuriolive/PortPS5\n\n0:00 Intro\n0:55 Reverse engineering binaries\n3:34 Pass through mod\n5:40 Reverse engineering\n6:25 Runway\n7:49 Rebuilding in Rust\n9:06 Platform compatibility\n10:00 Porting mechanics\n11:50 Examples and how to prompt\n12:31 Cracking software\n13:08 Inflection point\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "Microsoft",
+          "Adobe",
+          "GitHub",
+          "YouTube",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Runway",
+          "Make",
+          "MCP",
+          "Opus",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [
+        "Ai can read almost any game, reverse engineer the code of it, or make advanced mods to the game",
+        "That all proprietary software could potentially just get cracked and cloned with ai"
+      ],
+      "summary": [
+        "# The AI unlock has begun\nFolks, this is pretty crazy"
+      ],
+      "transcript_chars": 15109,
+      "folder": "2026-10-06-the-ai-unlock-has-begun"
+    },
     {
       "title": "Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS",
       "video_id": "lHmZoRHMZyM",

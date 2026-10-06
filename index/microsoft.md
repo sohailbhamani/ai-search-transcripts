@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (20 episodes):
+Episodes discussing **Microsoft** (21 episodes):
 
+- [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [GPT 6 Astra is a freak](../episodes/2026-09-07-gpt-6-astra-is-a-freak/transcript.md) (2026-09-07)
 - [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)
