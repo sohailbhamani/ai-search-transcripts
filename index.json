@@ -1,10 +1,74 @@
 {
-  "total_videos": 96,
+  "total_videos": 97,
   "date_range": {
-    "newest": "2026-10-06",
+    "newest": "2026-10-11",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS",
+      "video_id": "X0_GDOkLKzQ",
+      "youtube_url": "https://www.youtube.com/watch?v=X0_GDOkLKzQ",
+      "publish_date": "2026-10-11",
+      "duration": "45:12",
+      "duration_seconds": 2712,
+      "view_count": 126658,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: OpenAI math breakthroughs, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 & more. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-SjGrCf\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\nWorldPlay 2 https://worldplay2.github.io/\nMSFlow https://yu1ut.com/MSFlow-HP/\nKandinsky 6.0 https://github.com/kandinskylab/kandinsky-6\nGPT intelligent UI https://openai.com/index/gpt-6-for-everyone/\nALoDLM https://huggingface.co/amazon/ALoDLM-8B\nAlphaProtein Novo https://github.com/google-deepmind/alphaprotein-novo \nBotanic 1 https://deepmind.google/models/gemma/gemmaverse/living-models/\nOpenAI math breakthroughs https://github.com/openai/math\nEmbedding Gemma 2 https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2\nGenIA https://facebookresearch.github.io/GenIA/\nRoom temp magnetic semiconductors https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nFlashDexRetarget https://holiday-robot.github.io/FlashDexRetarget/\nIris 3B https://speridlabs.com/research/iris\nTerra https://cnai.epfl.ch/terra/\nCoDimRecon https://shuzhaoxie.github.io/CoDimRecon/\nDistScene https://coolbeam.github.io/DistScene/\nNano Banana 2.1 https://deepmind.google/models/model-cards/nano-banana-2-1/\nHaiku 5.5 https://www.anthropic.com/claude-haiku-5-5\n\n00:00 AI news intro\n1:08 WorldPlay 2\n2:24 MSFlow\n3:30 Kandinsky 6.0\n4:54 GPT intelligent UI\n6:23 ALoDLM\n8:04 AlphaProtein Novo \n10:26 Botanic 1\n12:20 OpenAI math breakthroughs\n17:17 Higgsfield\n18:50 Math continued\n26:37 Embedding Gemma 2\n28:39 Mistral Large 4\n30:08 GenIA\n30:51 Room temp magnetic semiconductors\n35:55 FlashDexRetarget\n36:35 Iris 3B\n38:10 Terra\n39:35 CoDimRecon\n40:36 DistScene\n41:29 Nano Banana 2.1\n42:41 Haiku 5.5\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "GitHub",
+          "DeepMind",
+          "Hugging Face",
+          "Mistral",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Haiku",
+          "Computer Use",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Claude Haiku",
+          "Gemini",
+          "Mistral",
+          "DeepSeek",
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "They've been formally proven to be correct"
+      ],
+      "summary": [
+        "# New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 47441,
+      "folder": "2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct"
+    },
     {
       "title": "The AI unlock has begun",
       "video_id": "h5zkzon0gM4",
