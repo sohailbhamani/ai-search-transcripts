@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (15 episodes):
+Episodes discussing **Canvas** (16 episodes):
 
+- [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
 - [The BEST local AI music generator is here!](../episodes/2026-08-15-the-best-local-ai-music-generator-is-here/transcript.md) (2026-08-15)
 - [The BEST local AI video generator just got BETTER!](../episodes/2026-08-12-the-best-local-ai-video-generator-just-got-better/transcript.md) (2026-08-12)
 - [The BEST local AI video generator is here!](../episodes/2026-08-05-the-best-local-ai-video-generator-is-here/transcript.md) (2026-08-05)

@@ -1,10 +1,69 @@
 {
-  "total_videos": 97,
+  "total_videos": 98,
   "date_range": {
-    "newest": "2026-10-11",
+    "newest": "2026-10-18",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS",
+      "video_id": "tDWtcyeNNew",
+      "youtube_url": "https://www.youtube.com/watch?v=tDWtcyeNNew",
+      "publish_date": "2026-10-18",
+      "duration": "40:55",
+      "duration_seconds": 2455,
+      "view_count": 137036,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Gemini 4 Argon, Muse Wonder, Drama 3, MOSS Image, Krea 3, KLING 4, Flux 3 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct2\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\nDrama 3 https://fish.audio/drama-3/\nMatrix-Game 4.0 https://matrix-game-v4-0.github.io/page/\nGaussiAnimate https://cookmaker.cn/gaussianimate/\nUniForge 3D https://xishuxishu.github.io/uniforge3d-project/\nGoogle Quantum https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/\nMosaiChunk https://mosaichunk.github.io/\nGemini 4 Argon https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon\nMultics https://karine-huang.github.io/Multics/\nKling 4 https://kling.ai/\nKrea 3 https://www.krea.ai/blog/introducing-krea-3\nFLUX 3 Image Klein https://bfl.ai/models/flux-3-image-klein\nMOSS-Image https://openmoss.ai/MOSS-Image/\nMuse Wonder https://research.meta.ai/blog/muse-wonder\nMuse Spark Open https://research.meta.ai/blog/muse-spark-open\nAny Time, Any Space (ATAS) https://lhmd.top/atas/\nInfiniSplat v2 https://zju3dv.github.io/InfiniSplat2/\nStreamRender-H3 https://nvlabs.github.io/Sana/Sol-Engine/StreamRender-H3/\nStreaming Code World Model https://github.com/TingtingLiao/streaming-code-world-model\nRP1 https://github.com/Roboparty/RP1\nPingpongDuo https://www.archon.tech/research/PingpongDuo\nStep 5 Preview https://www.stepfun.com/step-5-preview\nNVIDIA Nemotron 3.5 Super VL https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/\nLing-3.1-flash https://huggingface.co/inclusionAI/Ling-3.1-flash\nLFM2.5-24B-A2B https://www.liquid.ai/blog/lfm2-5-24b-a2b\nNext-Concept Modeling https://hazyresearch.stanford.edu/blog/2026-10-12-ncm \n\nChapters:\n00:00 AI news intro\n00:58 Drama 3\n02:43 Matrix-Game 4\n03:53 GaussiAnimate\n05:06 UniForge 3D\n06:10 OpenAI spy\n07:42 Google Quantum\n09:27 MosaiChunk\n10:37 Gemini 4 Argon\n15:58 Multics\n17:17 Kling 4\n18:08 Krea 3\n19:14 FLUX 3 Image Klein\n20:47 MOSS-Image\n22:03 Muse Wonder\n24:59 Muse Spark Open\n27:11 ATAS\n28:05 InfiniSplat v2\n29:22 StreamRender-H3\n31:09 Streaming Code World Model\n32:12 RP1\n33:36 PingpongDuo\n34:53 Step 5 Preview\n35:58 NVIDIA Nemotron 3.5 Super VL\n37:12 Ling-3.1-flash\n37:47 LFM2.5-24B-A2B\n38:42 Next-Concept Modeling\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Stable Diffusion",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "Opus",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "DeepSeek",
+          "Stable Diffusion",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 43415,
+      "folder": "2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai"
+    },
     {
       "title": "New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS",
       "video_id": "X0_GDOkLKzQ",
