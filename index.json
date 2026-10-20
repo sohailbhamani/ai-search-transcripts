@@ -1,10 +1,53 @@
 {
-  "total_videos": 98,
+  "total_videos": 99,
   "date_range": {
-    "newest": "2026-10-18",
+    "newest": "2026-10-20",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New top local AI image generator is here!",
+      "video_id": "cUeZMUGCxrw",
+      "youtube_url": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
+      "publish_date": "2026-10-20",
+      "duration": "21:56",
+      "duration_seconds": 1316,
+      "view_count": 110071,
+      "author": "AI Search",
+      "description": "MOSS Image review & tutorial. How to use MOSS Image in ComfyUI. How to edit images with MOSS. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-rxYPHC\n\n#ai #aiart #imagegenerator #aitools #ainews #agi\n\nhttps://huggingface.co/Comfy-Org/MOSS-Image\nhttps://huggingface.co/lodestones/MOSS-Image-SFT-8-steps-dmd/blob/main/lora.safetensors\nhttps://huggingface.co/lodestones/Kromoss\nhttps://github.com/ostris/ai-toolkit\n\nAlso see\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\n\n00:00 MOSS Image intro\n00:37 Specs and demos\n02:14 MOSS Image vs Krea 2\n03:01 How to use MOSS in ComfyUI\n08:33 How to use layout control\n11:03 Higgsfield\n12:30 How to add loras\n15:20 Better checkpoints\n16:05 How to make it faster\n17:50 How to edit images\n20:28 How to train loras\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP",
+          "SDXL",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Folks, we have a new open-source image generator, and this is by far the best image model in its weight class"
+      ],
+      "transcript_chars": 23840,
+      "folder": "2026-10-20-new-top-local-ai-image-generator-is-here"
+    },
     {
       "title": "Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS",
       "video_id": "tDWtcyeNNew",

@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (29 episodes):
+Episodes discussing **Box** (30 episodes):
 
+- [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
 - [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)
 - [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
