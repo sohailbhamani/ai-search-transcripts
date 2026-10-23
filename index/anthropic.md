@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (39 episodes):
+Episodes discussing **Anthropic** (40 episodes):
 
+- [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS](../episodes/2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct/transcript.md) (2026-10-11)
 - [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS](../episodes/2026-10-04-gemini-4-gpt-61-dots-claude-sonnet-55-ideogram-45-flux-3-ai-news/transcript.md) (2026-10-04)

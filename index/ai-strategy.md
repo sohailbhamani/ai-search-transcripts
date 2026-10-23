@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (44 episodes):
+Episodes discussing **Ai Strategy** (45 episodes):
 
+- [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
 - [Finally! New best local AI image editor is here](../episodes/2026-09-22-finally-new-best-local-ai-image-editor-is-here/transcript.md) (2026-09-22)
 - [Deepseek just did the impossible](../episodes/2026-09-18-deepseek-just-did-the-impossible/transcript.md) (2026-09-18)

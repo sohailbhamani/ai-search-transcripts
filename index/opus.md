@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (49 episodes):
+Episodes discussing **Opus** (50 episodes):
 
+- [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
 - [New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS](../episodes/2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct/transcript.md) (2026-10-11)
 - [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)

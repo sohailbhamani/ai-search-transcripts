@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (97 episodes):
+Episodes discussing **Make** (98 episodes):
 
+- [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
 - [New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS](../episodes/2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct/transcript.md) (2026-10-11)

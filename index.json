@@ -1,10 +1,61 @@
 {
-  "total_videos": 99,
+  "total_videos": 100,
   "date_range": {
-    "newest": "2026-10-20",
+    "newest": "2026-10-23",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Deepseek strikes again",
+      "video_id": "1Aqhg0FVm-w",
+      "youtube_url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w",
+      "publish_date": "2026-10-23",
+      "duration": "27:22",
+      "duration_seconds": 1642,
+      "view_count": 172159,
+      "author": "AI Search",
+      "description": "New Deepseek model. Deepseek V4.1 Flash 1017 and DeepInfer review. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-ZsWXGm\n\n#ainews #ai #agi #singularity #llm #aitools\n\nDeepseek V4.1 1017 https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nDeepInfer https://github.com/deepseek-ai/DeepInfer\nAlso see Deepseek 4.1 explainer video: https://youtu.be/MImgH4KMtj8\n\n0:00 Intro\n0:51 Deepseek V4.1 1017\n1:53 Math explainer video\n4:17 Unreal game\n7:24 Music composition\n11:23 Higgsfield\n12:41 Blender VR\n14:26 THE MOST IMPORTANT TEST\n15:49 Identifying cancer\n16:33 Deep research\n18:28 Ideation\n20:20 Specs and benchmarks\n23:19 DeepInfer\n\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "Hugging Face",
+          "YouTube",
+          "Airbnb",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Now, the Chinese labs have been quite quiet recently, and that's because they had their national week earlier this month, so they were kind of on holiday for a week"
+      ],
+      "transcript_chars": 25315,
+      "folder": "2026-10-23-deepseek-strikes-again"
+    },
     {
       "title": "New top local AI image generator is here!",
       "video_id": "cUeZMUGCxrw",
