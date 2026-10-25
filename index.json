@@ -1,10 +1,69 @@
 {
-  "total_videos": 100,
+  "total_videos": 101,
   "date_range": {
-    "newest": "2026-10-23",
+    "newest": "2026-10-25",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
+      "video_id": "EfyQOAJjx1A",
+      "youtube_url": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
+      "publish_date": "2026-10-25",
+      "duration": "43:06",
+      "duration_seconds": 2586,
+      "view_count": 112162,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: AI cyber attacks, Kimi K3.1, Minimax M3.1, Hi3D, Dessa voice. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct3\n\n#ai #ainews #aitools #agi #singularity \n\n00:00 AI news intro\n01:01 WeVisOne-VL\n03:10 Bark3\n04:53 Fibo 2.0\n07:37 Carbon-X\n09:27 Hy-Nomas\n11:14 Hi3D 1.0\n12:24 PURE\n13:33 Ming 3.0 TTS\n15:22 Luma \n16:51 AI cybersecurity\n22:42 OpenAI research agents\n24:34 JST2\n25:51 Sky-001\n27:26 Kimi K3.1 Pro\n29:50 Ideogram Vector\n30:51 Dessa\n34:12 Claude Duet\n35:28 Unitree H2X\n36:10 Sage-A1.5\n37:39 MiniMax M3.1 Flash\n38:33 MemT 1.0\n40:00 Ling 3.0 Flash Sante\n41:00 FastH3 Omni\n\nWeVisOne-VL https://tencent.github.io/WeVisOne-VL/\nBark3 https://underdog.ai/bark\nFibo 2.0 https://huggingface.co/briaai/Fibo-2.0-dev\nCarbon-X https://huggingface.co/HuggingFaceBio/Carbon-X\nHy-Nomas https://hy-nomas.hy.tencent.com/?utm_source=chatgpt.com\nHi3D 1.0 https://www.hi3d.ai/hi3d-1-0-open-source\nPURE https://funnyguy525.github.io/PURE-Page/\nMing 3.0 TTS https://nomorecoding.github.io/Ming-3.0-tts/\nOpenAI research agents https://openai.com/index/scaling-ai-research-for-complex-biological-data/\nJST2 https://viggle.ai/jst2\nSky-001 https://skyfall.ai/blog/introducing-sky-001\nKimi K3.1 Pro https://www.kimi.ai/blog/kimi-k3-1-pro\nIdeogram Vector https://ideogram.ai/models/vector/\nDessa https://block.xyz/dessa\nClaude Duet https://claude.com/resources/articles/claude-duet\nSage-A1.5 https://alpha-innovator.github.io/Sage-A1.5/\nMiniMax M3.1 Flash https://www.minimax.io/blog/minimax-m31f\nMemT 1.0 https://huggingface.co/MemTensor/MemT-1.0-Nano\nLing 3.0 Flash Sant\u00e9 https://huggingface.co/inclusionAI/Ling-3.0-flash-Sante\nFastH3 Omni https://haoailab.com/blogs/fastvideo-omniref-update/\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Nvidia",
+          "Slack",
+          "GitHub",
+          "Stripe",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Whisper",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "DeepSeek",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "1: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 44681,
+      "folder": "2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n"
+    },
     {
       "title": "Deepseek strikes again",
       "video_id": "1Aqhg0FVm-w",
