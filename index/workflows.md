@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (36 episodes):
+Episodes discussing **Workflows** (37 episodes):
 
+- [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)
 - [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
 - [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)
 - [Finally! New best local AI image editor is here](../episodes/2026-09-22-finally-new-best-local-ai-image-editor-is-here/transcript.md) (2026-09-22)

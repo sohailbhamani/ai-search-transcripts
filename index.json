@@ -1,10 +1,69 @@
 {
-  "total_videos": 101,
+  "total_videos": 102,
   "date_range": {
-    "newest": "2026-10-25",
+    "newest": "2026-11-01",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS",
+      "video_id": "IGICYFyP_EI",
+      "youtube_url": "https://www.youtube.com/watch?v=IGICYFyP_EI",
+      "publish_date": "2026-11-01",
+      "duration": "53:54",
+      "duration_seconds": 3234,
+      "view_count": 155156,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: OpenAI math breakthroughs, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct4\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\n00:00 AI news intro\n01:10 MotionBricks\n03:11 Idol\n04:27 SceneBloom\n05:48 Unlimited OCR 2\n06:57 UniAction\n08:00 AutoSwarm\n08:48 Paradee 1.2\n10:02 Hy-SimulMT\n11:42 NVIDIA SimReady Assets\n12:55 OpenAI scientific discoveries\n18:10 Luma\n19:22 Anthropic IPO\n22:48 MatAnyone-E\n24:02 Open-H3-Regenerate-2K\n25:19 StreamVibe\n26:26 MUNDO\n27:40 GPT-6.1 Terra\n29:35 Gemini 4 Carbon\n32:04 NVIDIA Nemotron 3.5 Transcribe\n33:24 Genie 4\n35:14 PhysAg3D\n36:24 SLEEP\n38:29 Audio8 TTS\n39:53 SenseNova Code2Video\n40:47 Energy-based model\n41:53 OverSeer\n43:03 Nanbeige4.3-33B\n44:17 LFM3\n46:12 Apex 35B\n47:33 Groot\n49:23 Clover 35B\n50:44 Spark-X2.6-1.7B\n51:58 SenseNova-Loop 9B\n\nMotionBricks https://nvlabs.github.io/motionbricks/\nIDOL https://speridlabs.com/research/idol\nSceneBloom https://tinaliu0123.github.io/scenebloom/\nUnlimited OCR 2 https://github.com/baidu/Unlimited-OCR\nUniAction https://uniaction.github.io/\nAutoSwarm https://github.com/HKUDS/AutoSwarm\nParadee 1.2 https://www.sahilmahendrakar.com/writings/paradee-1-2\nHy-SimulMT https://github.com/Tencent-Hunyuan/Hy-SimulMT\nNVIDIA SimReady Assets https://huggingface.co/datasets/nvidia/simready-assets\nOpenAI scientific discoveries https://openai.com/index/building-scientific-understanding-with-academic-communities/\nAnthropic S-1 https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\nMatAnyone-E https://shuyun-wang.github.io/projects/MatAnyone-E/\nOpen-H3-Regenerate-2K https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/\nStreamVibe https://stream-vibe.github.io/\nMUNDO https://mundo-world-model.github.io/\nGPT-6.1 Terra https://openai.com/index/introducing-gpt-6-1-terra/\nGemini 4 Carbon https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nNVIDIA Nemotron 3.5 Transcribe https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B\nGenie 4 https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\nPhysAg3D https://supra-3d.github.io/PhysAg3D/\nSLEEP https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning\nAudio8 TTS Realistic 0.6B https://edge0-ai.github.io/Audio8_TTS/realistic-0.6b/\nSenseNova 6.8 Code2Video https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video\nOverSeer https://runjiali-rl.github.io/OverSeer/\nNanbeige4.3-33B https://huggingface.co/Nanbeige/Nanbeige4.3-33B\nLFM3 https://www.liquid.ai/blog/lfm3\nApex 35B https://www.apexin.com/apex-35b/\nGroot https://huggingface.co/GrootTeam/models\nClover 35B https://diffuspace.ai/blog/clover-35b/\nSpark-X2.6-1.7B https://huggingface.co/XHToken/Spark-X2.6-1.7B\nSenseNova-Loop 9B https://github.com/OpenSenseNova/SenseNova-Loop\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Hugging Face"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use",
+          "Canvas"
+        ],
+        "models": [
+          "Claude Opus",
+          "Claude Sonnet",
+          "Gemini",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 54222,
+      "folder": "2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo"
+    },
     {
       "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
       "video_id": "EfyQOAJjx1A",
