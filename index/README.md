@@ -75,8 +75,8 @@ Index of 102 episodes across 88 topics.
 - [Stripe](stripe.md) (2 episodes)
 - [Haiku](haiku.md) (2 episodes)
 - [Tesla](tesla.md) (1 episodes)
-- [Case Study](case-study.md) (1 episodes)
 - [Elevenlabs](elevenlabs.md) (1 episodes)
+- [Case Study](case-study.md) (1 episodes)
 - [Cohere](cohere.md) (1 episodes)
 - [Gpt 4](gpt-4.md) (1 episodes)
 - [Jan](jan.md) (1 episodes)
@@ -89,8 +89,8 @@ Index of 102 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
-- [Bolt](bolt.md) (1 episodes)
 - [O3](o3.md) (1 episodes)
+- [Bolt](bolt.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
