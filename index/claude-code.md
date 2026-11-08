@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (22 episodes):
+Episodes discussing **Claude Code** (23 episodes):
 
+- [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [Claude Opus 5.5 is ridiculous](../episodes/2026-09-24-claude-opus-55-is-ridiculous/transcript.md) (2026-09-24)
 - [Claude Fable 5.1 is savage](../episodes/2026-09-03-claude-fable-51-is-savage/transcript.md) (2026-09-03)
 - [New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS](../episodes/2026-08-16-new-deepseek-glm-53-grok-46-ltx-25-qwen-38-gemini-37-ai-news/transcript.md) (2026-08-16)

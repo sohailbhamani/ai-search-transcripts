@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (53 episodes):
+Episodes discussing **Ai Agents** (54 episodes):
 
+- [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)

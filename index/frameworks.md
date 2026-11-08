@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (99 episodes):
+Episodes discussing **Frameworks** (100 episodes):
 
+- [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)
 - [Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS](../episodes/2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n/transcript.md) (2026-10-25)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)

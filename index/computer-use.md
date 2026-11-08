@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (16 episodes):
+Episodes discussing **Computer Use** (17 episodes):
 
+- [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)
 - [Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS](../episodes/2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n/transcript.md) (2026-10-25)
 - [New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS](../episodes/2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct/transcript.md) (2026-10-11)
