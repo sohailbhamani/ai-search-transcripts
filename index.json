@@ -1,10 +1,62 @@
 {
-  "total_videos": 103,
+  "total_videos": 104,
   "date_range": {
-    "newest": "2026-11-08",
+    "newest": "2026-11-11",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Claude Fable 5.2 is a freak",
+      "video_id": "S7lpCyZSdJQ",
+      "youtube_url": "https://www.youtube.com/watch?v=S7lpCyZSdJQ",
+      "publish_date": "2026-11-11",
+      "duration": "32:46",
+      "duration_seconds": 1966,
+      "view_count": 148581,
+      "author": "AI Search",
+      "description": "Claude Fable 5.2 review. #ai #aitools #ainews #llm #singularity #agi Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-GjEKsU\n\nhttps://www.anthropic.com/claude-fable-and-mythos-5-2\n\n00:00 Claude Fable 5.2 intro\n00:23 Claude Code\n00:54 Animation video\n04:41 Live piano performance\n06:46 Full song production\n13:07 Real estate VR\n15:49 Higgsfield x Fable 5.2\n17:04 Unreal video game \n19:52 Physics understanding\n21:05 FINDING THE FROG\n22:18 Identifying cancer\n23:17 Deep research\n24:17 Ideation\n25:15 Specs and nerfing\n26:18 Fable 5.2 breakthroughs\n28:00 Fable 5.2 benchmarks\n31:00 Usage\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Adobe",
+          "YouTube",
+          "Airbnb"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "DeepSeek",
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "You can generate stunning images, videos, animations, and even voiceovers, all without leaving your claude chat"
+      ],
+      "summary": [
+        "They just dropped their latest and best model, Claude Fable 5"
+      ],
+      "transcript_chars": 30858,
+      "folder": "2026-11-11-claude-fable-52-is-a-freak"
+    },
     {
       "title": "Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS",
       "video_id": "9RIK3A24ZxA",
