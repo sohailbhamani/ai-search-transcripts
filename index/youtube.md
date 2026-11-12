@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (91 episodes):
+Episodes discussing **Youtube** (92 episodes):
 
+- [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS](../episodes/2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n/transcript.md) (2026-10-25)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)

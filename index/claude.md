@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (65 episodes):
+Episodes discussing **Claude** (66 episodes):
 
+- [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)

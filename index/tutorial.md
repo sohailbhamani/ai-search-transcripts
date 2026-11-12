@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (40 episodes):
+Episodes discussing **Tutorial** (41 episodes):
 
+- [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
 - [The AI unlock has begun](../episodes/2026-10-06-the-ai-unlock-has-begun/transcript.md) (2026-10-06)

@@ -1,10 +1,51 @@
 {
-  "total_videos": 104,
+  "total_videos": 105,
   "date_range": {
-    "newest": "2026-11-11",
+    "newest": "2026-11-12",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "New top local AI image editor is here!",
+      "video_id": "Er0740eVIEw",
+      "youtube_url": "https://www.youtube.com/watch?v=Er0740eVIEw",
+      "publish_date": "2026-11-12",
+      "duration": "20:28",
+      "duration_seconds": 1228,
+      "view_count": 82944,
+      "author": "AI Search",
+      "description": "Minimax H3 Image review & tutorial. How to use Minimax image in ComfyUI. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-gZKvHd\n\n#ai #aitools #aiart #imagegenerator #agi #ainews \n\nTry Minimax online: https://hailuoai.video/\nModels to download: https://huggingface.co/Comfy-Org/MiniMax-H3-Image/tree/main\nT2i workflow https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_minimax_h3_image_t2i.json\nEdit workflow https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_minimax_h3_image_edit.json\nGGUFs https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF/tree/main\n\nAlso see\nComfyUI tutorial: https://youtu.be/g74Cq9Ip2ik\nMOSS image tutorial: https://youtu.be/cUeZMUGCxrw \nKrea2 tutorial: https://x.com/aisearchio/status/2075660074308313598\nIdeogram4 tutorial: https://youtu.be/OA4gchz1Zcs\nFlux Klein tutorial: https://youtu.be/2OrOufa3eoc\n\n0:00 Minimax H3 Image intro\n0:36 Minimax image specs\n1:40 Minimax vs Qwen Image\n3:33 Minimax vs Krea 2\n5:40 How to install Minimax\n9:03 Higgsfield Seedance 4K\n10:12 Text to image workflow\n12:20 Edit workflow\n14:38 Reference inputs\n16:32 For low vram\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Now, previously they released by far the best open video model out there"
+      ],
+      "transcript_chars": 21518,
+      "folder": "2026-11-12-new-top-local-ai-image-editor-is-here"
+    },
     {
       "title": "Claude Fable 5.2 is a freak",
       "video_id": "S7lpCyZSdJQ",

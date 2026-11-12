@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (24 episodes):
+Episodes discussing **Leadership** (25 episodes):
 
+- [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
