@@ -4,14 +4,14 @@ Index of 105 episodes across 88 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (102 episodes)
 - [Make](make.md) (102 episodes)
+- [Frameworks](frameworks.md) (102 episodes)
 - [Youtube](youtube.md) (92 episodes)
 - [Tutorials](tutorials.md) (86 episodes)
 - [Prompting](prompting.md) (84 episodes)
 - [Ai News](ai-news.md) (81 episodes)
-- [Gemini](gemini.md) (74 episodes)
 - [Coding](coding.md) (74 episodes)
+- [Gemini](gemini.md) (74 episodes)
 - [Github](github.md) (71 episodes)
 - [Claude](claude.md) (66 episodes)
 - [Google](google.md) (64 episodes)
@@ -33,8 +33,8 @@ Index of 105 episodes across 88 topics.
 - [Box](box.md) (31 episodes)
 - [Projects](projects.md) (27 episodes)
 - [Leadership](leadership.md) (25 episodes)
-- [Chatgpt](chatgpt.md) (23 episodes)
 - [Microsoft](microsoft.md) (23 episodes)
+- [Chatgpt](chatgpt.md) (23 episodes)
 - [Claude Code](claude-code.md) (23 episodes)
 - [Mcp](mcp.md) (22 episodes)
 - [Apple](apple.md) (20 episodes)
@@ -89,8 +89,8 @@ Index of 105 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
-- [Bolt](bolt.md) (1 episodes)
 - [O3](o3.md) (1 episodes)
+- [Bolt](bolt.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
