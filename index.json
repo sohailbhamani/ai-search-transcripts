@@ -1,10 +1,71 @@
 {
-  "total_videos": 105,
+  "total_videos": 106,
   "date_range": {
-    "newest": "2026-11-12",
+    "newest": "2026-11-15",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS",
+      "video_id": "woWo80dPkVk",
+      "youtube_url": "https://www.youtube.com/watch?v=woWo80dPkVk",
+      "publish_date": "2026-11-15",
+      "duration": "45:52",
+      "duration_seconds": 2752,
+      "view_count": 88913,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Gemini 4 Carbon review, Gemini Hydrogen, Muse Ember, Ernie 5.5. Thanks to our sponsor BytePlus Seedream 5.5. Try it today! Try it today! https://www.byteplus.com/en/contact-us/seedream5-5\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\n00:00 AI news intro\n01:03 Budget3D\n02:18 Reshoot 4D\n03:15 SplatAnything\n04:21 Open-H3-Regenerate-2K IC\n05:13 Gemini 4 Carbon review\n12:39 THE MOST IMPORTANT PART\n17:08 Seedream 5.5 \n18:55 Gemini 4 Hydrogen\n20:10 Haru 4B\n22:03 Fish Audio Live 3\n23:35 ZONOS3-Mini\n25:33 Sophon-Realtime\n27:21 MiniMax H3 Image\n28:02 LingBot-Touch\n29:19 Flash ALOHA\n30:41 ACE Music v1\n34:07 MPEG-Diffusion\n35:25 Muse Ember\n36:24 ERNIE 5.5 Flash\n37:15 Gemini Decision\n38:10 NovaAtom-Lite\n39:33 AlphaGenome 2\n41:04 Iris-Z\n42:21 PAN 2\n43:19 pi-H3\n44:17 PixVid\n\nBudget3D https://budgetany.github.io/budget3d/\nReshoot 4D https://itsmetamike.github.io/reshoot-4d/\nSplatAnything https://zju3dv.github.io/SplatAnything/\nOpen-H3-Regenerate-2K IC https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/\nGemini 4 Carbon https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\nFable 5.2 review https://youtu.be/S7lpCyZSdJQ \nSeedream 5.5 byteplus.com/en/contact-us/seedream5-5 \nGemini 4 Hydrogen https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\nHaru 4B https://www.higurashi.ai/haru4b/\nFish Audio Live 3 https://fish.audio/live3/\nZONOS3-Mini https://www.zyphra.com/our-work/zonos3-mini?from=%2Fmodels%2Fzonos3-mini\nSophon-Realtime https://github.com/adventists-ai/sophon-realtime\nMiniMax Image tutorial https://youtu.be/Er0740eVIEw\nLingBot-Touch https://technology.robbyant.com/lingbot-touch\nFlash ALOHA https://johnyao93.github.io/flash-aloha/\nACE Music v1 https://acemusic.ai/acemusic-v1/\nMPEG-Diffusion https://dennismenn.github.io/mpeg-diffusion/\nMuse Ember https://dev.meta.ai/models/muse-ember\nERNIE 5.5 Flash Preview https://ernie.baidu.com/release/ernie-5-5-flash-preview/\nGemini Decisions API https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\nNovaAtom-Lite https://www.geodesiclab.com/news/introducing-novaatom-lite\nAlphaGenome 2 https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\nIris-Z https://speridlabs.com/research/iris-z\nPAN 2 https://huggingface.co/IFM/PAN2\npi-H3 https://hanshengchen.com/blog/pi-h3/\nPixVid https://chenshuo20.github.io/PixVid/\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "DeepMind",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Sora",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "DeepSeek",
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "You can take individual elements and reuse them in other designs without having to manually cut everything out"
+      ],
+      "summary": [
+        "# Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5"
+      ],
+      "transcript_chars": 44461,
+      "folder": "2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai"
+    },
     {
       "title": "New top local AI image editor is here!",
       "video_id": "Er0740eVIEw",
