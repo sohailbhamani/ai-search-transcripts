@@ -4,8 +4,8 @@ Index of 106 episodes across 88 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (103 episodes)
 - [Make](make.md) (103 episodes)
+- [Frameworks](frameworks.md) (103 episodes)
 - [Youtube](youtube.md) (93 episodes)
 - [Tutorials](tutorials.md) (87 episodes)
 - [Prompting](prompting.md) (84 episodes)
@@ -51,8 +51,8 @@ Index of 106 episodes across 88 topics.
 - [Career](career.md) (13 episodes)
 - [Deep Dives](deep-dives.md) (12 episodes)
 - [Sonnet](sonnet.md) (12 episodes)
-- [Runway](runway.md) (10 episodes)
 - [Sora](sora.md) (10 episodes)
+- [Runway](runway.md) (10 episodes)
 - [Stable Diffusion](stable-diffusion.md) (9 episodes)
 - [Atlas](atlas.md) (6 episodes)
 - [Adobe](adobe.md) (6 episodes)
@@ -89,8 +89,8 @@ Index of 106 episodes across 88 topics.
 - [Notion Ai](notion-ai.md) (1 episodes)
 - [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
-- [O3](o3.md) (1 episodes)
 - [Bolt](bolt.md) (1 episodes)
+- [O3](o3.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
