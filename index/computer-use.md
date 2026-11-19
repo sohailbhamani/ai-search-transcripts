@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (18 episodes):
+Episodes discussing **Computer Use** (19 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)
 - [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)

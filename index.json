@@ -1,10 +1,61 @@
 {
-  "total_videos": 106,
+  "total_videos": 107,
   "date_range": {
-    "newest": "2026-11-15",
+    "newest": "2026-11-19",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "GPT 6.2 Astra is out!",
+      "video_id": "rYsIpPP6QY4",
+      "youtube_url": "https://www.youtube.com/watch?v=rYsIpPP6QY4",
+      "publish_date": "2026-11-19",
+      "duration": "25:39",
+      "duration_seconds": 1539,
+      "view_count": 103591,
+      "author": "AI Search",
+      "description": "GPT 6.2 Astra review. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/s/theaisearch-xLXjAo\n\nAlso see:\nGemini Carbon review https://youtu.be/woWo80dPkVk\nFable 5.2 review https://youtu.be/S7lpCyZSdJQ\nOpus 5.5 review https://youtu.be/gX0L0aFA2xg\n\n0:00 GPT 6.2 Astra intro\n0:50 Educational animation\n3:44 Piano duel\n6:01 3D characters and game\n9:08 Music composition\n12:28 Higgsfield x GPT 6.2 Astra\n13:28 Blender VR \n15:40 Physics understanding\n16:35 FINDING THE FROG\n17:12 Identifying cancer\n17:55 Deep research\n18:56 New ideas\n20:05 Specs cost benchmarks\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "X",
+          "YouTube",
+          "Airbnb",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Arc",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "So, in this video, I'm going to test the hell out of it with a series of really tricky prompts so you can see what it can and cannot do"
+      ],
+      "transcript_chars": 24987,
+      "folder": "2026-11-19-gpt-62-astra-is-out"
+    },
     {
       "title": "Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS",
       "video_id": "woWo80dPkVk",

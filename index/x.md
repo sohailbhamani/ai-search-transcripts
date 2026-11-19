@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (33 episodes):
+Episodes discussing **X** (34 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)
 - [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
 - [Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS](../episodes/2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n/transcript.md) (2026-10-25)

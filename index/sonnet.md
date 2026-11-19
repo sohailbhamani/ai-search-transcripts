@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (12 episodes):
+Episodes discussing **Sonnet** (13 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS](../episodes/2026-11-01-ai-finally-sleeps-gemini-4-carbon-eth-cracked-energy-based-models-anthropic-ipo/transcript.md) (2026-11-01)
 - [New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS](../episodes/2026-10-11-new-ai-enzymes-700-math-breakthroughs-ai-for-dna-mutations-room-temp-semiconduct/transcript.md) (2026-10-11)

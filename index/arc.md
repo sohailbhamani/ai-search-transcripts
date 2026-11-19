@@ -1,7 +1,8 @@
 # Arc
 
-Episodes discussing **Arc** (17 episodes):
+Episodes discussing **Arc** (18 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS](../episodes/2026-10-18-quantum-breakthrough-gemini-4-argon-moss-image-kling-4-openai-spy-muse-wonder-ai/transcript.md) (2026-10-18)
 - [Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS](../episodes/2026-09-27-waifus-incoming-gpt-6-sol-grok-47-opus-55-mimo-26-step-5-openmuse-ai-news/transcript.md) (2026-09-27)

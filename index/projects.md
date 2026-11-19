@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (28 episodes):
+Episodes discussing **Projects** (29 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS](../episodes/2026-10-25-cybersecurity-chaos-ai-for-dna-kimi-k31-claude-duet-dessa-fibo-2-minimax-31-ai-n/transcript.md) (2026-10-25)

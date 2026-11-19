@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (41 episodes):
+Episodes discussing **Tutorial** (42 episodes):
 
+- [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [New top local AI image generator is here!](../episodes/2026-10-20-new-top-local-ai-image-generator-is-here/transcript.md) (2026-10-20)
