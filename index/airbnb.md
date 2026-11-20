@@ -1,7 +1,8 @@
 # Airbnb
 
-Episodes discussing **Airbnb** (5 episodes):
+Episodes discussing **Airbnb** (6 episodes):
 
+- [Gemini 4 Neon is ON FIRE!](../episodes/2026-11-20-gemini-4-neon-is-on-fire/transcript.md) (2026-11-20)
 - [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Claude Fable 5.2 is a freak](../episodes/2026-11-11-claude-fable-52-is-a-freak/transcript.md) (2026-11-11)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)

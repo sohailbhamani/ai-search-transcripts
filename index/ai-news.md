@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (82 episodes):
+Episodes discussing **Ai News** (83 episodes):
 
+- [Gemini 4 Neon is ON FIRE!](../episodes/2026-11-20-gemini-4-neon-is-on-fire/transcript.md) (2026-11-20)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)
 - [New top local AI image editor is here!](../episodes/2026-11-12-new-top-local-ai-image-editor-is-here/transcript.md) (2026-11-12)
 - [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
