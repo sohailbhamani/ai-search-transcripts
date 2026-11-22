@@ -1,10 +1,64 @@
 {
-  "total_videos": 108,
+  "total_videos": 109,
   "date_range": {
-    "newest": "2026-11-20",
+    "newest": "2026-11-22",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
+      "video_id": "bj3JTd-ezYg",
+      "youtube_url": "https://www.youtube.com/watch?v=bj3JTd-ezYg",
+      "publish_date": "2026-11-22",
+      "duration": "34:28",
+      "duration_seconds": 2068,
+      "view_count": 122333,
+      "author": "AI Search",
+      "description": "HUGE AI NEWS: Riemann hypothesis & Navier Stokes solved, Gemini 4 Neon, LongCat Avatar, GPT 6.2, Kling 4 Image, SenseNova Loop & more.Thanks to our sponsor Luma. Try it for free https://lumalabs.ai/aisearch-nov\n\n#ai #ainews #aitools #aivideo #agi #singularity \n\n00:00 AI news intro\n00:55 LongCat-Video-Avatar 1.6\n02:13 FAB\n04:01 Depth Pro 2\n05:21 FastFrames\n06:23 MovieRoll\n07:39 OpenVisionBanana\n08:40 Riemann hypothesis\n12:04 Navier Stokes\n14:09 Luma\n15:24 Voice Isolator\n16:41 Jeveration\n17:51 Duo\n19:23 Gamer\n20:31 ReDiverse\n21:34 MAVE\n22:51 Bria RMBG 3.0\n23:50 Dreamverse Harness\n24:54 Ideogram 4.6\n25:37 Kling Image 4\n26:46 GPT 6.2\n27:13 Gemini 4 Neon\n27:40 HY4 Flash\n28:54 SenseNova Loop 9B\n29:57 Maxwell V1 Flash\n30:55 WeMM-Video\n31:55 Sage S2.1 Flash\n33:03 Physical Agent\n\nLINKS\nLongCat-Video-Avatar 1.6 https://meigen-ai.github.io/LongCat-Video-Avatar-1.6-Page/\nFAB https://www.jinkuncao.com/FAB/\nDepth Pro 2 https://apple-aiml-research.github.io/ml-depth-pro-2/\nFastFrames https://apple-aiml-research.github.io/ml-fastframes/\nMovieRoll https://tencent-hunyuan.github.io/MovieRoll/\nOpenVisionBanana https://openvisionbanana.github.io/\nRiemann hypothesis https://alpo.ge/remark.pdf\nNavier\u2013Stokes https://github.com/tristanbuckmaster/navier-stokes/\nVoice Isolator https://inworld.ai/open-source#voice-isolator\nJeveration https://carol-lyh.github.io/Jeveration/\nDuo https://duo-v1.github.io/\nGamer https://mihoyo-gamer.github.io/\nReDiverse https://rediverse-distillation.github.io/rediverse-distillation/\nMAVE https://yfchang-cv.github.io/MAVE/\nBria RMBG 3.0 https://huggingface.co/briaai/RMBG-3.0\nDreamverse Harness https://haoailab.com/blogs/dreamverse-harness/\nIdeogram 4.6 https://ideogram.ai/models/4.6/\nKling Image 4 https://kling.ai/release-note/release-notes/Kling_Image_4\nHY4 Flash https://hy.tencent.ai/research/hy4-flash\nSenseNova Loop 9B https://www.sensetime.com/en/news/sensenova-loop-9b-release-20261118-1435\nMaxwell V1 Flash https://huggingface.co/maxwell-model/Maxwell-V1-Flash\nWeMM-Video https://github.com/Tencent/WeMM-Video\nSage S2.1 Flash https://internlm.github.io/Sage-S2.1-Flash/\nPhysical Agent https://physical-agent-project.github.io/\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "GitHub",
+          "Hugging Face",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Stable Diffusion",
+          "Hugging Face",
+          "Make",
+          "Nano Banana",
+          "Canvas"
+        ],
+        "models": [
+          "Gemini",
+          "CLIP",
+          "Stable Diffusion",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS\nAI never sleeps and this week has been absolutely insane"
+      ],
+      "transcript_chars": 35996,
+      "folder": "2026-11-22-riemann-solved-unforced-navier-stokes-realtime-waifus-new-gpt-gemini-neon-ai-new"
+    },
     {
       "title": "Gemini 4 Neon is ON FIRE!",
       "video_id": "3FE-hBh1rsY",
