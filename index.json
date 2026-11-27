@@ -1,10 +1,59 @@
 {
-  "total_videos": 109,
+  "total_videos": 110,
   "date_range": {
-    "newest": "2026-11-22",
+    "newest": "2026-11-27",
     "oldest": "2025-12-28"
   },
   "videos": [
+    {
+      "title": "Google cracks recursive self improvement",
+      "video_id": "YOsQULgqgNA",
+      "youtube_url": "https://www.youtube.com/watch?v=YOsQULgqgNA",
+      "publish_date": "2026-11-27",
+      "duration": "14:20",
+      "duration_seconds": 860,
+      "view_count": 168187,
+      "author": "AI Search",
+      "description": "Google\u2019s new breakthrough on continual recursive self improvement. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/EFXMKG \n\n#ai #aitools #agi #singularity #llm\n\n00:00 Continual RSI\n00:51 What\u2019s a harness\n02:08 RSI of the harness\n03:48 Self improvement memory\n04:50 Ablation experiment\n06:09 Higgsfield GPU harness\n07:29 SIM vs no SIM\n10:30 Why this matters\n11:42 Unified harness\n13:03 Harness vs AI model\n\n\nSee my X for more AI updates: https://x.com/aisearchio\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nLenovo Thinkbook: https://amzn.to/4jWeKwH\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "DeepMind",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Google cracks recursive self improvement\nNo waifuss in this video, but Google DeepMind dropped a very interesting paper recently involving what they call continual recursive self-improvement"
+      ],
+      "transcript_chars": 15154,
+      "folder": "2026-11-27-google-cracks-recursive-self-improvement"
+    },
     {
       "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
       "video_id": "bj3JTd-ezYg",

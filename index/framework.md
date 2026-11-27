@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (15 episodes):
+Episodes discussing **Framework** (16 episodes):
 
+- [Google cracks recursive self improvement](../episodes/2026-11-27-google-cracks-recursive-self-improvement/transcript.md) (2026-11-27)
 - [Deepseek strikes again](../episodes/2026-10-23-deepseek-strikes-again/transcript.md) (2026-10-23)
 - [OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS](../episodes/2026-09-20-openai-hacked-jev-googles-rsi-qwen-38-omni-bonsai-2-new-gemini-live-ai-news/transcript.md) (2026-09-20)
 - [New BEST AI image generator is here](../episodes/2026-09-10-new-best-ai-image-generator-is-here/transcript.md) (2026-09-10)

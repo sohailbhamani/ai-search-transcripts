@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (56 episodes):
+Episodes discussing **Opus** (57 episodes):
 
+- [Google cracks recursive self improvement](../episodes/2026-11-27-google-cracks-recursive-self-improvement/transcript.md) (2026-11-27)
 - [Gemini 4 Neon is ON FIRE!](../episodes/2026-11-20-gemini-4-neon-is-on-fire/transcript.md) (2026-11-20)
 - [GPT 6.2 Astra is out!](../episodes/2026-11-19-gpt-62-astra-is-out/transcript.md) (2026-11-19)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)

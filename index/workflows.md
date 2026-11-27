@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (40 episodes):
+Episodes discussing **Workflows** (41 episodes):
 
+- [Google cracks recursive self improvement](../episodes/2026-11-27-google-cracks-recursive-self-improvement/transcript.md) (2026-11-27)
 - [Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS](../episodes/2026-11-22-riemann-solved-unforced-navier-stokes-realtime-waifus-new-gpt-gemini-neon-ai-new/transcript.md) (2026-11-22)
 - [Gemini 4 Carbon, Alpha Genome 2, realtime voices, new TTS, ACE Music, Seedream 5.5: AI NEWS](../episodes/2026-11-15-gemini-4-carbon-alpha-genome-2-realtime-voices-new-tts-ace-music-seedream-55-ai/transcript.md) (2026-11-15)
 - [Weight space programming, science agents, 3D generators, new Gemini Omni, new GPT Image: AI NEWS](../episodes/2026-11-08-weight-space-programming-science-agents-3d-generators-new-gemini-omni-new-gpt-im/transcript.md) (2026-11-08)
