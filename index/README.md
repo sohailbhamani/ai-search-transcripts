@@ -4,20 +4,20 @@ Index of 110 episodes across 88 topics.
 
 ## Topics
 
-- [Make](make.md) (107 episodes)
 - [Frameworks](frameworks.md) (107 episodes)
+- [Make](make.md) (107 episodes)
 - [Youtube](youtube.md) (97 episodes)
 - [Tutorials](tutorials.md) (91 episodes)
 - [Prompting](prompting.md) (86 episodes)
 - [Ai News](ai-news.md) (84 episodes)
-- [Coding](coding.md) (79 episodes)
 - [Gemini](gemini.md) (79 episodes)
+- [Coding](coding.md) (79 episodes)
 - [Github](github.md) (73 episodes)
 - [Claude](claude.md) (71 episodes)
 - [Google](google.md) (69 episodes)
 - [Nvidia](nvidia.md) (60 episodes)
-- [Ai Tools](ai-tools.md) (57 episodes)
 - [Ai Agents](ai-agents.md) (57 episodes)
+- [Ai Tools](ai-tools.md) (57 episodes)
 - [Opus](opus.md) (57 episodes)
 - [Hugging Face](hugging-face.md) (56 episodes)
 - [Openai](openai.md) (50 episodes)
@@ -87,10 +87,10 @@ Index of 110 episodes across 88 topics.
 - [Midjourney](midjourney.md) (1 episodes)
 - [Ibm](ibm.md) (1 episodes)
 - [Notion Ai](notion-ai.md) (1 episodes)
-- [Netflix](netflix.md) (1 episodes)
 - [Openai Api](openai-api.md) (1 episodes)
-- [O3](o3.md) (1 episodes)
+- [Netflix](netflix.md) (1 episodes)
 - [Bolt](bolt.md) (1 episodes)
+- [O3](o3.md) (1 episodes)
 - [Aws](aws.md) (1 episodes)
 
 ## Search
